@@ -1,0 +1,100 @@
+This is my book.	Este es mi libro.
+What is your name?	¿Cuál es tu nombre?
+His car is red.	Su coche es rojo.
+Her dress is beautiful.	Su vestido es hermoso.
+The dog wagged its tail.	El perro movió su cola.
+Our house is big.	Nuestra casa es grande.
+What are your plans?	¿Cuáles son sus planes?
+Their children are playing outside.	Sus hijos están jugando afuera.
+I like my new shoes.	Me gustan mis zapatos nuevos.
+Can I borrow your pen?	¿Puedo tomar prestado tu bolígrafo?
+His job is very interesting.	Su trabajo es muy interesante.
+Her favorite color is blue.	Su color favorito es el azul.
+The company announced its profits.	La compañía anunció sus ganancias.
+Our vacation was amazing.	Nuestras vacaciones fueron increíbles.
+Please check your email.	Por favor, revisen su correo electrónico.
+Their team won the game.	Su equipo ganó el partido.
+I forgot my keys.	Olvidé mis llaves.
+Is this your umbrella?	¿Es este tu paraguas?
+His birthday is next week.	Su cumpleaños es la próxima semana.
+Her smile is contagious.	Su sonrisa es contagiosa.
+The cat cleaned its paws.	El gato limpió sus patas.
+Our garden is full of flowers.	Nuestro jardín está lleno de flores.
+What is your opinion?	¿Cuál es su opinión?
+Their decision was surprising.	Su decisión fue sorprendente.
+I need my glasses to read.	Necesito mis gafas para leer.
+Show me your ticket.	Muéstrame tu boleto.
+His house is near the park.	Su casa está cerca del parque.
+Her voice is very soothing.	Su voz es muy relajante.
+The bird built its nest in the tree.	El pájaro construyó su nido en el árbol.
+Our school is having a fair.	Nuestra escuela tendrá una feria.
+Did you bring your lunch?	¿Trajeron su almuerzo?
+Their dog is very friendly.	Su perro es muy amigable.
+I can't find my phone.	No puedo encontrar mi teléfono.
+What is your favorite song?	¿Cuál es tu canción favorita?
+His favorite sport is soccer.	Su deporte favorito es el fútbol.
+Her hair is very long.	Su cabello es muy largo.
+The car needs its oil changed.	El coche necesita que le cambien el aceite.
+Our neighbors are very kind.	Nuestros vecinos son muy amables.
+Please write down your address.	Por favor, escriban su dirección.
+Their culture is very interesting.	Su cultura es muy interesante.
+I love my family.	Amo a mi familia.
+What are your hobbies?	¿Cuáles son tus pasatiempos?
+His shoes are very expensive.	Sus zapatos son muy caros.
+Her eyes are so bright.	Sus ojos son tan brillantes.
+The city celebrated its anniversary.	La ciudad celebró su aniversario.
+Our city has a great museum.	Nuestra ciudad tiene un gran museo.
+Have you finished your homework?	¿Han terminado su tarea?
+Their traditions are very old.	Sus tradiciones son muy antiguas.
+I need my medicine.	Necesito mi medicina.
+Can you show me your ID?	¿Puede mostrarme su identificación?
+His opinion is very valuable.	Su opinión es muy valiosa.
+Her advice was very helpful.	Su consejo fue muy útil.
+The computer needs its software updated.	La computadora necesita que se actualice su software.
+Our planet needs our help.	Nuestro planeta necesita nuestra ayuda.
+Please fasten your seatbelts.	Por favor, abróchense sus cinturones.
+Their language is difficult to learn.	Su idioma es difícil de aprender.
+I enjoy my free time.	Disfruto de mi tiempo libre.
+What is your favorite movie?	¿Cuál es tu película favorita?
+His knowledge is impressive.	Su conocimiento es impresionante.
+Her kindness is appreciated.	Su amabilidad es apreciada.
+The plant needs its water.	La planta necesita su agua.
+Our team worked very hard.	Nuestro equipo trabajó muy duro.
+Did you remember your passport?	¿Recordaron su pasaporte?
+Their art is very creative.	Su arte es muy creativo.
+I like the color of my shirt.	Me gusta el color de mi camisa.
+What is your email address?	¿Cuál es tu dirección de correo electrónico?
+His presentation was excellent.	Su presentación fue excelente.
+Her cooking is delicious.	Su cocina es deliciosa.
+The phone lost its signal.	El teléfono perdió su señal.
+Our project is almost finished.	Nuestro proyecto casi termina.
+Please review your notes.	Por favor, revisen sus notas.
+Their music is very catchy.	Su música es muy pegadiza.
+I need to charge my laptop.	Necesito cargar mi computadora portátil.
+What is your phone number?	¿Cuál es tu número de teléfono?
+His explanation was clear.	Su explicación fue clara.
+Her dedication is inspiring.	Su dedicación es inspiradora.
+The website updated its design.	El sitio web actualizó su diseño.
+Our company is growing.	Nuestra compañía está creciendo.
+Did you bring your camera?	¿Trajeron su cámara?
+Their enthusiasm is contagious.	Su entusiasmo es contagioso.
+I enjoy spending time with my friends.	Disfruto pasar tiempo con mis amigos.
+What is your favorite book?	¿Cuál es tu libro favorito?
+His memory is very sharp.	Su memoria es muy aguda.
+Her creativity is amazing.	Su creatividad es asombrosa.
+The organization achieved its goals.	La organización logró sus objetivos.
+Our community is very supportive.	Nuestra comunidad es muy solidaria.
+Please confirm your reservation.	Por favor, confirmen su reservación.
+Their generosity is remarkable.	Su generosidad es notable.
+I need to organize my files.	Necesito organizar mis archivos.
+What is your opinion on this?	¿Cuál es tu opinión sobre esto?
+His attention to detail is excellent.	Su atención al detalle es excelente.
+Her understanding is impressive.	Su comprensión es impresionante.
+The government announced its new policy.	El gobierno anunció su nueva política.
+Our future looks bright.	Nuestro futuro parece brillante.
+Did you check your messages?	¿Revisaron sus mensajes?
+Their commitment is strong.	Su compromiso es fuerte.
+I need to water my plants.	Necesito regar mis plantas.
+What is your favorite subject?	¿Cuál es tu materia favorita?
+His dedication to his work is clear.	Su dedicación a su trabajo es clara.
+Her passion is inspiring to others.	Su pasión inspira a otros.

@@ -1,0 +1,155 @@
+Someone/Somebody (Alguien)			
+Someone is at the door.	Alguien está en la puerta.	Someone	Alguien
+I think someone is calling you.	Creo que alguien te está llamando.	Someone	Alguien
+Somebody left their umbrella.	Alguien olvidó su paraguas.	Somebody	Alguien
+We need someone to help us.	Necesitamos a alguien que nos ayude.	Someone	Alguien
+Is someone there?	¿Hay alguien ahí?	Someone	Alguien
+Somebody has to know the answer.	Alguien tiene que saber la respuesta.	Somebody	Alguien
+I heard someone laugh.	Escuché a alguien reír.	Someone	Alguien
+Can someone get me a glass of water?	¿Puede alguien traerme un vaso de agua?	Someone	Alguien
+Somebody told me you were looking for me.	Alguien me dijo que me estabas buscando.	Somebody	Alguien
+There's someone waiting for you outside.	Hay alguien esperándote afuera.	Someone	Alguien
+Anyone/Anybody (Cualquiera, Alguien - en preguntas y negaciones)			
+Can anyone hear me?	¿Puede alguien oírme? / ¿Me oye cualquiera?	Anyone	Alguien / Cualquiera
+I don't know anyone here.	No conozco a nadie aquí.	Anyone	Nadie (se usa con negación)
+Is there anybody who can help?	¿Hay alguien que pueda ayudar?	Anybody	Alguien
+She didn't tell anybody her secret.	No le contó a nadie su secreto.	Anybody	Nadie (se usa con negación)
+Anyone can learn to play the guitar.	Cualquiera puede aprender a tocar la guitarra.	Anyone	Cualquiera
+If anybody calls, tell them I'm busy.	Si alguien llama, diles que estoy ocupado.	Anybody	Alguien
+I haven't seen anyone all day.	No he visto a nadie en todo el día.	Anyone	Nadie (se usa con negación)
+Does anybody want more coffee?	¿Alguien quiere más café?	Anybody	Alguien
+You can ask anyone for directions.	Puedes preguntarle a cualquiera por direcciones.	Anyone	Cualquiera
+I forbid anyone to enter this room.	Prohíbo a cualquiera entrar en esta habitación.	Anyone	Cualquiera
+Nobody/No one (Nadie)			
+Nobody knows the answer.	Nadie sabe la respuesta.	Nobody	Nadie
+There was nobody at home.	No había nadie en casa.	Nobody	Nadie
+No one came to the party.	Nadie vino a la fiesta.	No one	Nadie
+Nobody can solve this mystery.	Nadie puede resolver este misterio.	Nobody	Nadie
+I saw nobody I knew.	No vi a nadie que conociera.	Nobody	Nadie
+No one understands me.	Nadie me entiende.	No one	Nadie
+Nobody wants to do the chores.	Nadie quiere hacer las tareas domésticas.	Nobody	Nadie
+She spoke to no one about her plans.	No habló con nadie sobre sus planes.	No one	Nadie
+Nobody is perfect.	Nadie es perfecto.	Nobody	Nadie
+There is no one like you.	No hay nadie como tú.	No one	Nadie
+Everybody/Everyone (Todos/as)			
+Everybody is here.	Todos están aquí.	Everybody	Todos
+Everyone loves chocolate.	A todos les encanta el chocolate.	Everyone	Todos
+Everybody knows that.	Todo el mundo sabe eso.	Everybody	Todo el mundo
+Welcome, everyone!	¡Bienvenidos todos!	Everyone	Todos
+Everybody clapped at the end.	Todos aplaudieron al final.	Everybody	Todos
+Has everyone finished their meal?	¿Han terminado todos de comer?	Everyone	Todos
+Everyone needs a friend.	Todo el mundo necesita un amigo.	Everyone	Todo el mundo
+Everybody was happy with the result.	Todos estaban contentos con el resultado.	Everybody	Todos
+Tell everyone the good news.	Dile a todos la buena noticia.	Everyone	Todos
+Everybody makes mistakes.	Todo el mundo comete errores.	Everybody	Todo el mundo
+Something (Algo)			
+I need something to eat.	Necesito algo de comer.	Something	Algo
+There is something strange about this.	Hay algo extraño en esto.	Something	Algo
+Can I get you something to drink?	¿Puedo traerte algo de beber?	Something	Algo
+She said something interesting.	Dijo algo interesante.	Something	Algo
+I want to tell you something.	Quiero decirte algo.	Something	Algo
+Is there something wrong?	¿Pasa algo malo?	Something	Algo
+He is looking for something.	Él está buscando algo.	Something	Algo
+I bought something for you.	Compré algo para ti.	Something	Algo
+Let's do something fun.	Hagamos algo divertido.	Something	Algo
+I feel like something good is about to happen.	Siento que algo bueno está a punto de suceder.	Something	Algo
+Anything (Cualquier cosa, Algo - en preguntas y negaciones, Nada - con negación)			
+Do you need anything?	¿Necesitas algo? / ¿Necesitas cualquier cosa?	Anything	Algo / Cualquier cosa
+I don't want anything.	No quiero nada.	Anything	Nada (se usa con negación)
+You can choose anything you like.	Puedes elegir cualquier cosa que te guste.	Anything	Cualquier cosa
+Is there anything I can do?	¿Hay algo que pueda hacer?	Anything	Algo
+She didn't say anything.	Ella no dijo nada.	Anything	Nada (se usa con negación)
+He will eat anything.	Él comerá cualquier cosa.	Anything	Cualquier cosa
+I haven't done anything wrong.	No he hecho nada malo.	Anything	Nada (se usa con negación)
+Can I have anything from the menu?	¿Puedo pedir cualquier cosa del menú?	Anything	Cualquier cosa
+Tell me if you find anything.	Avísame si encuentras algo.	Anything	Algo
+There isn't anything better than this.	No hay nada mejor que esto.	Anything	Nada (se usa con negación)
+Nothing (Nada)			
+There is nothing in the box.	No hay nada en la caja.	Nothing	Nada
+I know nothing about it.	No sé nada al respecto.	Nothing	Nada
+She said nothing.	Ella no dijo nada. (O: Nada dijo.)	Nothing	Nada
+Nothing is impossible.	Nada es imposible.	Nothing	Nada
+We have nothing to lose.	No tenemos nada que perder.	Nothing	Nada
+He did nothing all day.	No hizo nada en todo el día.	Nothing	Nada
+There's nothing to worry about.	No hay nada de qué preocuparse.	Nothing	Nada
+Nothing can stop us now.	Nada puede detenernos ahora.	Nothing	Nada
+I want nothing more.	No quiero nada más.	Nothing	Nada
+Nothing lasts forever.	Nada dura para siempre.	Nothing	Nada
+Everything (Todo)			
+Everything is ready.	Todo está listo.	Everything	Todo
+I told him everything.	Le conté todo.	Everything	Todo
+Is everything okay?	¿Está todo bien?	Everything	Todo
+She knows everything about cars.	Ella sabe todo sobre coches.	Everything	Todo
+Everything will be alright.	Todo estará bien.	Everything	Todo
+He lost everything in the fire.	Perdió todo en el incendio.	Everything	Todo
+Take everything you need.	Llévate todo lo que necesites.	Everything	Todo
+Money isn't everything.	El dinero no lo es todo.	Everything	Todo
+I remember everything.	Lo recuerdo todo.	Everything	Todo
+Everything has changed.	Todo ha cambiado.	Everything	Todo
+Somewhere (En algún lugar)			
+My keys must be somewhere around here.	Mis llaves deben estar en algún lugar por aquí.	Somewhere	En algún lugar
+Let's go somewhere nice for dinner.	Vamos a algún lugar agradable para cenar.	Somewhere	Algún lugar
+I've seen your face somewhere before.	He visto tu cara en algún lugar antes.	Somewhere	En algún lugar
+She wants to travel somewhere exotic.	Quiere viajar a algún lugar exótico.	Somewhere	Algún lugar
+We can find a shelter somewhere.	Podemos encontrar un refugio en algún lugar.	Somewhere	En algún lugar
+Anywhere (En cualquier lugar, En algún lugar - en preguntas y negaciones)			
+You can sit anywhere you like.	Puedes sentarte en cualquier lugar que quieras.	Anywhere	En cualquier lugar
+I can't find my phone anywhere.	No encuentro mi teléfono en ningún lugar.	Anywhere	En ningún lugar (con neg.)
+Did you go anywhere interesting on vacation?	¿Fuiste a algún lugar interesante de vacaciones?	Anywhere	Algún lugar
+We didn't go anywhere last night.	No fuimos a ningún sitio anoche.	Anywhere	Ningún sitio (con neg.)
+With this pass, you can go anywhere.	Con este pase, puedes ir a cualquier lugar.	Anywhere	Cualquier lugar
+Nowhere (En ningún lugar)			
+There is nowhere to hide.	No hay ningún lugar donde esconderse.	Nowhere	Ningún lugar
+I have nowhere else to go.	No tengo ningún otro lugar adonde ir.	Nowhere	Ningún lugar
+This road leads nowhere.	Este camino no lleva a ningún lugar.	Nowhere	Ningún lugar
+We found ourselves in the middle of nowhere.	Nos encontramos en medio de la nada.	Nowhere	Ningún lugar (expresión)
+He went nowhere yesterday.	No fue a ningún lugar ayer.	Nowhere	Ningún lugar
+Everywhere (En todas partes)			
+I've looked everywhere for my glasses.	He buscado mis gafas por todas partes.	Everywhere	Todas partes
+People were celebrating everywhere.	La gente celebraba por todas partes.	Everywhere	Todas partes
+There is beauty everywhere.	Hay belleza en todas partes.	Everywhere	Todas partes
+She has friends everywhere.	Tiene amigos en todas partes.	Everywhere	Todas partes
+Dust gets everywhere in this house.	El polvo se mete por todas partes en esta casa.	Everywhere	Todas partes
+Other indefinite pronouns			
+Each (Cada uno/a)			
+Each student received a book.	Cada estudiante recibió un libro.	Each	Cada
+Each of them has a different opinion.	Cada uno de ellos tiene una opinión diferente.	Each	Cada uno
+Either (Cualquiera de los dos)			
+You can choose either of the two options.	Puedes elegir cualquiera de las dos opciones.	Either	Cualquiera de los dos
+I don't like either of them.	No me gusta ninguno de los dos.	Either	Ninguno (con negación)
+Neither (Ninguno de los dos)			
+Neither answer is correct.	Ninguna de las respuestas es correcta.	Neither	Ninguna
+Neither of us wants to go.	Ninguno de nosotros quiere ir.	Neither	Ninguno
+Both (Ambos/as)			
+Both answers are correct.	Ambas respuestas son correctas.	Both	Ambas
+I like both of them.	Me gustan ambos.	Both	Ambos
+Some (Algunos/as, Algo de)			
+Some people prefer tea.	Algunas personas prefieren el té.	Some	Algunas
+I need some sugar.	Necesito algo de azúcar.	Some	Algo de
+Any (Alguno/a, Cualquiera - en preguntas y negaciones, Nada de - con negación)			
+Do you have any questions?	¿Tienes alguna pregunta?	Any	Alguna
+I don't have any money.	No tengo nada de dinero.	Any	Nada de (con negación)
+None (Ninguno/a)			
+None of the guests arrived on time.	Ninguno de los invitados llegó a tiempo.	None	Ninguno
+I wanted some cake, but there was none left.	Quería pastel, pero no quedaba ninguno.	None	Ninguno
+All (Todo/s/as)			
+All the students passed the exam.	Todos los estudiantes aprobaron el examen.	All	Todos
+All is lost.	Todo está perdido.	All	Todo
+Several (Varios/as)			
+Several people complained.	Varias personas se quejaron.	Several	Varias
+I have read several of his books.	He leído varios de sus libros.	Several	Varios
+Many (Muchos/as)			
+Many people think so.	Muchas personas piensan así.	Many	Muchas
+Not many came to the meeting.	No muchos vinieron a la reunión.	Many	Muchos
+Few (Pocos/as)			
+Few people understand this concept.	Pocas personas entienden este concepto.	Few	Pocas
+I have few friends here.	Tengo pocos amigos aquí.	Few	Pocos
+Little (Poco/a - incontable)			
+There is little hope.	Hay poca esperanza.	Little	Poca
+I have little time.	Tengo poco tiempo.	Little	Poco
+Much (Mucho/a - incontable)			
+I don't have much work to do.	No tengo mucho trabajo que hacer.	Much	Mucho
+How much does it cost?	¿Cuánto cuesta?	Much	Cuánto
+One (Uno/a - impersonal)			
+One should always be polite.	Uno siempre debería ser educado.	One	Uno
+One never knows.	Uno nunca sabe.	One	Uno
