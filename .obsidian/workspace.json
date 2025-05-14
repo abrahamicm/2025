@@ -11,14 +11,10 @@
             "id": "8ab6328ae205e9f3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ingles_archive/01-Pronombres/readme.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "readme"
+              "title": "Nueva pestaña"
             }
           }
         ]
