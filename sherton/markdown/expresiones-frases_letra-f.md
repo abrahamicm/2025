@@ -72,7 +72,7 @@
 *   **funny money:** dinero sucio.
     *   *Many officials from the previous administration were charged with passing **funny money**.* (Muchos funcionarios de la administración anterior fueron acusados de pasar dinero sucio.)
 
-**Notas:**
+
 
 *   He eliminado la expresión "forewarned is forearmed" porque no tenía ejemplo y es bastante autoexplicativa.
 *   He puesto las expresiones en negrita en los ejemplos para que sean más fáciles de identificar.

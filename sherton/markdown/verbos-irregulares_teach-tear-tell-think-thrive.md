@@ -1,4 +1,4 @@
-Aquí está el texto reorganizado para que sea más claro y tenga mejor sentido:
+
 
 **Verbos Irregulares del Inglés con Caricaturas y Ejemplos**
 

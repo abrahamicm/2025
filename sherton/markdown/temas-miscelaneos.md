@@ -1,16 +1,5 @@
-Aquí te presento el texto reorganizado y con mayor claridad:
 
 **Título: Aprendizaje de Gramática Inglesa**
-
-**Menú Principal:**
-
-*   **Inicio**
-*   **Pizarrón del Día**
-*   **Noticias**
-*   **Clases**
-*   **eBook**
-*   **Ingresar**
-*   **¡Regístrate gratis!   ¡Regístrate!**
 
 **Temas Esenciales de Gramática Inglesa:**
 

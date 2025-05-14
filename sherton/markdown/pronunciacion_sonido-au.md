@@ -78,7 +78,7 @@ Esta lista presenta palabras en inglés que contienen una pronunciación similar
 *   **Adverbios**
     *   loud - en voz alta
 
-**Notas:**
+
 
 *   La pronunciación de estas palabras puede variar dependiendo del dialecto del inglés.
 *   Esta lista no es exhaustiva, pero incluye ejemplos comunes.

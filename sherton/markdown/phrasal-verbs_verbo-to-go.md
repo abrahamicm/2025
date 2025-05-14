@@ -1,4 +1,3 @@
-Okay, aquí tienes el texto reorganizado para que sea más claro y tenga más sentido, con una estructura más intuitiva y traducciones más fluidas:
 
 **Phrasal Verbs con "Go"**
 

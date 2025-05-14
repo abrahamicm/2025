@@ -1,4 +1,3 @@
-Para que el texto sea más claro, lo voy a organizar en dos secciones:
 
 **1. Explicación de las Expresiones:**
 

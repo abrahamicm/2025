@@ -1,4 +1,3 @@
-Okay, aquí tienes el texto reorganizado para que sea más claro y tenga más sentido. He agrupado cada "phrasal verb" con su definición y ejemplos correspondientes, y he añadido un poco de formato para que sea más fácil de leer.
 
 **Phrasal Verbs con "Give"**
 

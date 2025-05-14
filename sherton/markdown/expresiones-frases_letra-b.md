@@ -57,7 +57,7 @@ Este texto presenta una serie de expresiones idiomáticas en inglés, su signifi
 *   **Brain trust:** Grupo de expertos.
     *   *Ejemplo:* Mr. Jones turns to his **brain trust** when he has to make an important decision. (El Sr. Jones recurre a su **grupo de expertos** cuando tiene que tomar una decisión importante).
 
-**Notas:**
+
 
 *   Las expresiones idiomáticas son específicas de cada idioma y cultura.  Su significado literal a menudo no tiene relación con su significado real.
 *   Aprender estas expresiones ayuda a comprender mejor el inglés hablado y escrito.

@@ -1,4 +1,3 @@
-Aquí te presento el texto reorganizado para que sea más claro y tenga mayor sentido. Lo he convertido en una tabla de doble entrada, facilitando la consulta y comparación entre la palabra en inglés y su traducción en español:
 
 | Inglés       | Español        |
 |--------------|----------------|

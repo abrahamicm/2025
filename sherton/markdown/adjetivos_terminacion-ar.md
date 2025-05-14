@@ -1,7 +1,5 @@
 
 
-**Lista de palabras con significados relacionados:**
-
 *   **angular - angular:**  Se refiere a algo relacionado con ángulos.
 *   **circular - circular:** Con forma de círculo.
 *   **crepuscular - crepuscular:** Relacionado con el crepúsculo (amanecer o atardecer).

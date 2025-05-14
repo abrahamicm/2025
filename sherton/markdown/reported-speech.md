@@ -1,4 +1,3 @@
-Okay, aquí tienes el texto reorganizado para que sea más claro y tenga mejor sentido:
 
 **Sherton English: Reported Speech (Estilo Indirecto)**
 

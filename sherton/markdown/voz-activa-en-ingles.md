@@ -76,7 +76,7 @@ Cada sección presenta el tiempo verbal, una pregunta que define su uso, y ejemp
     *   Make it happen! - Let's make it happen! (¡Haz que suceda! - ¡Hagamos que suceda!)
     *   Work! Let's work! (¡Trabaja! ¡Trabajemos!)
 
-**Notas:**
+
 
 *   "(Voz Activa)" se incluye en el título para especificar el tipo de estructura gramatical que se está abordando.
 *   Se ha organizado cada tiempo verbal con una pregunta para indicar su uso.

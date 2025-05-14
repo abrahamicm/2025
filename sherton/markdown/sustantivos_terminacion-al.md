@@ -73,7 +73,7 @@
 *   **Spiral Espiral:** Curva que se aleja de un centro.
 *   **Trial Juicio:** Proceso judicial.
 
-**Notas:**
+
 
 *   He agrupado palabras con significados relacionados para facilitar la comprensión.
 *   Algunas palabras tienen múltiples significados, así que he incluido ambas opciones.

@@ -1,4 +1,4 @@
-Aquí te presento el texto reorganizado para mayor claridad y sentido, separando las palabras en inglés de su traducción al español:
+
 
 **Verbos con "-ess" en inglés y su significado en español:**
 

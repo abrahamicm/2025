@@ -1,15 +1,4 @@
 
-
-**Menú Principal:**
-
-*   **Inicio**
-*   **Pizarrón del Día** (Posiblemente una sección de contenido destacado o lección diaria)
-*   **Noticias** (Relacionado con el aprendizaje del inglés)
-*   **Clases** (Información sobre clases disponibles)
-*   **eBook** (Acceso al libro electrónico de la guía)
-*   **Ingresar**
-*   **¡Regístrate gratis!   ¡Regístrate!**
-
 **Guía de Pronunciación del Idioma Inglés**
 
 *   **Temas Particulares:**

@@ -1,4 +1,3 @@
-Aquí está el texto reorganizado para que tenga más sentido y sea más claro, agrupando la frase idiomática con su ejemplo:
 
 **Explicaciones y Ejemplos:**
 

@@ -1,4 +1,4 @@
-Aquí hay algunas maneras de organizar el texto para que sea más claro, dependiendo de lo que quieras resaltar:
+
 
 **Opción 1: Lista simple con traducción:**
 

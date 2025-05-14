@@ -126,7 +126,7 @@ Las palabras homófonas son aquellas que se pronuncian igual, pero tienen difere
 
 ---
 
-**Notas:**
+
 
 *   Se ha organizado la lista alfabéticamente para facilitar la búsqueda.
 *   Se ha clarificado las traducciones.

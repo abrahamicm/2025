@@ -1,9 +1,4 @@
 
-
-**Lista de Palabras con Significados:**
-
-Este listado muestra palabras que comparten una estructura similar y sus respectivos significados:
-
 *   **agile** - ágil
 *   **facile** - superficial
 *   **fertile** - fértil

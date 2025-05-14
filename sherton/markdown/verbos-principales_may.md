@@ -51,8 +51,3 @@ El verbo modal 'may' se utiliza para expresar probabilidad, permiso o posibilida
         *   *They may not have known that.* (Puede que ellos no hayan sabido eso.)
         *   *I may have forgotten to lock the door.* (Quizá me haya olvidado de cerrar la puerta con llave.)
 
-**Notas Adicionales:**
-
-*   'May' es más formal que 'might' cuando se refiere a la probabilidad.
-*   En preguntas, 'may' se usa para pedir permiso de manera educada, o para hacer una solicitud muy cortés.
-

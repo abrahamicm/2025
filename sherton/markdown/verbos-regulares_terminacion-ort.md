@@ -1,4 +1,4 @@
-Aquí hay algunas opciones para organizar el texto de manera más clara y significativa, dependiendo de lo que quieras resaltar:
+
 
 **Opción 1: Agrupación por significado (más general):**
 

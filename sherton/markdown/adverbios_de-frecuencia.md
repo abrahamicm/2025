@@ -1,4 +1,3 @@
-Claro, aquí tienes el texto reorganizado para mayor claridad:
 
 **Adverbios de Frecuencia y Periodicidad**
 
@@ -98,7 +97,7 @@ Estos adverbios indican la frecuencia con la que se realiza una acción. Para id
     *   Ejemplo: **Once in a while**, I bake home-made bread. (De vez en cuando, horneo pan casero.)
     *   Ejemplo: Karen cooks dinner herself **every now and then**. (Karen cocina la cena ella misma de vez en cuando.)
 
-**Notas:**
+
 
 *   La pronunciación de "sometimes" es  ˈsʌmtaɪmz .
 *   La pronunciación de "daily" es  ˈdeɪli .

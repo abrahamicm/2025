@@ -1,4 +1,4 @@
-Aquí hay algunas opciones para organizar el texto, haciéndolo más claro y con más sentido. La mejor opción dependerá del propósito:
+
 
 **Opción 1: Agrupación por categoría (más descriptiva)**
 

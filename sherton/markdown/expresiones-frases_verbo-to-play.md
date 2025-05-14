@@ -1,4 +1,3 @@
-Ok, aquí tienes el texto reorganizado para mayor claridad y sentido, separando las expresiones idiomáticas de los ejemplos y agrupándolos lógicamente:
 
 **Expresiones Idiomáticas con "Play" y su Significado:**
 

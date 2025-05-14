@@ -1,4 +1,4 @@
-Aquí hay varias maneras de organizar el texto para que sea más claro y útil, dependiendo del propósito:
+
 
 **Opción 1: Lista alfabética simple (con formato mejorado):**
 

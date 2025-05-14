@@ -14,7 +14,7 @@ Esta página presenta una lista de verbos irregulares comunes en inglés, junto 
 | **to hide** | hide (jáid) | hid (jid) | hidden (jíden) | esconder se | The kid was very scared, so he **hid** under the bed. (El niño estaba muy asustado, entonces se escondió bajo la cama.) The burglar was **hiding** from the police in the basement. (El ladrón se estaba escondiendo de la policía en el sótano.) What have you **hidden** in that box, Sam? (¿Qué has escondido en esa caja, Sam?) |
 | **to hit** | hit (jit) | hit (jit) | hit (jit) | golpear, pegar | That tennis player **hits** the ball very hard. (Ese jugador de tenis golpea la pelota muy fuerte.) Amanda has never **hit** any of her children. (Amanda nunca le ha pegado a ninguno de sus hijos.) The old man **hit** the thief on the head with his walking stick. (El anciano golpeó al ladrón en la cabeza con su bastón.) |
 
-**Notas:**
+
 
 *   La pronunciación entre paréntesis es una guía aproximada.
 *   Los ejemplos muestran el verbo en diferentes contextos para comprender mejor su uso.

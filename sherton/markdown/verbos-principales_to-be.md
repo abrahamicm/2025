@@ -207,12 +207,3 @@ Esta sección presenta el verbo "to be" (ser estar) en diferentes tiempos verbal
 | We       | We would have been studying | We would not have been studying| Would we have been studying?    | Habríamos estado estudiando |
 | You (pl) | You would have been studying | You would not have been studying| Would you have been studying?   | Habríais estado estudiando  |
 | They     | They would have been studying| They would not have been studying| Would they have been studying?   | Habrían estado estudiando  |
-
-**Notas Adicionales:**
-
-*   **Contracciones:** Se muestran las contracciones más comunes (ej. I'm, you're, isn't, weren't, won't, wouldn't).
-*   **Usos:** Esta tabla proporciona las formas básicas. El uso específico de cada tiempo verbal depende del contexto (y hay muchísimos!)
-*   **"You":** Se incluyen las formas para "you" en singular y plural, aunque son idénticas en la mayoría de las formas verbales.
-*   **"He She It":** Incluye las tres personas para abarcar la tercera persona del singular.
-
-

@@ -63,7 +63,7 @@ La siguiente tabla muestra la progresión de los tiempos verbales para comprende
 | 14     | Modales + have             | I (can, could, ...) have worked | I (can, could, ...) have been working |
 | 15     | Imperativos                | Work!              | Let's work!              |
 
-**Notas:**
+
 
 *   La tabla de tiempos verbales se incluye como referencia para entender mejor la relación del condicional perfecto con otros tiempos. No es esencial para la comprensión del condicional perfecto en sí.
 *   Los ejemplos son claros y demuestran el uso del condicional perfecto en oraciones completas.

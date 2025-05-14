@@ -1,4 +1,4 @@
-Aquí hay algunas opciones para organizar el texto de manera más clara y con sentido:
+
 
 **Opción 1: Agrupación alfabética simple (la más directa)**
 

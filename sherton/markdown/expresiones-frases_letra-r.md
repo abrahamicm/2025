@@ -1,5 +1,3 @@
-Aquí está el texto reorganizado para que sea más claro y tenga más sentido, agrupando las frases hechas con sus explicaciones y ejemplos:
-
 **Frases Hechas y Ejemplos:**
 
 *   **Ready, steady, go!**   **Preparados, listos, ¡fuera!**

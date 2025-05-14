@@ -76,7 +76,3 @@ A continuación, encontrarás una guía visual con caricaturas y ejemplos para a
 
     *Nota: El verbo "to spit" también se puede conjugar como un verbo regular, añadiendo "-ed" al pasado y participio pasado.*
 
-**Notas Adicionales**
-
-*   Recuerda que la pronunciación escrita entre paréntesis es una guía aproximada. Lo mejor es escuchar la pronunciación correcta en un diccionario en línea o de un hablante nativo.
-*   La práctica con ejemplos es clave para memorizar los verbos irregulares. ¡Crea tus propias oraciones!

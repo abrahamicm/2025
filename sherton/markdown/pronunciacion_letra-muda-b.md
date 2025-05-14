@@ -1,4 +1,4 @@
-Aquí está el texto reorganizado y clarificado:
+
 
 **Palabras en inglés con la letra 'B' muda:**
 
@@ -26,10 +26,4 @@ La siguiente lista muestra palabras en inglés donde la letra 'B' es muda, junto
 *   **tomb** (tom) - tumba
 *   **womb** (wom) - matriz
 
-**Notas:**
 
-*   He añadido la palabra completa en inglés para mayor claridad.
-*   He añadido algunas palabras relacionadas para mostrar patrones.
-*   He mantenido la pronunciación aproximada entre paréntesis.
-*   He incluido la traducción al español.
-*   He añadido una nota aclaratoria sobre la palabra "plomb".

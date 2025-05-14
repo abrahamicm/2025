@@ -1,4 +1,3 @@
-Aquí está el texto reorganizado para mayor claridad y sentido, separando las frases verbales (phrasal verbs) de sus definiciones y ejemplos:
 
 **Phrasal Verbs (Frases Verbales)**
 

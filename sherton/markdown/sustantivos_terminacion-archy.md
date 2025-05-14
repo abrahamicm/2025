@@ -1,4 +1,3 @@
-Aquí hay algunas opciones para acomodar el texto y hacerlo más claro, dependiendo del propósito que tengas:
 
 **Opción 1: Formato de lista simple (ideal para referencia rápida)**
 
@@ -45,5 +44,3 @@ Aquí hay algunas opciones para acomodar el texto y hacerlo más claro, dependie
 *   **Monarchy (Monarquía):** Gobierno por un solo rey o reina.
 *   **Oligarchy (Oligarquía):** Gobierno por un pequeño grupo de personas.
 *   **Patriarchy (Patriarcado):** Sistema social donde los hombres tienen el poder dominante.
-
-La mejor opción dependerá de para qué necesitas esta lista.  Si simplemente necesitas tener la traducción disponible, la opción 1 es suficiente. Si quieres que sea más fácil de leer y esté más organizada, la opción 2 es mejor.  Si quieres que tenga más contexto, usa la opción 3. Y si quieres que sirva como una mini-lección, la opción 4 es la más completa.

@@ -50,7 +50,7 @@
 *   **as ugly as sin:** más feo que pegarle a la madre
     *   Rose went out on a blind date the other night and the poor guy was as ugly as sin!
 
-**Notas:**
+
 
 *   La organización por categorías (expresiones fijas vs. comparaciones) facilita la comprensión y el aprendizaje.
 *   Se mantiene la estructura: frase en inglés - traducción - ejemplo.

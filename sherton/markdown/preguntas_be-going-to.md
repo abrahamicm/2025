@@ -1,4 +1,3 @@
-Okay, aquí tienes el texto reorganizado para que sea más claro y tenga mejor sentido como una guía sobre cómo hacer preguntas con "be going to" en inglés:
 
 **Preguntas con "Be Going To" en Inglés**
 
@@ -34,8 +33,4 @@ Okay, aquí tienes el texto reorganizado para que sea más claro y tenga mejor s
    *   **Was he going to buy a dog?**   *¿Él iba a comprar un perro?*
    *   **What were you going to do if you failed?**   *¿Qué ibas a hacer si fallabas?*
 
-**Notas:**
 
-*   Recuerda que "going to" se usa para hablar de planes e intenciones.
-*   La forma del verbo "to be" (am, is, are, was, were) debe concordar con el sujeto de la oración.
-* En la pregunta **How are we going to make a cake if we do not have flour?** he cambiado "flavor" a "flour" (harina) porque es más lógico en el contexto de hacer un pastel.

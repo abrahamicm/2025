@@ -1,4 +1,4 @@
-Aquí hay algunas opciones para acomodar el texto y hacerlo más claro, dependiendo del objetivo:
+
 
 **Opción 1: Lista simple (la más clara y concisa)**
 

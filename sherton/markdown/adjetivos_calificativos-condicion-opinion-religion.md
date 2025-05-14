@@ -1,10 +1,5 @@
 
 
-**Adjetivos Calificativos**
-
-Los adjetivos calificativos describen cualidades de los sustantivos a los que modifican. En inglés, generalmente se colocan **antes** del sustantivo. Una característica importante es que los adjetivos calificativos en inglés **no varían en género ni número**, por ejemplo: *red cars* (coches rojos), *fat woman* (mujer gorda).
-
-A continuación, se presenta una lista de adjetivos calificativos agrupados por categorías, con su traducción al español, pronunciación (cuando se considere útil) y ejemplos:
 
 **Categorías de Adjetivos Calificativos:**
 

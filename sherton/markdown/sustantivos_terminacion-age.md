@@ -1,4 +1,3 @@
-Para que el texto sea más claro y tenga más sentido, lo ideal es organizarlo alfabéticamente y presentarlo en un formato de lista con la palabra en inglés seguida de su traducción al español:
 
 **Lista de Palabras con Traducción al Español:**
 

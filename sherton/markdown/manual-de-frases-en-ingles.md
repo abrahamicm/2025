@@ -1,19 +1,4 @@
 
-
-**¡Bienvenido!**
-
-**Menú:**
-
-*   **Pizarrón del día:** [Enlace a contenido del pizarrón]
-*   **Noticias:** [Enlace a noticias]
-*   **Clases:** [Enlace a clases]
-*   **eBook:** [Enlace a eBook]
-
-**Acceso:**
-
-*   **Ingresar:** [Enlace para iniciar sesión]
-*   **¡Regístrate gratis!**   **¡Regístrate!**: [Enlace para registrarse]
-
 **Manual de Frases en Inglés para Viajeros**
 
 Aprende frases esenciales en inglés para desenvolverte en diferentes situaciones cuando viajes a países de habla inglesa.

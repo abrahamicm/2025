@@ -1,6 +1,3 @@
-**Vocabulario: Adjetivos Terminados en "-al" (Inglés - Español)**
-
-Esta lista presenta una serie de adjetivos comunes en inglés que terminan en "-al", junto con su traducción al español.
 
 *   **analytical** - analítico
 *   **anatomical** - anatómico

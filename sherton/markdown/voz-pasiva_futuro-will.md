@@ -1,4 +1,3 @@
-Claro, aquí tienes el texto reorganizado para mayor claridad y sentido:
 
 **La Voz Pasiva en el Futuro**
 

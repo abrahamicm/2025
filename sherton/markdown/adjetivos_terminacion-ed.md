@@ -57,7 +57,7 @@
 *   **Unido:** united
 *   **Malvado:** wicked
 
-**Notas:**
+
 
 *   He agrupado las palabras por categorías para que la lista sea más útil.
 *   Cuando hay sinónimos cercanos en inglés, los he puesto juntos.

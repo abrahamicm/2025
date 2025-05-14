@@ -2,15 +2,7 @@
 
 **Título:** Aprende Inglés y Español - Vocabulario Temático y por Frecuencia
 
-**Menú Principal:**
 
-*   **Inicio**
-*   **Pizarrón del día** (Puede ser una sección con una palabra o frase destacada del día)
-*   **Noticias** (Actualizaciones del sitio web, novedades, etc.)
-*   **Clases** (Enlace a clases online, cursos, etc.)
-*   **eBook** (Enlace a eBooks de aprendizaje de idiomas)
-*   **Ingresar**
-*   **¡Regístrate gratis!**   **¡Regístrate!**
 
 **Secciones Principales:**
 

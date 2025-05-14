@@ -1,5 +1,3 @@
-Aquí está el texto reorganizado para mayor claridad y sentido, enfocándonos en una presentación más estructurada y comprensible de cada phrasal verb:
-
 **Phrasal Verbs: Significado y Ejemplos**
 
 A continuación, se presenta una lista de phrasal verbs comunes en inglés, con su significado y ejemplos de uso.

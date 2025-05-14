@@ -1,4 +1,3 @@
-Aquí está el texto reorganizado para mayor claridad y sentido, con explicaciones y ejemplos agrupados de forma lógica:
 
 **La estructura "want somebody to do something": Expresando deseos y expectativas**
 

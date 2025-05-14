@@ -1,8 +1,6 @@
-Aquí está el texto reorganizado para mayor claridad y mejor presentación:
 
 **Lista de Adjetivos con su Traducción**
 
-Esta lista presenta adjetivos en inglés y su traducción al español, agrupados alfabéticamente para facilitar su consulta:
 
 *   **Advisory** - Consultivo
 *   **Ambulatory** - Ambulatorio

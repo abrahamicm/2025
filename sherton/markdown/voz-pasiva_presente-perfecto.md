@@ -52,7 +52,7 @@ La siguiente tabla muestra ejemplos de cómo se forma la voz pasiva en diferente
 | **Modal Simple**           | The car (can, could, ...) be washed | The car (can, could, ...) be being washed|
 | **Modal Perfecto**         | The car (can, could, ...) have been washed| The car (can, ...) have been being washed |
 
-**Notas:**
+
 
 *   La forma continua de la voz pasiva ("being washed," "being built") es menos común que la forma no continua, pero se utiliza para enfatizar que la acción está en progreso.
 *   Esta tabla proporciona ejemplos generales. La elección del tiempo verbal correcto dependerá del contexto específico de la oración.

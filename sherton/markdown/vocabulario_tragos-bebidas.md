@@ -40,7 +40,7 @@ Este vocabulario te ayudará a pedir y entender diferentes bebidas en inglés.
 
 [Opcional: Enlace a tu canal de YouTube]
 
-**Notas:**
+
 
 *   Se han agrupado las bebidas por tipo (sin alcohol alcohólicas) para facilitar la consulta.
 *   Se ha añadido una breve descripción cuando es necesario para mayor claridad.

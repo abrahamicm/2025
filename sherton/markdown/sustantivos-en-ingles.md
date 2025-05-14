@@ -1,4 +1,3 @@
-Okay, aquí tienes una versión del texto reorganizada y con mayor claridad. He asumido que el objetivo es presentar una guía sobre sustantivos en inglés, organizada por temas y terminaciones comunes.
 
 **Título: Guía de Sustantivos en Inglés**
 
@@ -129,17 +128,4 @@ Esta guía ofrece una descripción general de los sustantivos en inglés, incluy
     *   adventure, culture, gesture, literature, ...
 *   **-us:**
     *   census, circus, exodus, status, stimulus, ...
-
-**Navegación Original (integrada si es relevante):**
-
-Las opciones de "Inicio, Pizarrón del día, Noticias, Clases, eBook, Ingresar, ¡Regístrate gratis! ¡Regístrate!" parecen pertenecer a la interfaz de un sitio web o aplicación.  Si esta guía se va a mostrar en ese contexto, estas opciones de navegación deben estar disponibles en la interfaz del usuario, pero no necesariamente incluidas en el texto de la guía en sí.
-
-**Notas Adicionales:**
-
-*   Esta estructura es más clara y facilita la búsqueda de información específica.
-*   Se han añadido breves explicaciones para contextualizar las listas.
-*   Si el objetivo es didáctico, considera añadir más explicaciones gramaticales y ejemplos.
-*   En la sección de terminaciones, considera organizar los ejemplos alfabéticamente para facilitar la búsqueda.
-*   Para mayor claridad, considera convertir el título "Sustantivos de Adjetivos" a "Sustantivos Derivados de Adjetivos"
-
 

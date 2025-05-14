@@ -53,8 +53,3 @@ A continuación, se presenta cada pronombre con su traducción al español y eje
 *   **Ejemplo 3:** My apartment is here. **Theirs** is there.   Mi apartamento está aquí. El de **ellos** está allí.
 *   **Ejemplo 4:** My parents went on vacation with friends of **theirs**.   Mis padres se fueron de vacaciones con amigos **suyos**.
 
-**Notas Adicionales:**
-
-*   Los pronombres posesivos reemplazan a un sustantivo y un adjetivo posesivo. Por ejemplo, en lugar de decir "This is my book," puedes decir "This is mine."
-*   La estructura "a friend of mine yours his hers ours theirs" significa "un amigo mío tuyo suyo nuestro," etc., pero implica que la persona tiene otros amigos además del que se menciona.
-*   Confundir pronombres posesivos con adjetivos posesivos es un error común.  Recuerda: los pronombres posesivos se usan solos, mientras que los adjetivos posesivos (my, your, his, her, our, your, their) siempre van seguidos de un sustantivo.

@@ -1,4 +1,4 @@
-Aquí está el texto reorganizado para mayor claridad, con explicaciones adicionales y ejemplos más concretos:
+
 
 **El Tiempo Pasado Perfecto (Past Perfect)**
 

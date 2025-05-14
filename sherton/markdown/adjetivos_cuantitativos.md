@@ -124,9 +124,4 @@ A continuación se muestran otros ejemplos de adjetivos cuantitativos, con ejemp
 | Cantidad   | a large amount of             | a large number of            |
 | Mucho a    | a great deal of               | a great many                 |
 
-**Notas:**
-
-*   Recuerda que los sustantivos incontables no se pueden contar individualmente (agua, dinero, etc.), mientras que los contables sí (manzanas, monedas, etc.).
-*   La elección del adjetivo cuantitativo correcto depende de si el sustantivo que modifica es contable o incontable.
-
 

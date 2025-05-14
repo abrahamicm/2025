@@ -92,38 +92,3 @@ A continuación, se presenta una tabla con los diferentes tipos de pronombres, s
 *   each other
 *   one another
 
-**Notas Adicionales:**
-
-*   Es importante recordar que el uso correcto de los pronombres depende del contexto de la oración.
-*   Prestar atención a la diferencia entre adjetivos posesivos y pronombres posesivos.
-
-**Posible estructura de un menú de navegación:**
-
-*   **Inicio**
-*   **Gramática Inglesa**
-    *   **Pronombres**
-        *   Pronombres Personales
-        *   Pronombres Acusativos
-        *   Adjetivos Posesivos
-        *   Pronombres Posesivos
-        *   Pronombres Reflexivos
-        *   Pronombres Indefinidos
-        *   Pronombres Relativos
-        *   Pronombres Recíprocos
-*   **eBook** (Si tienes un ebook sobre gramática)
-*   **Ingresar**
-*   **Registrarse** (Gratis)
-
-**Explicación de los Cambios:**
-
-*   **Organización:** El texto se ha estructurado en secciones claras con títulos y subtítulos.
-*   **Tabla resumen:** Se agrega una tabla inicial para dar una visión general de los pronombres.
-*   **Claridad:** Se han añadido explicaciones sobre el uso de cada tipo de pronombre.
-*   **Ejemplos:** Se proporciona un breve ejemplo para diferenciar adjetivos de pronombres posesivos.
-*   **Presentación:**  Se utilizan tablas para presentar la información de forma más visual y fácil de entender.
-*   **Eliminación de redundancia:**  Se eliminaron repeticiones innecesarias.
-*   **Estilo:**  Se adoptó un estilo más formal y explicativo, propio de una guía gramatical.
-*   **Menú de navegación:** Se sugiere una posible estructura para un menú en un sitio web que contenga esta información.
-*   **Nota sobre la tabla resumen:** Se incluye una nota aclaratoria importante.
-
-

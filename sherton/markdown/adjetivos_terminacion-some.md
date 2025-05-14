@@ -1,7 +1,3 @@
-
-
-**Lista de Palabras y sus Significados:**
-
 *   **Awesome:** Imponente
 *   **Bothersome:** Fastidioso
 *   **Cumbersome:** Incómodo

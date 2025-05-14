@@ -1,4 +1,3 @@
-Aquí te presento una versión más clara y organizada del texto:
 
 **Yearn After**
 

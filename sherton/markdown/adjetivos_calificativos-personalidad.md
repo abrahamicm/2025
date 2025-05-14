@@ -1,8 +1,3 @@
-Aquí está el texto reorganizado para mayor claridad y sentido:
-
-**Adjetivos Calificativos de Personalidad**
-
-A continuación, se presenta una lista de adjetivos calificativos utilizados para describir la personalidad, clasificados en dos categorías: positiva y negativa, con su respectiva traducción al español:
 
 **Personalidad (Positiva)**
 

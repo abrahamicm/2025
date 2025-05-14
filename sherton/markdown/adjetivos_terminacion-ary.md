@@ -1,9 +1,3 @@
-
-
-**Lista de Palabras Similares en Inglés y Español**
-
-Esta lista presenta palabras que tienen una forma similar en inglés y español, junto con sus significados:
-
 *   **arbitrary** - arbitrario
 *   **auxiliary** - auxiliar
 *   **complementary** - complementario

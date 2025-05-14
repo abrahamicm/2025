@@ -1,4 +1,3 @@
-Absolutamente. Aquí tienes el texto reorganizado para mayor claridad y sentido, estructurado para facilitar el aprendizaje:
 
 **Las "Question Tags" en Inglés**
 

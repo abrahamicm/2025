@@ -1,6 +1,5 @@
 
 
-**Lista de palabras con su traducción al español:**
 
 *   **abrasive** - abrasivo
 *   **abusive** - abusivo

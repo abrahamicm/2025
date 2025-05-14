@@ -1,4 +1,4 @@
-Aquí te presento el texto reorganizado para mayor claridad y sentido, agrupando los términos por categorías y añadiendo pequeñas explicaciones cuando es necesario:
+
 
 **Vocabulario en Inglés sobre Política y Gobierno**
 

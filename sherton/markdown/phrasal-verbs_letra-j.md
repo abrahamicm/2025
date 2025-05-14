@@ -1,4 +1,3 @@
-Aquí está el texto reorganizado para mayor claridad y sentido:
 
 **Phrasal Verbs con "Jack," "Jog" y "Join"**
 

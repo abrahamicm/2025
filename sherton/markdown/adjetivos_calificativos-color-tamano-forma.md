@@ -1,8 +1,3 @@
-**Adjetivos Calificativos: Características y Ejemplos**
-
-Los adjetivos calificativos describen cualidades de los sustantivos a los que modifican y generalmente se ubican delante de estos en inglés. Una característica importante es que no varían en género ni número, como se observa en los ejemplos "red cars" (coches rojos) y "fat woman" (mujer gorda).
-
-A continuación, se presenta una lista de adjetivos calificativos comunes, agrupados por categorías, con su traducción al español y ejemplos de uso:
 
 **1. Colors (Colores)**
 

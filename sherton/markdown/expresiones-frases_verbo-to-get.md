@@ -1,4 +1,3 @@
-Aquí está el texto reorganizado para mayor claridad y sentido, agrupando las frases por significado y proporcionando ejemplos más claros cuando es necesario:
 
 **Introducción:**
 

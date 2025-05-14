@@ -62,7 +62,7 @@ Este es un listado de vocabulario útil en inglés relacionado con el taller y l
 *   **Workbench:** Mesa de trabajo
 *   **Workshop:** Taller
 
-**Notas:**
+
 
 *   Algunas herramientas pueden tener nombres alternativos.
 *   Esta lista no es exhaustiva, pero cubre las herramientas y materiales más comunes.

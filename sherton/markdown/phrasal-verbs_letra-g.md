@@ -1,4 +1,3 @@
-Aquí está el texto reorganizado para mayor claridad y sentido, con un formato más consistente:
 
 **Phrasal Verbs con "Grow" y "Goof Off"**
 

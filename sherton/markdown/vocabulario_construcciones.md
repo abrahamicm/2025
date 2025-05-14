@@ -76,7 +76,3 @@
 *   warehouse - almacén
 *   windmill - molino de viento
 
-**Notas Adicionales:**
-
-*   La lista está organizada alfabéticamente en inglés para facilitar la búsqueda.
-*   "[Siguiente]" (si se refiere a la siguiente página de contenido)

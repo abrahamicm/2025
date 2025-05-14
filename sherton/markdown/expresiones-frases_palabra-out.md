@@ -1,5 +1,3 @@
-Aquí está el texto reorganizado para mayor claridad y utilidad. He agrupado las expresiones, añadido encabezados para facilitar la navegación y mantenido las traducciones originales.
-
 **Expresiones con "Out" y su Significado**
 
 **1. Estando o Poniéndose en Movimiento Actividad**

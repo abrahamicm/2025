@@ -61,7 +61,7 @@ Se forma de dos maneras principales:
 | **Modales + have**     | *I (can, could...) have worked*| *I (can, could...) have been working* |
 | **Imperativo**         | *Work!   Let's work!* | -                             |
 
-**Notas:**
+
 
 *   La tabla de tiempos verbales es solo para proporcionar contexto. El foco principal debe ser el Presente Perfecto.
 *   Los imperativos no tienen forma continua.

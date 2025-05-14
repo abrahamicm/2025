@@ -1,5 +1,3 @@
-Aquí está el texto reorganizado para mayor claridad y sentido, enfocándonos en una estructura más lógica y consistente:
-
 **Conectores Funcionales de Propósito en Inglés**
 
 Los conectores funcionales se utilizan para expresar un fin, objetivo o propósito. En inglés, algunos de los más comunes son: *so, so that, so as to, in order to.* A continuación, se presentan ejemplos de su uso:

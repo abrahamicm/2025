@@ -1,5 +1,3 @@
-Aquí está el texto reorganizado para mayor claridad y fluidez:
-
 **Adverbios de Modo en Inglés**
 
 Los adverbios de modo describen *cómo* se realiza una acción. Muchos de ellos se forman añadiendo la terminación "-ly" al final de un adjetivo, lo que equivale a la terminación "-mente" en español. En otras palabras, muchos adverbios de modo derivan de adjetivos.

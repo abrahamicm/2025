@@ -1,4 +1,4 @@
-Aquí te presento el texto reorganizado para mayor claridad, agrupando las palabras por categorías y mejorando el formato:
+
 
 **Vocabulario en Inglés: Familia y Parentesco**
 

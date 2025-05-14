@@ -87,10 +87,3 @@ Esta guía presenta una lista de preposiciones de lugar en inglés, junto con su
     *   Who is the woman behind John? (¿Quién es la mujer que está detrás de John?)
     *   I wonder what is behind his friendly attitude. (Me pregunto qué hay detrás de su actitud amistosa.)
 
-**Notas Adicionales:**
-
-*   Esta lista no es exhaustiva, pero cubre algunas de las preposiciones de lugar más comunes en inglés.
-*   La pronunciación de cada preposición se puede encontrar fácilmente en diccionarios en línea o a través de herramientas de traducción.
-*   Presta atención al contexto para entender el significado preciso de cada preposición. Algunas preposiciones tienen múltiples significados.
-
-Este formato facilita la consulta, el estudio y la comprensión de cada preposición con ejemplos claros y organizados.

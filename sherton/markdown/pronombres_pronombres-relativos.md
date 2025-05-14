@@ -54,7 +54,3 @@ A continuación, se presenta una lista de los pronombres relativos más comunes 
         *   They didn't know **what** I was looking for.   Ellos no sabían lo que yo estaba buscando.
         *   **What** you need now is to take a good rest.   Lo que necesitas ahora es tomar un buen descanso.
 
-**Notas Adicionales:**
-
-*   La elección del pronombre relativo correcto depende del sustantivo al que se refiere la cláusula y de la función gramatical del pronombre dentro de la cláusula relativa.
-*   En algunos casos, el pronombre relativo puede omitirse, especialmente cuando funciona como objeto del verbo en la cláusula relativa (e.g., "The book I read was interesting").

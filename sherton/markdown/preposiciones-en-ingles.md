@@ -6,14 +6,7 @@
 
 Las preposiciones son palabras esenciales que conectan elementos dentro de una oración. En inglés, se pueden clasificar principalmente en preposiciones de lugar, tiempo y dirección. Esta guía te ofrece una lista completa y categorizada para ayudarte a comprender y usar las preposiciones correctamente.
 
-**Menú Principal:**
 
-*   **[Ir a Pizarrón del Día]** (Enlace si es relevante a la plataforma)
-*   **[Ir a Noticias]** (Enlace si es relevante a la plataforma)
-*   **[Ir a Clases]** (Enlace si es relevante a la plataforma)
-*   **[Ir a eBook]** (Enlace si es relevante a la plataforma)
-*   **[Ingresar]** (Enlace a la página de inicio de sesión)
-*   **[Registrarse Gratis!]** (Enlace a la página de registro)
 
 **Categorías de Preposiciones:**
 

@@ -1,4 +1,3 @@
-¡Absolutamente! Aquí tienes el texto reorganizado para que sea más claro y estructurado, pensando en un posible uso educativo o de referencia rápida:
 
 **Título: Guía Completa de Adjetivos en Inglés**
 
@@ -105,9 +104,7 @@ Los adjetivos en inglés describen o modifican sustantivos, proporcionando infor
     *   **-some:** *awesome, bothersome, tiresome, lonesome, gruesome...*
     *   **-tive:** *addictive, attractive, constructive, corrective, defective...*
 
-**Notas:**
 
-*   La lista de adjetivos por terminación no es exhaustiva, pero proporciona una base sólida para el aprendizaje.
-*   Algunos adjetivos pueden encajar en más de una categoría.
+
 
 

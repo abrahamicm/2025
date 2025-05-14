@@ -1,5 +1,3 @@
-
-
 **Título:** Conectores o Conjunciones
 
 **Introducción:**
@@ -90,7 +88,7 @@ Los conectores o conjunciones son palabras que utilizamos para unir dos o más f
     *   so as not to (para no)
     *   in order to (para)
     
-**Notas:**
+
 
 *   Añadí una introducción para dar contexto.
 *   Organicé la información en una lista clara y estructurada.

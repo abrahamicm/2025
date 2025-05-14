@@ -110,7 +110,7 @@
 *   **Vagina:** Vagina
 *   **Vein:** Vena
 
-**Notas:**
+
 
 *   Se han agrupado las palabras por áreas del cuerpo para facilitar el aprendizaje.
 *   Se han mantenido las traducciones proporcionadas.

@@ -42,10 +42,3 @@
     *   Weren’t we there when the bar opened for the last time?   ¿No estábamos allí cuando el bar abrió por última vez?
     *   Weren’t they going to go by bus?   ¿No iban a ir en micro?
 
-**Puntos clave:**
-
-*   Recuerda la conjugación: "Was" para singular (I, he, she, it) y "Were" para plural (we, you, they).
-*   El orden de las palabras es crucial: Auxiliar (Was Were) + Sujeto + Complemento.
-*   Las palabras interrogativas como "What," "When," "Where," etc., van al principio de la pregunta.
-
-

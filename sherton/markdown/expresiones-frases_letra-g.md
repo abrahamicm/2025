@@ -1,4 +1,4 @@
-Aquí te presento una versión más clara y ordenada del texto:
+
 
 **Explicaciones y Ejemplos del Uso de Expresiones:**
 
@@ -11,9 +11,3 @@ Aquí te presento una versión más clara y ordenada del texto:
     *   **Significado:** ¡Adiós y hasta nunca! (expresión que denota alivio o alegría de que alguien se vaya).
 
     *   **Ejemplo:** "Get out of here and don't come back! **Good riddance!**" (¡Fuera de aquí y no vuelvas! ¡Adiós y hasta nunca!).
-
-**Notas Adicionales:**
-
-*   La estructura ahora separa claramente la expresión, su significado y un ejemplo de uso.
-*   Se han añadido conectores (como "Significado" y "Ejemplo") para facilitar la comprensión.
-*   Se mantiene el texto original y se añade contexto para que sea más informativo.

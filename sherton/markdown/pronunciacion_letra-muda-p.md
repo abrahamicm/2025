@@ -20,7 +20,7 @@ En inglés, algunas palabras tienen una "P" inicial que no se pronuncia. A conti
 *   **coup (d'état):** golpe de estado (La "p" no se pronuncia en inglés ni en francés)
 *   **raspberry:** frambuesa (Si bien "raspberry" no tiene una 'P' muda, se menciona en el texto original.)
 
-**Notas:**
+
 
 *   La lista original contenía algunas imprecisiones. Se han corregido para mayor exactitud.
 *   En algunas palabras, la "p" es muda en inglés pero no en español (ej: receipt recibo).

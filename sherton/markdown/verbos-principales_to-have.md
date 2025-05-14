@@ -88,7 +88,7 @@ Este documento resume la conjugación de los verbos "tener" (have) y "haber" (ha
 | Ustedes    | Have you had?                       | Had you had?              | Will you have had?               | Would you have had?                   |
 | Ellos      | Have they had?                      | Had they had?             | Will they have had?            | Would they have had?                  |
 
-**Notas:**
+
 
 *   Los ejemplos se centran en "tener un examen" y "tener que estudiar" para proporcionar un contexto común.
 *   Las tablas de conjugación completas pueden ser útiles para referencia rápida.

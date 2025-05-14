@@ -52,9 +52,3 @@ Esta tabla muestra la progresión de la voz pasiva en diferentes tiempos verbale
 | **Modal (can, could, ...)** | The car (can, could, ...) be washed | The car (can, could, ...) be being washed |
 | **Modal + have**     | The car (can, could, ...) have been washed | The car (can, ...) have been being washed |
 
-**Notas adicionales:**
-
-*   La voz pasiva se usa cuando la acción es más importante que el agente que la realiza.
-*   La forma continua del "Futuro en Pasado" es menos común que la forma simple.
-
-La reorganización separa la explicación del "Futuro en Pasado" con ejemplos claros y relevantes, y la tabla comparativa como referencia general de la voz pasiva en otros tiempos. Esto facilita la comprensión del concepto principal.

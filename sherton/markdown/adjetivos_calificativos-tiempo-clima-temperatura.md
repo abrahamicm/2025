@@ -1,31 +1,25 @@
 
 
-**Adjetivos Calificativos: Características y Ejemplos**
-
-Los adjetivos calificativos describen las cualidades de los sustantivos que modifican. En inglés, generalmente se colocan **delante** del sustantivo (a diferencia del español). Una característica importante es que **no varían en género ni número**, independientemente del sustantivo al que modifican (ejemplos: *red cars*, *fat woman*).
-
-A continuación, se presentan algunos adjetivos calificativos comunes, organizados por categorías, con su traducción al español, pronunciación aproximada y ejemplos de uso:
-
 **Categorías de Adjetivos Calificativos**
 
 **1. Edad   Tiempo (Age   Time)**
 
-*   **old** (óuld) - viejo
-*   **young** (yáng) - joven
-*   **new** (niu) - nuevo
-*   **modern** (módern) - moderno
-*   **ancient** (éinshent) - antiguo
-*   **old-fashioned** (óuld fáshend) - anticuado
-*   **updated** (ápdeited) - actualizado
-*   **outdated** (áutdéited) - desactualizado
-*   **fast** (fast) - rápido
-*   **quick** (kuik) - rápido
-*   **slow** (slóu) - lento
-*   **senior** (sínior) - mayor
-*   **junior** (yúnior) - más joven
-*   **current** (kárrent) - actual
-*   **past** (past) - pasado
-*   **future** (fiúcher) - futuro
+*   **old**  - viejo
+*   **young**  - joven
+*   **new**  - nuevo
+*   **modern**  - moderno
+*   **ancient**  - antiguo
+*   **old-fashioned**  - anticuado
+*   **updated**  - actualizado
+*   **outdated**  - desactualizado
+*   **fast**  - rápido
+*   **quick**  - rápido
+*   **slow**  - lento
+*   **senior**  - mayor
+*   **junior**  - más joven
+*   **current**  - actual
+*   **past**  - pasado
+*   **future**  - futuro
 
     *Ejemplos:*
 
@@ -34,20 +28,20 @@ A continuación, se presentan algunos adjetivos calificativos comunes, organizad
 
 **2. Tiempo (clima) (Weather)**
 
-*   **rainy** (réini) - lluvioso
-*   **stormy** (stórmi) - tormentoso
-*   **sunny** (sáni) - soleado
-*   **windy** (uíndi) - ventoso
-*   **snowy** (snóui) - con nieve
-*   **damp** (damp) - húmedo
-*   **dry** (drái) - seco
-*   **icy** (áisi) - con hielo
-*   **foggy** (fógi) - con niebla
-*   **overcast** (óuvercast) - nublado
-*   **cloudy** (cláudi) - nuboso
-*   **clear** (clíar) - despejado
-*   **mild** (máil) - templado
-*   **chilly** (chíli) - frío
+*   **rainy**  - lluvioso
+*   **stormy**  - tormentoso
+*   **sunny**  - soleado
+*   **windy**  - ventoso
+*   **snowy**  - con nieve
+*   **damp**  - húmedo
+*   **dry**  - seco
+*   **icy**  - con hielo
+*   **foggy**  - con niebla
+*   **overcast**  - nublado
+*   **cloudy**  - nuboso
+*   **clear**  - despejado
+*   **mild**  - templado
+*   **chilly**  - frío
 
     *Ejemplos:*
 
@@ -56,16 +50,16 @@ A continuación, se presentan algunos adjetivos calificativos comunes, organizad
 
 **3. Temperatura (Temperature)**
 
-*   **freezing** (frízing) - helado
-*   **chilly** (chíli) - frío
-*   **cold** (cóuld) - frío
-*   **cool** (kúl) - fresco
-*   **lukewarm** (lúkuórm) - tibio
-*   **boiling** (bóiling) - hirviendo
-*   **muggy** (mágui) - caluroso (húmedo y bochornoso)
-*   **hot** (hot) - caluroso
-*   **warm** (uórm) - cálido
-*   **pleasant** (plésant) - agradable
+*   **freezing**  - helado
+*   **chilly**  - frío
+*   **cold**  - frío
+*   **cool**  - fresco
+*   **lukewarm**  - tibio
+*   **boiling**  - hirviendo
+*   **muggy**  - caluroso (húmedo y bochornoso)
+*   **hot**  - caluroso
+*   **warm**  - cálido
+*   **pleasant**  - agradable
 
     *Ejemplos:*
 

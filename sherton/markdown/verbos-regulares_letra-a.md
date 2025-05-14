@@ -2,17 +2,6 @@
 
 **Título: Sherton English - Curso de Inglés Gratis**
 
-**Menú Principal:**
-
-*   Inicio
-*   Curso Sherton (Inglés en 52 semanas)
-*   Pizarrón del día
-*   Foro
-*   eBook
-*   Noticias
-*   Clases
-*   Ingresar
-*   ¡Regístrate gratis!   ¡Regístrate!
 
 **Pizarrón del Día   Vocabulary ONE**
 

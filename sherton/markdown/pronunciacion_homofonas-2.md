@@ -150,7 +150,7 @@ Las palabras homófonas son aquellas que suenan igual, pero tienen diferente ort
 *   **peace** - paz
 *   **piece** - pedazo, trozo
 
-**Notas:**
+
 
 *   Esta lista es una selección de ejemplos comunes.
 *   Es importante prestar atención al contexto para comprender el significado correcto de la palabra.

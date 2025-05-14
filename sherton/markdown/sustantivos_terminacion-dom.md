@@ -1,4 +1,3 @@
-Aquí hay algunas opciones para acomodar el texto, haciéndolo más claro y con más sentido, dependiendo de lo que quieras destacar:
 
 **Opción 1: Lista simple con traducción:**
 
@@ -50,8 +49,3 @@ El sufijo "-dom" en inglés a menudo indica un estado, dominio o condición. Aqu
 *   Stardom - Estrellato
 *   Wisdom - Sabiduría
 
-**¿Cuál es la mejor opción?**
-
-Depende de lo que quieras comunicar. Si solo quieres dar las traducciones, la Opción 1 o 2 son las mejores. Si quieres explicar el sufijo "-dom", la Opción 3 o 4 son más adecuadas.
-
-Si puedes darme más contexto sobre por qué tienes esta lista, puedo refinar la respuesta para que sea aún más útil.

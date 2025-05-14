@@ -1,4 +1,4 @@
-Aquí está el texto reorganizado para mayor claridad y sentido:
+
 
 **Frases Idiomáticas y su Significado:**
 

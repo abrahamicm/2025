@@ -1,4 +1,3 @@
-Aquí te presento el texto acomodado para que sea más claro y tenga mejor sentido:
 
 **Lista de palabras terminadas en "-bility" y sus significados**
 

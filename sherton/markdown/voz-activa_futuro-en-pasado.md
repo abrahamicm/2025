@@ -1,4 +1,4 @@
-Aquí está el texto reorganizado para mayor claridad y sentido:
+
 
 **El Futuro en el Pasado (Future in the Past)**
 

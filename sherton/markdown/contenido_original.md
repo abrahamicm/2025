@@ -1,7 +1,5 @@
 
 
-**Adjetivos Calificativos por Categorías**
-
 Este listado clasifica adjetivos calificativos comunes en inglés y español, agrupándolos por categorías principales: Apariencia, Sentimientos y Estados de Ánimo (positivos y negativos).  En cada entrada, se proporciona el adjetivo en inglés, su traducción al español, y en algunos casos, un ejemplo de uso.
 
 **1. Apariencia (Appearance)**

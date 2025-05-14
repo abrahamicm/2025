@@ -1,8 +1,5 @@
 
 
-**Adjetivos Calificativos Clasificados por Categorías**
-
-Esta lista presenta adjetivos calificativos comunes, agrupados por categorías temáticas. Cada adjetivo se muestra en inglés con su traducción al español.
 
 **1. Apariencia (Appearance)**
 

@@ -71,7 +71,7 @@ Este vocabulario te ayudará a identificar objetos y alimentos comunes en el com
 *   **tray:** bandeja
 *   **chair:** silla
 
-**Notas:**
+
 
 *   He agrupado las palabras por categorías para facilitar el aprendizaje.
 *   Algunas palabras pueden encajar en más de una categoría (por ejemplo, "jug" puede ser un recipiente para bebidas).

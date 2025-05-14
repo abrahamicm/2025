@@ -1,4 +1,3 @@
-Ok, aquí tienes el texto reorganizado para mayor claridad y sentido, separando las expresiones idiomáticas de los ejemplos y agrupándolas por significado:
 
 **Expresiones idiomáticas con "Blow" y su significado en español:**
 

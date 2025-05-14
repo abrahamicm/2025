@@ -1,4 +1,3 @@
-Aquí te presento el texto reorganizado para que sea más claro y tenga mayor sentido:
 
 **Vocabulario: Palabras Terminadas en "-idad" y "-dad"**
 

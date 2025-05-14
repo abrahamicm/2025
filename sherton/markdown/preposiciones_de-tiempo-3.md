@@ -1,4 +1,3 @@
-Aquí está el texto reorganizado para mayor claridad y sentido, separando cada preposición y proporcionando ejemplos coherentes:
 
 **Preposiciones de Tiempo en Inglés: Guía con Traducciones, Pronunciación y Ejemplos**
 

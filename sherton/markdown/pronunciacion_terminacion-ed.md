@@ -67,7 +67,7 @@ Los sonidos sordos son:  p ,  k ,  f ,  s ,  ʃ ,  tʃ ,  θ  (think, thing).
     *   to miss (extrañar, perder) - missed (míst)
     *   to exercise (hacer ejercicio) - exercised (éksersáist)
 
-**Notas:**
+
 
 *   La pronunciación entre paréntesis es una aproximación fonética en español para facilitar la comprensión.
 *   Esta regla general tiene algunas excepciones, pero cubre la mayoría de los casos.

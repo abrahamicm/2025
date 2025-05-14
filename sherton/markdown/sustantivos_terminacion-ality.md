@@ -1,4 +1,3 @@
-Aquí hay una forma de organizar el texto para que sea más claro y tenga más sentido.  Dado que parece ser una lista de palabras en inglés con su traducción al español, la organizaré en forma de diccionario:
 
 **Diccionario Inglés-Español:**
 

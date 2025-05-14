@@ -1,7 +1,3 @@
-
-
-**Lista de Adjetivos Terminados en "-ive" (Inglés - Español)**
-
 *   abortive - abortivo
 *   acquisitive - codicioso
 *   active - activo

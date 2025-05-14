@@ -1,4 +1,3 @@
-Aquí hay varias opciones para acomodar el texto, dependiendo del objetivo que tengas:
 
 **Opción 1: Orden Alfabético con formato de diccionario**
 
@@ -85,12 +84,3 @@ Esta opción requiere más trabajo, pero la hace más útil:
 *   ... (y así sucesivamente con las demás palabras)
 ```
 
-**¿Cuál es la mejor opción?**
-
-La mejor opción depende de **para qué vas a usar esta lista**.
-
-*   Si es simplemente para tener una lista de palabras y sus traducciones, la **Opción 1 (orden alfabético)** es suficiente.
-*   Si quieres ayudar a la gente a entender mejor las palabras agrupándolas por temas, la **Opción 2 (agrupación por temas)** es mejor.  Pero, es subjetivo y depende de tu criterio.
-*   Si quieres que la lista sea una herramienta de aprendizaje más completa, la **Opción 3 (agregar contexto)** es la mejor, pero requiere mucho más tiempo y esfuerzo.
-
-En resumen, elige la opción que mejor se adapte a tu objetivo.

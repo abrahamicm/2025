@@ -1,4 +1,4 @@
-Aquí te presento el texto reorganizado para mayor claridad, separándolo por temas o categorías aproximadas:
+
 
 **I. Movimiento y Desplazamiento:**
 
@@ -202,7 +202,7 @@ Aquí te presento el texto reorganizado para mayor claridad, separándolo por te
 *   **Rodar:** Roll
 *   **Pudrirse:** Rot
 
-**Notas:**
+
 
 *   Algunas palabras pueden pertenecer a múltiples categorías.
 *   He agrupado palabras con significados similares para facilitar la comprensión.

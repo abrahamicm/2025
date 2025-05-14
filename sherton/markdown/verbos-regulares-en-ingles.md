@@ -2,18 +2,6 @@
 
 **Título: Verbos Regulares en Inglés: Lista por Terminaciones Frecuentes**
 
-**Menú Principal:**
-
-*   Inicio
-*   Noticias
-*   Clases
-*   eBook
-
-**Acceso:**
-
-*   Ingresar
-*   ¡Regístrate gratis!
-*   ¡Regístrate!
 
 **Contenido Principal:**
 
@@ -51,10 +39,3 @@ Esta lista presenta los verbos regulares más importantes del inglés, agrupados
 *   **-ume:** assume, consume, presume, resume, …
 *   **-use:** accuse, confuse, produce, seduce, …
 *   **-ute:** attribute, contribute, distribute, substitute, …
-
-**Notas:**
-
-*   "XYZ" se eliminó ya que parecía un marcador de posición sin significado.
-*   Se corrigió "analize" a "analyze".
-*   Se usó "oppress" en lugar de "opress".
-

@@ -4,14 +4,6 @@
 
 Los condicionales son estructuras gramaticales en inglés que expresan que un resultado específico ocurre si una condición, situación o circunstancia es verdadera. A continuación, exploraremos varios tipos comunes de condicionales:
 
-**Menú Principal:**
-
-*   **Inicio**
-*   **Noticias**
-*   **Clases**
-*   **eBook**
-*   **Ingresar**
-*   **¡Regístrate gratis!**   **¡Regístrate!**
 
 **Tipos de Condicionales:**
 

@@ -1,4 +1,4 @@
-Aquí hay algunas opciones para acomodar el texto para que sea más claro y tenga más sentido, dependiendo del propósito:
+
 
 **Opción 1: Formato de lista simple**
 

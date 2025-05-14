@@ -1,4 +1,4 @@
-Aquí está el texto reorganizado para mayor claridad, con énfasis en la presentación de cada verbo y sus formas:
+
 
 **Verbos Irregulares del Inglés con Caricaturas y Ejemplos**
 

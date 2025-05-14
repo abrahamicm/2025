@@ -2,7 +2,6 @@
 
 **Lista de Adjetivos Terminados en "-ly" y su Significado**
 
-Esta lista presenta una serie de adjetivos en inglés que terminan en el sufijo "-ly", junto con su traducción y significado en español.
 
 *   **brotherly:** fraternal
 *   **chilly:** frío

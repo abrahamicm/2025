@@ -1,4 +1,3 @@
-Aquí está el texto reorganizado para que sea más claro y tenga más sentido, agrupando la frase en inglés, su traducción y el ejemplo en un mismo bloque:
 
 **Expresiones con "For" y sus Ejemplos**
 

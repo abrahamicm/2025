@@ -1,5 +1,3 @@
-Aquí aprenderemos a realizar comparaciones en inglés a través de diversos ejemplos. Exploraremos las comparaciones de igualdad, desigualdad (superioridad e inferioridad), superlativos y estructuras para expresar cantidades, incrementos progresivos y paralelos.
-
 **I. Comparaciones de Igualdad**
 
 Utilizamos estas estructuras para indicar que dos elementos son iguales en algún aspecto:

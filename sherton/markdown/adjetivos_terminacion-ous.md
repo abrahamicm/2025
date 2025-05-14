@@ -1,8 +1,6 @@
 
 
-**Lista de Palabras con Traducción**
 
-Esta lista presenta palabras en inglés (terminadas en "-ous") y su traducción al español.
 
 *   **abstemious** - abstemio
 *   **acrimonious** - cáustico, enconado

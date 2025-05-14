@@ -1,4 +1,3 @@
-Aquí está el texto reorganizado para mayor claridad y sentido, agrupando definiciones y ejemplos:
 
 **Expresiones con "Eat" (Comer) en Inglés y su Significado:**
 

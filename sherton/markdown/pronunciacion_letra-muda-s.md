@@ -1,4 +1,3 @@
-Claro, aquí tienes el texto reorganizado y aclarado:
 
 **Palabras en inglés con la letra 'S' muda:**
 

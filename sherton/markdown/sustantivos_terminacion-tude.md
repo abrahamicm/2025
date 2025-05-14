@@ -1,4 +1,4 @@
-Aquí hay algunas opciones para acomodar el texto y hacerlo más claro, dependiendo de lo que quieras resaltar:
+
 
 **Opción 1: Lista simple con traducción lado a lado**
 
@@ -59,6 +59,3 @@ Si necesitas dar contexto al listado, puedes añadir una frase introductoria:
 *   prelude - preludio
 *   solitude - soledad
 
-**¿Cuál elegir?**
-
-La mejor opción depende de **para qué necesitas este texto**.  Si es solo una lista de traducciones, la **Opción 1** es la más sencilla y clara. Si necesitas una presentación más formal, usa la **Opción 2**. Si necesitas explicar por qué estás mostrando esta lista, usa la **Opción 4**.  La **Opción 3** no es útil en este caso.

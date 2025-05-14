@@ -1,4 +1,3 @@
-Aquí te propongo una versión reestructurada del texto, buscando mayor claridad y sentido:
 
 **Palabras en inglés con la letra 'G' muda:**
 

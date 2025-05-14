@@ -1,5 +1,3 @@
-Aquí está el texto reorganizado para que sea más claro y tenga más sentido. He agrupado las frases hechas con sus traducciones y luego he puesto los ejemplos correspondientes debajo de cada grupo.
-
 **Expresiones Comunes en Inglés y su Equivalente en Español**
 
 **1. Agradecimiento y Acuerdo**

@@ -1,20 +1,5 @@
 
 
-**[Nombre del Sitio Web App]**
-
-**Menú:**
-
-*   **Pizarrón del día**
-*   **Noticias**
-*   **Clases**
-*   **eBook**
-
-**Cuenta:**
-
-*   **Ingresar**
-*   **¡Regístrate gratis!**
-*   **¡Regístrate!**
-
 **Guía de 'Idioms' (Expresiones Idiomáticas del Inglés):**
 
 *   **Descripción:** Explicación de 'idioms', con traducción a sus equivalentes en español.

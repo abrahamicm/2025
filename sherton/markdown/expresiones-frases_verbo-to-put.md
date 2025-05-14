@@ -1,4 +1,3 @@
-Aquí está el texto reorganizado para mayor claridad, con cada expresión idiomática agrupada con su definición y ejemplos:
 
 **Expresiones Idiomáticas con "Put"**
 

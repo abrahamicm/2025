@@ -1,4 +1,3 @@
-Aquí está el texto reorganizado para que sea más claro y tenga mejor sentido:
 
 **Expresiones idiomáticas con "Pay" (Pagar):**
 

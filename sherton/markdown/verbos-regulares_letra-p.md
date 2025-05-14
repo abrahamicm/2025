@@ -48,7 +48,7 @@
 
 *   detenerse, poseer, proseguir, transpirar, etc.
 
-**Notas:**
+
 
 *   He tratado de agrupar los verbos de la forma más lógica posible. Algunos verbos podrían encajar en varias categorías, dependiendo del contexto.
 *   La intención es que esta organización haga que la lista sea más útil para el estudio o la consulta.

@@ -1,4 +1,3 @@
-Claro, aquí tienes el texto reorganizado para mayor claridad y fluidez:
 
 **Adverbios de Tiempo: Duración**
 

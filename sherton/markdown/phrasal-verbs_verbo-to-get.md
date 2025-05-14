@@ -1,4 +1,3 @@
-Ok, aquí tienes el texto reorganizado para mayor claridad y sentido, separando cada "phrasal verb" con su definición y ejemplos:
 
 **get about**
 
