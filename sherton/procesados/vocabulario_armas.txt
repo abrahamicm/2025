@@ -1,0 +1,35 @@
+Vocabulario en inglés sobre las armas
+aircraftcarrier - portaviones
+airgun - rifle de aire
+ammunition - miniciones
+battleship - barco de guerra
+bazooka - bazooka
+blowgun - cervatana
+bomb - bomba
+bomber - avión bombardero
+boomerang - bumerán
+bow and arrow - arco y flecha
+bullet - bala
+cannon - cañón
+crossbow - ballesta
+dagger - daga
+fighter plane - avión caza
+flamethrower - lanzallamas
+grenade - granada
+gun - pistola
+knife - cuchillo
+machinegun - ametralladora
+mine - mina
+missile - misíl
+mortar - mortero
+pistol - pistola
+rifle - fusil
+rocket - cohete
+rocket launcher - lanzacohetes
+shotgun - escopeta
+sling - onda
+spear - lanza
+submarine - submarino
+sword - espada
+tank - tanque
+warship - barco de guerra

@@ -1,0 +1,16 @@
+aerodynamics - aerodinámica
+aeronautics - aeronáutica
+athletics - atletismo
+bionics - biónica
+ceramics - cerámica
+civics - educación cívica
+cosmetics - cosméticos
+dramatics - teatro
+economics - economía
+electronics - electrónica
+genetics - genética
+lyrics - letras de canciones
+phonetics - fonética
+politics - política
+robotics - robótica
+statistics - estadística

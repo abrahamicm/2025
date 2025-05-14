@@ -1,0 +1,5 @@
+cellphone - teléfono celular
+megaphone - megáfono
+microphone - micrófono
+saxophone - saxofón
+telephone - teléfono

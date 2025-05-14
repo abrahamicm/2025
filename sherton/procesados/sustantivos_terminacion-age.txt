@@ -1,0 +1,64 @@
+advantage - ventaja
+average - promedio
+baggage - equipaje
+bandage - venda
+beverage - bebida
+blockage - bloqueo
+bondage - esclavitud
+breakage - rotura
+cabbage - col/repollo
+camouflage - camuflaje
+carnage - carnicería, matanza
+carriage - carro/carruaje
+cartilage - cartílago
+cleavage - hendidura
+cottage - casita de campo
+courage - coraje
+coverage - cobertura
+damage - daño
+disadvantage - desventaja
+dosage - dosis
+drainage - desagüe
+espionage - espionaje
+foliage - follaje
+garage - garaje
+garbage - basura
+haemorrhage - hemorragia
+heritage - herencia
+hermitage - ermita
+homage - homenaje
+hostage - rehén
+image - imagen
+language - lengua
+lineage - linaje
+luggage - equipaje
+marriage - matrimonio
+massage - masaje
+message - mensaje
+mileage - kilometraje
+mirage - espejismo
+miscarriage - aborto espontáneo
+mortgage - hipoteca
+orphanage - orfanato
+outrage - atrocidad
+package - paquete
+page - página
+passage - pasadizo/pasaje
+percentage - porcentaje
+pilgrimage - peregrinación
+pillage - pillaje/saqueo
+plumage - plumaje
+rage - rabia
+sabotage - sabotaje
+salvage - salvamento
+sausage - salchicha
+savage - salvaje
+sewage - aguas residuales
+shortage - escasez
+spoilage - desperdicio
+stage - etapa / escenario
+storage - almacenaje
+suffrage - sufragio
+usage - uso, usanza
+village - pueblo
+voyage - viaje por mar

@@ -1,0 +1,89 @@
+identify - identificar
+ignore - ignorar
+illuminate - iluminar
+illustrate - ilustrar
+imagine - imaginar
+imitate - imitar
+immerse - sumergir
+immolate - inmolar
+impale - empalar
+impart - impartir
+impersonate - hacerse pasar por
+implant - transplantar
+implicate - implicar
+implore - implorar
+imply - insinuar, implicar
+impose - imponer
+impregnate - impregnar
+impress - impresionar
+imprint - imprimir, estampar
+improve - mejorar
+improvise - improvise
+inaugurate - inaugurar
+incapacitate - incapacitar
+inch - avanzar poco a poco
+incinerate - incinerar
+incline - inclinarse
+include - incluir
+incorporate - incorporar
+increase - incrementar
+incriminate - incriminar
+incubate - incubar
+indicate - indicar
+indulge - satisfacer, mimar
+infer - inferir
+infiltrate - infiltrar
+inflame - inflamar, encender
+inflate - inflar
+inflect - conjugar, declinar
+influence - influenciar
+inform - informar
+infuse - infundir
+inhale - inhalar
+initiate - iniciar
+inject - inyectar
+injure - lastimar
+innovate - innovar
+inoculate - inocular
+inquire - pedir información
+inscribe - inscribir
+insert - insertar
+insinuate - insinuar
+insist - insistir
+inspect - inspeccionar
+inspire - inspirar
+instigate - instigar
+instruct - dar instrucciones
+insult - insultar
+integrate - integrar
+intend - tener intención de
+interact - interactuar
+intercept - interceptar
+interest - interesar
+interfere - interferir
+interject - interponer, agregar
+interlace - intercalar
+interlock - trabar
+interpret - interpretar
+interrogate - interrogar
+interrupt - interrumpir
+intertwine - entrelazarse
+intervene - intervenir
+interview - entrevistar
+intimate - insinuar a alguien
+intone - entonar
+intoxicate - intoxicar
+introduce - introducir
+invade - invadir
+invalidate - invalidar
+invent - inventar
+invert - invertir
+investigate - investigar
+invite - invitar
+invoke - invocar
+irradiate - irradiar
+irrigate - irrigar
+irritate - irritar
+isolate - aislar
+itch - picar
+iterate - repetir

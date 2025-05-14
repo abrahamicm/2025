@@ -1,0 +1,18 @@
+comment - comentar
+complement - complementar
+consent - consentir
+disorient - desorientar
+document - documentar
+dissent - disentir
+experiment - experimentar
+frequent - frecuentar
+implement - implementar
+invent - inventar
+lament - lamentar
+orient - orientar
+present - presentar
+prevent - impedir
+repent - arrepentirse
+represent - representar
+resent - ofenderse por
+supplement - complementar

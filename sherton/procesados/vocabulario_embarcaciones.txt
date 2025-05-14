@@ -1,0 +1,44 @@
+Vocabulario en inglés sobre las embarcaciones
+aircraft carrier - portaaviones
+barge - barcaza
+battle ship - acorazado
+boat - buque, navío
+canoe - canoa
+cargo boat - buque de carga
+coast guard ship - guardacostas
+cranes - grúas
+cruise ship - crucero de placer
+cruiser - crucero de la marina
+destroyer - destructor
+dock - dársena
+ferry - transbordador
+fishing boat - barco pesquero
+freighter - carguero
+houseboat - casa flotante
+hovercraft - aerodeslizador
+hydroplane - hidroavión
+kayak - kayac
+launch - lancha
+lifeboat - bote salvavidas
+liner - transatlántico
+merchant ship - barco mercante
+minerlayer - minador
+minesweeper - dragaminas
+motorboat - lancha
+quay - muelle
+rowing boat - bote a remos
+sailing boat - barco de vela, velero
+ship - buque, barco
+shipyard - astillero
+skiff - esquife
+steamer - barco de vapor
+submarine - submarino
+tanker - petrolero
+torpedo boat - torpedero
+training ship - barco-escuela
+tug boat - remolcador
+vessel - nave, barco
+warship - barco de guerra
+whaler - ballenero
+wharf - embarcadero, muelle
+yacht - yate

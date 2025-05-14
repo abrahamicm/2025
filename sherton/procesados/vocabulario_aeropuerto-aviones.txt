@@ -1,0 +1,65 @@
+Vocabulario en inglés sobre el aeropuerto y los aviones
+air hostess - azafata
+airline - compañía aérea
+airport - aeropuerto
+aisle - pasillo
+arrivals - llegadas
+baggage - equipaje
+baggage claim - reclamo de equipaje
+boarding pass - tarjeta de embarque
+carry-on luggage - equipaje de mano
+cart - carrito, carretilla
+check-in - registración
+cockpit - cabina
+connecting flight - conexión
+control tower - torre de control
+crew - tripulación
+customs - aduana
+delayed - demorado
+departure lounge - sala de espera
+departures - salidas
+destination - destino
+domestic flight - vuelo de cabotaje
+duty free - libre de impuestos
+emergency exit - salida de emergencia
+emergency landing - aterrizaje de emergencia
+excess baggage - exceso de equipaje
+flight attendant - auxiliar de vuelo
+flight number - número de vuelo
+gate - puerta
+immigration - inmigración
+international flight - vuelo internacional
+jet lag - descompensación por la diferencia horaria
+landing - aterrizaje
+life vest - chaleco salvavidas
+loudspeakers - altoparlantes
+luggage - equipaje
+luggage compartment - compartimiento para equipaje
+meal tray - bandeja de comida
+non-stop flight - vuelo directo
+on schedule - en horario
+one-way trip - viaje de ida
+overweight - sobrepeso
+passenger - pasajero
+passport - pasaporte
+pilot - piloto
+plane - avión
+restrooms - sanitarios
+round trip ticket - pasaje de ida y vuelta
+row - fila
+runway - pista
+scales - balanza
+seat - asiento
+seat belt - cinturón de seguridad
+security check - control de seguridad
+shuttle - autobús transbordador
+steward - auxiliar de vuelo
+stewardess - azafata
+stopover - escala
+takeoff - despegue
+timetable - listado de horarios
+to board - embarcar
+to land - aterrizar
+to take off - despegar
+travel agency - agencia de viajes
+visa - visa

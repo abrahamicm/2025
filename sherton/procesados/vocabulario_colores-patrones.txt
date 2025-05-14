@@ -1,0 +1,47 @@
+Vocabulario en inglés sobre colores y patrones
+aquamarine - aguamarina
+black - negro
+blue - azul
+brown - marrón
+checked - a cuadros
+chestnut - castaño
+coral - coral
+crimson - púrpura
+dark - oscuro
+dark green - verde oscuro
+dotted - a lunares
+dull - apagado
+flowered - floreado
+fuchsia - fucsia
+golden - dorado
+gray - gris
+green - verde
+indigo - índigo
+lavender - lavanda
+light - claro
+loud - chillón
+maroon - bordó
+mauve - lila
+navy blue - azul marino
+ochre - ocre
+olive - oliva
+opaque - opaco
+orange - anaranjado
+pale - pálido
+peach - durazno
+pink - rosado
+plain - liso
+printed - estampado
+purple - morado
+red - rojo
+scarlet - rojo escarlata
+shiny - brillante
+silver - plata
+sky blue - celeste
+striped - a rayas
+teal - verde azulado
+transparent - transparente
+turquoise - turquesa
+violet - violeta
+white - blanco
+yellow - amarillo

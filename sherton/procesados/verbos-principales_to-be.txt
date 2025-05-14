@@ -1,0 +1,564 @@
+Present
+Present Perfect
+a student
+Soy un estudiante
+studying
+Estoy estudiando
+have
+been
+a student
+He sido un estudiante
+have
+been
+studying
+He estado estudiando
+Past
+Past Perfect
+was
+a student
+Fui/era un estudiante
+was
+studying
+Estuve/estaba estudiando
+had
+been
+a student
+Había sido un estudiante
+had
+been
+studying
+Había estado estudiando
+Future
+Future Perfect
+will
+a student
+Seré un estudiante
+will
+studying
+Estaré estudiando
+will have
+been
+a student
+Habré sido un estudiante
+will have
+been
+studying
+Habré estado estudiando
+Conditional
+Conditional Perfect
+would
+a student
+Sería un estudiante
+would
+studying
+Estaría estudiando
+would have
+been
+a student
+Habría sido un estudiante
+would have
+been
+studying
+Habría estado estudiando
+Forma Afirmativa
+Forma Negativa
+Forma Interrogativa
+I am (I'm)
+I am not (I'm not)
+am I?
+soy, estoy
+no soy, no estoy
+¿soy yo?, ¿estoy yo?
+you are (you're)
+you are not (you're not)
+are you?
+eres, estás
+no eres, no estás
+¿eres tú?, ¿estás tú?
+he is (he's)
+he is not (he's not)
+is he?
+él es, está
+él no es, no está
+¿es él?, ¿está él?
+we are (we're)
+we are not (we're not)
+are we?
+somos, estamos
+no somos, no estamos
+¿somos?, ¿estamos?
+you are (you're)
+you are not (you're not)
+are you?
+sois, estáis
+no sois, no estáis
+¿sois?, ¿estáis?
+they are (they're)
+they are not (they're not)
+are they?
+ellos son, están
+ellos no son, no están
+¿son, están ellos?
+Forma Afirmativa
+Forma Negativa
+Forma Interrogativa
+I was
+I was not (I wasn't)
+was I?
+fui, era,
+estuve, estaba
+no fui, no era,
+no estuve, no estaba
+¿fui?, ¿era?
+¿estuve?, ¿estaba?
+you were
+you were not (you weren't)
+were you?
+fuiste, eras,
+estuviste, estabas
+no fuiste, no eras,
+no estuviste, no estabas
+¿fuiste?, ¿eras?
+¿estuviste?, ¿estabas?
+he was
+he was not (he wasn't)
+was he?
+fue, era,
+estuvo, estaba
+no fue, no era,
+no estuvo, no estaba
+¿fue?, ¿era?
+¿estuvo?. ¿estaba?
+we were
+we were not (we weren't)
+were we?
+fuimos, éramos,
+estuvimos, estábamos
+no fuimos, no éramos,
+no estuvimos, no estábamos
+¿fuimos?, ¿éramos?
+¿estuvimos?, ¿estábamos?
+you were
+you were not (you weren't)
+were you?
+fuisteis, erais,
+estuvisteis, estabais
+no fuisteis, no erais,
+no estuvisteis, no estabais
+¿fuisteis?, ¿erais?,
+¿estuvisteis?, ¿estabais?
+they were
+they were not (they weren't)
+were they?
+fueron, eran
+estuvieron, estaban
+no fueron, no eran,
+no estuvieron, no estaban
+¿fueron?, ¿eran?
+¿estuvieron?, ¿estaban?Vista Completa - Forma Afirmativa
+Present
+Present Perfect
+- soy/estoy
+you
+are
+- eres/estás
+are
+you
+are
+they
+are
+have
+been
+- he sido/estado
+you
+have
+been
+- has sido/estado
+has
+been
+have
+been
+you
+have
+been
+they
+have
+been
+Past
+Past Perfect
+was
+- fui/era/estuve/estaba
+you
+were
+was
+were
+you
+were
+they
+were
+had
+been
+- había sido/estado
+you
+had
+been
+had
+been
+had
+been
+you
+had
+been
+they
+had
+been
+Future
+Future Perfect
+will
+- seré/estaré
+you
+will
+will
+will
+you
+will
+they
+will
+will
+have
+been
+- habré sido/estado
+you
+will
+have
+been
+will
+have
+been
+will
+have
+been
+you
+will
+have
+been
+they
+will
+have
+been
+Conditional
+Conditional Perfect
+would
+- sería/estaría
+you
+would
+would
+would
+you
+would
+they
+would
+would
+have
+been
+- habría sido/estado
+you
+would
+have
+been
+would
+have
+been
+would
+have
+been
+you
+would
+have
+been
+they
+would
+have
+been
+Vista Completa - Forma Negativa
+Present
+Present Perfect
+not
+you
+are
+not
+not
+are
+not
+you
+are
+not
+they
+are
+not
+have
+not
+been
+you
+have
+not
+been
+has
+not
+been
+have
+not
+been
+you
+have
+not
+been
+they
+have
+not
+been
+Past
+Past Perfect
+was
+not
+you
+were
+not
+was
+not
+were
+not
+you
+were
+not
+they
+were
+not
+had
+not
+been
+you
+had
+not
+been
+had
+not
+been
+had
+not
+been
+you
+had
+not
+been
+they
+had
+not
+been
+Future
+Future Perfect
+will
+not
+you
+will
+not
+will
+not
+will
+not
+you
+will
+not
+they
+will
+not
+will
+not
+have
+been
+you
+will
+not
+have
+been
+will
+not
+have
+been
+will
+not
+have
+been
+you
+will
+not
+have
+been
+they
+will
+not
+have
+been
+Conditional
+Conditional Perfect
+would
+not
+you
+would
+not
+would
+not
+would
+not
+you
+would
+not
+they
+would
+not
+would
+not
+have
+been
+you
+would
+not
+have
+been
+would
+not
+have
+been
+would
+not
+have
+been
+you
+would
+not
+have
+been
+they
+would
+not
+have
+been
+Vista Completa - Forma Interrogativa
+Present
+Present Perfect
+are
+you?
+he?
+are
+we?
+are
+you?
+are
+they?
+have
+been
+have
+you
+been
+has
+been
+have
+been
+have
+you
+been
+have
+they
+been
+Past
+Past Perfect
+was
+were
+you?
+was
+he?
+were
+we?
+were
+you?
+were
+they?
+had
+been
+had
+you
+been
+had
+been
+had
+been
+had
+you
+been
+had
+they
+been
+Future
+Future Perfect
+will
+will
+you
+will
+will
+will
+you
+will
+they
+will
+have
+been
+will
+you
+have
+been
+will
+have
+been
+will
+have
+been
+will
+you
+have
+been
+will
+they
+have
+been
+Conditional
+Conditional  Perfect
+would
+would
+you
+would
+would
+would
+you
+would
+they
+would
+have
+been
+would
+you
+have
+been
+would
+have
+been
+would
+have
+been
+would
+you
+have
+been
+would
+they
+have
+been

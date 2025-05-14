@@ -1,0 +1,11 @@
+altimeter - altímetro
+barometer - barómetro
+centimeter - centímetro
+chronometer - cronómetro
+diameter - diámetro
+kilometer - kilómetro
+millimeter - milímetro
+odometer - odómetro
+parameter - parámetro
+perimeter - perímetro
+thermometer - termómetro

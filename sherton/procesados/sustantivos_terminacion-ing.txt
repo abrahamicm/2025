@@ -1,0 +1,61 @@
+awakening - despertar
+beginning - principio
+being - ser
+belonging - pertenencia
+breeding - cría
+briefing - sesión informativa
+building - edificio
+camping - camping
+clothing - ropa
+craving - ansia
+drawing - dibujo
+dwelling - vivienda
+engineering - ingeniería
+farming - agricultura
+feeling - sentimiento
+filling - relleno
+foreboding - premonición
+gambling - juego con apuesta
+gathering - reunión
+greeting - saludo
+happening - acontecimiento
+heading - título, membrete
+hearing - audición, oído
+housing - alojamiento
+inkling - noción
+kidnapping - secuestro
+killing - matanza
+landing - aterrizaje
+learning - aprendizaje
+lighting - iluminación
+liking - gusto, afición
+loathing - odio
+lodging - alojamiento
+longing - deseo
+meaning - significado
+meeting - reunión
+misgiving - duda, recelo
+mourning - luto
+painting - pintura
+parting - despedida
+ranking - clasificación
+reading - lectura
+reasoning - razonamiento
+recording - grabación
+saying - refrán
+seasoning - condimento
+sewing - costura
+shipping - embarque
+shopping - compras
+spelling - ortografía
+spying - espionaje
+stuffing - relleno
+suffering - sufrimiento
+swelling - hinchazón
+teaching - enseñanza
+training - entrenamiento
+understanding - entendimiento
+warning - advertencia
+wedding - boda
+writing - escritura
+yearning - anhelo

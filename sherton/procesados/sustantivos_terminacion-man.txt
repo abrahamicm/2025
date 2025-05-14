@@ -1,0 +1,36 @@
+airman - aviador
+anchorman - presentador
+barman - barman
+bogeyman - cuco
+businessman - hombre de negocios
+businesswoman - mujer de negocios
+cameraman - cameraman
+caveman - cavernícola
+chairman - presidente
+clergyman - clérigo
+congressman - miembro del congreso
+countryman - campesino
+craftsman - artesano
+deliveryman - repartidor
+doorman - portero
+fireman - bombero
+fisherman - pescador
+foreman - capataz
+gentleman - señor
+gunman - pistolero
+headman - jefe
+horseman - jinete
+layman - laico
+madman - loco
+mailman - cartero
+middleman - intermediario
+policeman - policía
+postman - cartero
+salesman - dependiente
+seaman - marinero
+snowman - figura de nieve
+spokesman - portavoz
+sportsman - deportista
+statesman - estadista
+watchman - vigilante
+weatherman - meteorólogo

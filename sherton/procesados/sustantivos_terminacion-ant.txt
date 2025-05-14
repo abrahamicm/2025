@@ -1,0 +1,32 @@
+applicant - candidato
+antiperspirant - antitranspirante
+assailant - atacante
+assistant - ayudante
+attendant - asistente
+claimant - demandante
+clairvoyant - clarividente
+combatant - combatiente
+commandant - comandante
+complainant - reclamante
+confidant - confidente
+consultant - asesor
+contestant - concursante
+covenant - convenio
+deodorant - desodorante
+dependant - persona a cargo
+descendant - descendiente
+elephant - elefante
+emigrant - emigrante
+immigrant - inmigrante
+infant - niño
+inhabitant - habitante
+occupant - ocupante
+participant - participante
+peasant - campesino
+pheasant - faisán
+repellant - repelente de insectos
+servant - criado
+tenant - inquilino
+tyrant - tirano
+vagrant - vagabundo
+warrant - orden judicial

@@ -1,0 +1,7 @@
+gyroscope - giroscopio
+horoscope - horóscopo
+kaleidoscope - calidoscopio
+microscope - microscopio
+periscope - periscopio
+stethoscope - estetoscopio
+telescope - telescopio

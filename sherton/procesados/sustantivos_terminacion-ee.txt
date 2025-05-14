@@ -1,0 +1,20 @@
+addressee - destinatario
+adoptee - adoptado
+amputee - persona amputada
+appointee - persona asignada
+attendee - asistente
+committee - comité
+decree - decreto
+degree - grado/título
+designee - persona designada
+detainee - detenido
+devotee - devoto
+employee - empleado
+enrollee - inscrito
+guarantee - garantía
+interviewee - entrevistado
+jubilee - festejos
+nominee - candidato
+payee - beneficiario
+refugee - refugiado
+retiree - jubilado

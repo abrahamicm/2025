@@ -1,0 +1,19 @@
+attribute - atribuir
+commute - viajar a diario
+compute - calcular
+constitute - constituir
+contribute - contribuir
+dilute - diluir
+dispute - poner en duda
+distribute - distribuir
+execute - ejecutar
+impute - imputar
+pollute - contaminar
+prosecute - procesar
+persecute - perseguir
+reconstitute - reconstituir
+redistribute - redistribuir
+refute - refutar
+salute - saludar
+substitute - sustituir
+transmute - transmutar

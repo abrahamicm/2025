@@ -1,0 +1,68 @@
+Introducen causas a nivel del texto cuando una oración cumple la función de ser causa de otra. Algunos conectores son: for, because of, due to, since, as.
+because
+- porque
+for
+- porque
+because of
+- debido a
+since
+- puesto que
+- puesto que
+due to / owing to
+- debido a
+because
+- porque
+The baby is crying
+because
+he is hungry.
+El bebé está llorando porque tiene hambre.
+They want to come
+because
+they want to see me.
+Ellos quieren venir porque quieren verme.
+for
+- porque
+We'll have to stay home,
+for
+it is raining outside.
+Tendremos que quedarnos en casa porque está lloviendo afuera.
+She turned on the lights,
+for
+she was afraid of the dark.
+Encendió las luces porque tenía miedo a la oscuridad.
+because of
+- debido a
+They stayed in
+because of
+the bad weather.
+Ellos se quedaron en casa debido al mal tiempo.
+She can not play sports
+because of
+her illness.
+Ella no puede hacer deportes debido a su enfermedad.since
+- puesto que, ya que
+He won't understand,
+since
+he doesn't speak English.
+No entender  á, puesto que no habla inglés.
+They decided to go to sleep,
+since
+it was very late.
+Decidieron irse a dormir, puesto que era muy tarde.
+- puesto que, ya que
+She failed to pass the exam,
+she made many mistakes.
+No pudo pasar el examen, puesto que cometió muchos errores.
+They couldn't find us,
+they didn't have our address.
+No pudieron encontrarnos, ya que no tenían nuestra dirección.
+due to / owing to
+- debido a
+The unemployment was high
+due to
+the economic crisis.
+El desempleo era alto debido a la crisis económica.
+They had a delay
+owing to
+the traffic jam.
+Tuvieron una demora debido al embotellamiento de tráfico.

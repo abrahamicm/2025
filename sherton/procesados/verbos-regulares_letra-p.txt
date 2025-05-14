@@ -1,0 +1,149 @@
+pace - caminar
+pack - empacar
+pad - rellenar
+paddle - remar con pala
+paint - pintar
+pamper - mimar, consentir
+panic - entrar en pánico
+pant - jadear
+parade - desfilar
+paraphrase - parafrasear
+pardon - perdonar, indultar
+park - estacionar
+parry - esquivar
+part - separar
+pass - pasar, aprobar
+paste - pegar
+pasteurize - pasteurizar
+pat - acariciar
+patch - remendar
+patrol - patrullar
+patronize - tratar con condescendencia
+pause - detenerse
+peck - picotear
+peel - pelar
+peep - echar una ojeada
+peer - esforzarse por ver
+pelt - lanzar, golpear
+penalize - castigar
+perceive - percibir
+perch - posarse
+perform - ejecutar
+perish - fallecer
+permit - permitir
+persecute - perseguir
+persist - persistir
+personalize - personalizar
+perspire - transpirar
+persuade - persuadir
+peruse - leer detenidamente
+pester - fastidiar
+pet - acariciar
+philosophize - filosofar
+phone - llamar por teléfono
+pick - recoger, levantar
+picture - imaginarse
+pierce - perforar
+pile - apilar
+pin - sujetar
+pinch - pellizcar, apretar
+pinpoint - precisar
+pitch - lanzar
+pity - sentir lástima
+pivot - girar sobre un eje
+placate - aplacar
+place - ubicar
+plait - trenzar
+plan - planificar
+plant - plantar
+play - jugar, tocar un instrumento
+plead - declararse, alegar
+please - complacer
+pledge - prometer
+plod - caminar pesadamente
+plop - desplomarse
+plow - arar (la tierra)
+pluck - arrancar, desplumar
+plug - enchufar
+plump - mullir
+plunge - zambullirse
+point - señalar
+poke - empujar
+polish - pulir
+pollute - contaminar
+ponder - reflexionar
+pontificate - pontificar
+pop - reventar
+popularize - popularizar
+pose - posar
+position - situar
+possess - poseer
+post - eviar por correo
+postulate - postular
+pounce - abalanzarse
+pound - golpear/palpitar
+pour - derramar
+pout - hacer pucheros
+practise - practicar
+praise - alabar
+prance - hacer cabriolas/pavonearse
+prattle - parlotear
+pray - rezar
+preach - predicar
+precede - preceder
+preclude - impedir
+predict - predecir
+prefer - preferir
+prepare - preparar
+prescribe - prescribir, recetar
+present - presentar, regalar
+preserve - preservar
+press - presionar, paretar
+pressure - presionar
+presume - suponer
+pretend - fingir
+prevaricate - mentir
+prevent - impedir
+prick - pinchar, picar
+print - imprimir
+probe - investigar
+proceed - proceder, continuar
+proclaim - proclamar
+procrastinate - postergar, demorar
+prod - pinchar
+produce - producir
+profess - profesar, declarar
+program - programar
+progress - progresar
+prohibit - prohibir
+project - proyectar
+promenade - dar un paseo
+promise - prometer
+promote - promover
+prompt - provocar
+pronounce - pronunciar
+prop - apoyar, apuntalar
+propel - impulsar, propulsar
+prophesy - profetizar, vaticinar
+propose - proponer
+prosecute - procesar
+prostrate - postrar
+protect - proteger
+protest - protestar
+protrude - sobresalir
+provide - proveer
+provoke - provocar
+pry - curiosear
+publicize - hacer público
+publish - publicar
+pucker - fruncir
+pull - tirar de
+pummel - aporrear
+pump - bombear
+punch - perforar
+puncture - perforar
+punish - castigar
+purr - ronronear
+purse - fruncir
+pursue - perseguir
+push - empujar

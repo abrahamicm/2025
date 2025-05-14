@@ -1,0 +1,32 @@
+adultery - adulterio
+archery - tiro al arco
+artillery - artillería
+bakery - panadería
+battery -  batería
+bravery - valentía
+brewery - fábrica de cerveza
+bribery - soborno
+butchery - carnicería
+cemetery - cementerio
+crockery - vajilla, loza
+cutlery - cubiertos
+delivery - entrega
+discovery - descubrimiento
+distillery - destilería
+forgery - falsificación
+lottery - lotería
+machinery - maquinaria
+misery - miseria, sufrimiento
+mockery - burlas
+monastery - monasterio
+mystery - misterio
+nunnery - convento de monjas
+nursery - guardería
+recovery - recuperación
+robbery - robo, atraco
+scenery - paisaje, decorado
+slavery - esclavitud
+surgery - cirugía
+treachery - traición
+winery - bodega
+witchery - brujería

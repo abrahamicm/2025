@@ -1,0 +1,8 @@
+assist - asistir
+consist - consistir
+desist - desistir
+enlist - alistar
+exist - existir
+insist - insistir
+persist - persistir
+resist - resistir

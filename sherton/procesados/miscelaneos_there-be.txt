@@ -1,0 +1,307 @@
+Significa 'haber' (de existir). There + be se utiliza para hablar acerca de la existencia de algo, por lo tanto, ubicamos el sujeto real después del verbo.
+There is
+- hay (singular)
+There are
+- hay (plural)
+There was
+- hubo, había (singular)
+There were
+- hubo, había (plural)
+There has been
+- ha habido (singular)
+There have been
+- ha habido (plural)
+There had been
+- había habido
+There will be
+- habrá
+There will have been
+- habrá habido
+There would be
+- habría
+There would have been
+- habría habido
+There can be
+- Puede haber
+There could be
+- podría / pudo haber
+There may be
+- Puede haber
+There might be
+- podría haber
+There should be
+- debería haber
+There must be
+- debe haber
+There could have been
+- podría/pudo haber habido
+There might have been
+- podría haber habido
+There should have been
+- debería haber habido
+There must have been
+- debe haber habido
+There has to be
+- tiene que haber (singular)
+There have to be
+- tiene que haber (plural)
+There had to be
+- tuvo/tenía que haber (plural)
+There has to have been
+- tiene que haber habido (singular)
+There have to have been
+- tiene que haber habido (plural)
+There had to have been
+- tuvo/tenía que haber habido
+There is going to be
+- va a haber (singular)
+There are going to be
+- va a haber (plural)
+There was going to be
+- Iba a haber (singular)
+There were going to be
+- Iba a haber (plural)
+There is (singular)
+- hay
+There are (plural)
+- hay
+There was (singular)
+- hubo, había
+There were (plural)
+- hubo, había
+There is
+a lighthouse on the beach.
+Hay un faro en la playa.
+There is
+a store round the corner.
+Hay una tienda a la vuelta de la esquina.
+There are
+two houses near the station.
+Hay dos casas cerca de la estación.
+There are
+three schools in this town.
+Hay tres escuelas en esta ciudad.
+There was
+a party last night.
+Hubo una fiesta anoche.
+There was
+a kitten in the basket.
+Había un gatito en la canasta.
+There were
+many people at the concert.
+Había mucha gente en el recital.
+There were
+many accidents last night.
+Hubo muchos accidentes anoche.There has been (singular)
+- ha habido
+There have been (plural)
+- ha habido
+There had been
+- había habido
+There has been
+a hurricane.
+Ha habido un huracán.
+There has been
+a burglary.
+Ha habido un robo en la casa.
+There have been
+two calls.
+Ha habido dos llamados.
+There have been
+some problems lately.
+Ha habido algunos problemas últimamente.
+There had been
+many robberies in this neighborhood.
+Había habido muchos robos en este barrio.
+There had been
+lack of communication between Sam and Linda.
+Había habido falta de comunicación entre Sam y Linda.
+There will be
+- habrá
+There will have been
+- habrá habido
+There would be
+- habría
+There would have been
+- habría habido
+There will be
+a party tonight.
+Habrá una fiesta esta noche.
+There will be
+five guests to dinner tomorrow.
+Habrá cinco invitados a cenar mañana.
+There will have been
+much money in the safe.
+Habrá habido mucho dinero en la caja fuerte.
+There will have been
+a letter from Anne in the mail.
+Habrá habido una carta de Anne en el correo.
+There would be
+a live orchestra at the wedding.
+Habría una orsta en vivo en el casamiento.
+There would be
+some news from the summit meeting.
+Habría noticias de la reunión cumbre.
+There would have been
+many musicians playing Carmen.
+Habría habido muchos músicos interpretando Carmen.
+There would have been
+many people at the zoo.
+Habría habido mucha gente en el zoológico.There can be
+- Puede haber
+There could be
+- podría / pudo haber
+There may be
+- Puede haber
+There might be
+- podría haber
+There can
+be a fire.
+Puede haber un incendio.
+There can be
+an earthquake in San Francisco.
+Puede haber un terremoto en San Francisco.
+There could be
+many injured people.
+Pudo haber muchos heridos.
+There could be
+no answer from Helen.
+Podría no haber respuesta de Helen.
+There may be
+a storm.
+Puede haber una tormenta.
+There may be
+a flood in this area.
+Puede haber una inundación en esta zona.
+There might be
+blackouts tonight.
+Podría haber apagones esta noche.
+There might be
+a food shortage next week.
+Podría haber una escasez de alimentos la semana próxima.
+There should be
+- debería haber
+There must be
+- debe haber
+There should be
+a warning.
+Debería haber una advertencia.
+There should be
+someone watching that child.
+Debería haber alguien vigilando a ese niño.
+There must be
+a way out.
+Debe haber una salida.
+There must be
+a mistake.
+Debe haber un error.There could have been
+- podría/pudo haber habido
+There might have been
+- podría haber habido
+There should have been
+- debería haber habido
+There must have been
+- debe haber habido
+There could have been
+a mistake.
+Podría haber habido un error.
+There could have been
+a failure in the airplane.
+Pudo haber habido una avería en el avión.
+There might have been
+an explosion.
+Podría haber habido una explosión.
+There might have been
+a car crash.
+Podría haber habido un choque.
+There should have been
+warnings.
+Debería haber habido advertencias.
+There should have been
+a report from the chairman.
+Debería haber habido un informe del presidente.
+There must have been
+an error.
+Debe haber habido un error.
+There must have been
+a theft.
+Debe haber habido un hurto.
+There has to be
+- Tiene que haber (singular)
+There have to be
+- Tiene que haber (plural)
+There had to be
+- tuvo / tenía  haber
+There has to be
+a solution.
+Tiene que haber una solución.
+There has to be
+some news from Jack.
+Tiene que haber noticias de Jack.
+There have to be
+several solutions.
+Tiene que haber varias soluciones.
+There have to be
+many good ideas.
+Tiene que haber muchas ideas buenas.
+There had to be
+a cause.
+Tuvo que haber una causa.
+There had to be
+a reason.
+Tenía que haber una razón.There has to have been
+- tiene que haber habido (singular)
+There have to have been
+- tiene que haber habido (plural)
+There had to have been
+- tuvo/tenía que haber habido
+There has to have been
+a reason.
+Tiene que haber habido una razón.
+There has to have been
+a doubt.
+Tiene que haber habido una duda.
+There have to have been
+many reasons.
+Tiene que haber habido muchas razones.
+There have to have been
+many questions.
+Tiene que haber habido muchas preguntas.
+There had to have been
+a purpose.
+Tuvo que haber habido un propósito.
+There had to have been
+an ulterior motive.
+Tenía que haber habido un motivo oculto.
+There is going to be
+- va a haber  (singular)
+There are going to be
+- va a haber  (plural)
+There was going to be
+- Iba a haber (singular)
+There were going to be
+- Iba a haber (plural)
+There is going to be
+a celebration.
+Va a haber una celebración.
+There is going to be
+a tango show next weekend.
+Va a haber un espectáculo de tango el fin de semana  viene.
+There are going to be
+many guest speakers at the conference.
+Va a haber muchos oradores invitados en la conferencia.
+There are going to be
+many workers at the construction site.
+Va a haber muchos trabajadores en la obra en construcción.
+There was going to be
+a party yesterday.
+Iba a haber una fiesta ayer.
+There was going to be
+an exhibition last week.
+Iba a haber una exposición la semana pasada.
+There were going to be
+a host and a hostess at the cocktail.
+Iba a haber un anfitrión y una anfitriona en el cóctel.
+There were going to be
+many booths at the trade show.
+Iba a haber muchos puestos en la feria.

@@ -1,0 +1,65 @@
+Vocabulario en inglés sobre enfermedades y problemas de salud
+acne - acné
+Aids - sida
+allergy - alergia
+anemia - anemia
+appendicitis - apendicitis
+asthma - asma
+backache - dolor de espalda
+bleeding - pérdida de sangre
+blister - ampolla
+broken leg - pierna rota
+bruise - moretón
+bump - chichón
+burn - quemadura
+cancer - cáncer
+chickenpox - varicela
+cold - resfrío
+concussion - conmoción cerebral
+constipation - estreñimiento
+corn - callo
+cough - tos
+cut - corte
+depression - depresión
+diarrhea - diarrea
+disease - enfermedad
+dry skin - piel reseca
+earache - dolor de oído
+epidemic - epidemia
+fever - fiebre
+fracture - fractura
+headache - dolor de cabeza
+heart attack - ataque cardíaco
+hemorrhage - hemorragia
+hiccups - hipo
+illness - enfermedad
+infection - infección, contagio
+inflammation - inflamación
+injury - herida
+insect bite - picadura de insecto
+insomnia - insomnio
+itch - picazón
+jaundice - ictericia
+leprosy - lepra
+leukemia - leucemia
+measles - sarampión
+miscarriage - aborto espontáneo
+mumps - paperas
+rabies - rabia
+rash - sarpullido
+scar - cicatriz
+scratch - rasguño
+smallpox - viruela
+sore throat - garganta inflamada
+sprain - torcedura
+stomachache - dolor de estómago
+stress - estrés
+stroke - ataque, apoplejía
+sunburn - quemadura de sol
+sunstroke - insolación
+swelling - hinchazón
+the flu - gripe
+toothache - dolor de dientes
+ulcer - úlcera
+vomit - vómito
+wound - herida

@@ -1,0 +1,741 @@
+Present
+Present Perfect
+have
+an exam
+Tengo un examen
+have
+to study
+Tengo que estudiar
+have
+had
+an exam
+He tenido un examen
+have
+had
+to study
+He tenido que estudiar
+Past
+Past Perfect
+had
+an exam
+Tuve/tenía un examen
+had
+to study
+Tuve/tenía que estudiar
+had
+had
+an exam
+Había tenido un examen
+had
+had
+to study
+Había tenido que estudiar
+Future
+Future Perfect
+will
+have
+an exam
+Tendré un examen
+will
+have
+to study
+Tendré que estudiar
+will have
+had
+an exam
+Habré tenido un examen
+will have
+had
+to study
+Habré tenido que estudiar
+Conditional
+Conditional Perfect
+would
+have
+an exam
+Tendría un examen
+would
+have
+to study
+Tendría que estudiar
+would have
+had
+an exam
+Habría tenido un examen
+would have
+had
+to study
+Habría tenido que estudiar
+Forma Afirmativa (tener)
+Forma Afirmativa (haber)
+have
+- yo tengo
+have
+'ve
+- yo he
+You
+have
+- tú tienes
+You
+have
+(You
+'ve
+- tú has
+has
+- él tiene
+has
+(He
+- él ha
+have
+- nosotros tenemos
+have
+(We
+'ve
+- nosotros hemos
+You
+have
+- ustedes tienen
+You
+have
+(You
+'ve
+- ustedes han
+They
+have
+- ellos tienen
+They
+have
+(They
+'ve
+- ellos han
+Forma Negativa (tener)
+Forma Negativa (haber)
+don't have
+- no tengo
+haven't
+- no he
+You
+don't have
+- tú no tienes
+You
+haven't
+- tú no has
+doesn't have
+- él no tiene
+hasn't
+- él no ha
+don't have
+- nosotros no tenemos
+haven't
+- nosotros no hemos
+You
+don't have
+- ustedes no tienen
+You
+haven't
+- ustedes no han
+They
+don't have
+- ellos no tienen
+They
+haven't
+- ellos no han
+Forma Interrogativa (tener)
+Forma Interrogativa (haber)
+have
+- ¿tengo yo?
+Have
+- ¿he yo?
+you
+have
+- ¿tienes tú?
+Have
+you?
+- ¿has tú?
+Does
+have
+- ¿tiene él?
+Has
+he?
+- ¿ha él?
+have
+- ¿tenemos nosotros?
+Have
+we?
+- ¿hemos nosotros?
+you
+have
+- ¿tienen ustedes?
+Have
+you?
+- ¿han ustedes?
+they
+have
+- ¿tienen ellos?
+Have
+they?
+- ¿han ellos?Forma Afirmativa (tener)
+Forma Afirmativa (haber)
+had
+- yo tuve/tenía
+had
+- yo había
+You
+had
+- tú tuviste/tenías
+You
+had
+(You
+- tú habías
+had
+- él tuvo/tenía
+had
+(He
+- él había
+had
+- nosotros tuvimos/teníamos
+had
+(We
+- habíamos
+You
+had
+- ustedes tuvieron/tenían
+You
+had
+(You
+- uds habían
+They
+had
+- ellos tuvieron/tenían
+They
+had
+(They
+- ellos habían
+Forma Negativa (tener)
+Forma Negativa (haber)
+didn't have
+- no tuve/tenía
+hadn't
+- yo no había
+You
+didn't have
+- no tuviste/tenías
+You
+hadn't
+- tú no habías
+didn't have
+- no tuvo/tenía
+hadn't
+- él no había
+didn't have
+- no tuvimos/teníamos
+hadn't
+- no habíamos
+You
+didn't have
+- no tuvieron/tenían
+You
+hadn't
+- uds no habían
+They
+didn't have
+- no tuvieron/tenían
+They
+hadn't
+- ellos no habían
+Forma Interrogativa (tener)
+Forma Interrogativa (haber)
+Did
+have
+- ¿tuve/tenía yo?
+Had
+- ¿había yo?
+Did
+you
+have
+- ¿tuviste/tenías tú?
+Had
+you?
+- ¿habías tú?
+Did
+have
+- ¿tuvo/tenía él?
+Had
+he?
+- ¿había él?
+Did
+have
+- ¿tuvimos/teníamos?
+Had
+we?
+- ¿habíamos nosotros?
+Did
+you
+have
+- ¿tuvieron/tenían uds?
+Had
+you?
+- ¿habían ustedes?
+Did
+they
+have
+- ¿tuvieron/tenían ellos?
+Had
+they?
+- ¿habían ellos?
+Vista Completa - Forma Afirmativa
+Present
+Present Perfect
+have
+- tengo
+you
+have
+has
+have
+you
+have
+they
+have
+have
+had
+- he tenido
+you
+have
+had
+has
+had
+have
+had
+you
+have
+had
+they
+have
+had
+Past
+Past Perfect
+had
+- tuve/tenía
+you
+had
+had
+had
+you
+had
+they
+had
+had
+had
+- había tenido
+you
+had
+had
+had
+had
+had
+had
+you
+had
+had
+they
+had
+had
+Future
+Future Perfect
+will
+have
+- tendré
+you
+will
+have
+will
+have
+will
+have
+you
+will
+have
+they
+will
+have
+will
+have
+had
+- habré tenido
+you
+will
+have
+had
+will
+have
+had
+will
+have
+had
+you
+will
+have
+had
+they
+will
+have
+had
+Conditional
+Conditional Perfect
+would
+have
+- tendría
+you
+would
+have
+would
+have
+would
+have
+you
+would
+have
+they
+would
+have
+would
+have
+had
+- habría tenido
+you
+would
+have
+had
+would
+have
+had
+would
+have
+had
+you
+would
+have
+had
+they
+would
+have
+hadVista Completa - Forma Negativa
+Present
+Present Perfect
+not
+have
+you
+not
+have
+does
+not
+have
+not
+have
+you
+not
+have
+they
+not
+have
+have
+not
+had
+you
+have
+not
+had
+has
+not
+had
+have
+not
+had
+you
+have
+not
+had
+they
+have
+not
+had
+Past
+Past Perfect
+did
+not
+have
+you
+did
+not
+have
+did
+not
+have
+did
+not
+have
+you
+did
+not
+have
+they
+did
+not
+have
+had
+not
+had
+you
+had
+not
+had
+had
+not
+had
+had
+not
+had
+you
+had
+not
+had
+they
+had
+not
+had
+Future
+Future Perfect
+will
+not
+have
+you
+will
+not
+have
+will
+not
+have
+will
+not
+have
+you
+will
+not
+have
+they
+will
+not
+have
+will
+not
+have
+had
+you
+will
+not
+have
+had
+will
+not
+have
+had
+will
+not
+have
+had
+you
+will
+not
+have
+had
+they
+will
+not
+have
+had
+Conditional
+Conditional Perfect
+would
+not
+have
+you
+would
+not
+have
+would
+not
+have
+would
+not
+have
+you
+would
+not
+have
+they
+would
+not
+have
+would
+not
+have
+had
+you
+would
+not
+have
+had
+would
+not
+have
+had
+would
+not
+have
+had
+you
+would
+not
+have
+had
+they
+would
+not
+have
+had
+Vista Completa - Forma Interrogativa
+Present
+Present Perfect
+have
+you
+have
+does
+have
+have
+you
+have
+they
+have
+have
+had
+have
+you
+had
+has
+had
+have
+had
+have
+you
+had
+have
+they
+had
+Past
+Past Perfect
+did
+have
+did
+you
+have
+did
+have
+did
+have
+did
+you
+have
+did
+they
+have
+had
+had
+had
+you
+had
+had
+had
+had
+had
+had
+you
+had
+had
+they
+had
+Future
+Future Perfect
+will
+have
+will
+you
+have
+will
+have
+will
+have
+will
+you
+have
+will
+they
+have
+will
+have
+had
+will
+you
+have
+had
+will
+have
+had
+will
+have
+had
+will
+you
+have
+had
+will
+they
+have
+had
+Conditional
+Conditional Perfect
+would
+have
+would
+you
+have
+would
+have
+would
+have
+would
+you
+have
+would
+they
+have
+would
+have
+had
+would
+you
+have
+had
+would
+have
+had
+would
+have
+had
+would
+you
+have
+had
+would
+they
+have
+had

@@ -1,0 +1,12 @@
+access - acceso
+actress - actriz
+address - dirección
+congress - congreso
+countess - condesa
+duchess - duquesa
+princess - princesa
+process - proceso
+progress - progreso
+sculptress - escultora
+stewardess - azafata
+waitress - camarera

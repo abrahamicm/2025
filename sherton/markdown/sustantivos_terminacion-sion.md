@@ -1,0 +1,58 @@
+
+
+**Glosario de Palabras Terminadas en "-sion"**
+
+Este glosario presenta una lista de palabras en inglés terminadas en "-sion" junto con su traducción al español.
+
+*   **admission:** admisión
+*   **cohesion:** cohesión
+*   **collision:** colisión
+*   **comprehension:** comprensión
+*   **conclusion:** conclusión
+*   **confusion:** confusión
+*   **decision:** decisión
+*   **delusion:** ilusión vana
+*   **depression:** depresión
+*   **dimension:** dimensión
+*   **discussion:** discusión
+*   **diversion:** desvío
+*   **erosion:** erosión
+*   **expansion:** extensión
+*   **explosion:** explosión
+*   **expression:** expresión
+*   **extension:** extensión
+*   **fusion:** fusión
+*   **illusion:** ilusión
+*   **immersion:** inmersión
+*   **incursion:** incursión
+*   **intrusion:** intrusión
+*   **invasion:** invasión
+*   **inversion:** inversión
+*   **mansion:** mansión
+*   **mission:** misión
+*   **obsession:** obsesión
+*   **occasion:** ocasión
+*   **omission:** omisión
+*   **oppression:** opresión
+*   **passion:** pasión
+*   **percussion:** percusión
+*   **permission:** permiso
+*   **persuasion:** persuasión
+*   **perversion:** perversión
+*   **possession:** posesión
+*   **precision:** precisión
+*   **profession:** profesión
+*   **repression:** represión
+*   **repulsion:** repulsión
+*   **reversion:** reversión
+*   **revision:** revisión
+*   **seclusion:** aislamiento
+*   **session:** sesión
+*   **supervision:** supervisión
+*   **television:** televisión
+*   **tension:** tensión
+*   **transfusion:** transfusión
+*   **transgression:** transgresión
+*   **transmission:** transmisión
+*   **version:** versión
+*   **vision:** visión

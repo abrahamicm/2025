@@ -1,0 +1,23 @@
+accessory - cómplice
+category - categoría
+conservatory - conservatorio
+crematory - crematorio
+directory - directorio
+dormitory - residencia estudiantil
+factory - fábrica
+glory - gloria
+history - historia
+inventory - inventario
+ivory - marfil
+laboratory - laboratorio
+lavatory - baños
+memory - recuerdo, memoria
+observatory - observatorio
+oratory - oratorio
+purgatory - purgatorio
+reformatory - reformatorio
+story - relato, cuento
+territory - territorio
+theory - teoría
+trajectory - trayectoria
+victory - victoria

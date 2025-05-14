@@ -1,0 +1,12 @@
+bactericide - bactericida
+fraticide - fraticidio
+genocide - genocidio
+herbicide - herbicida
+homicide - homicidio
+infanticide - infanticidio
+insecticide - insecticida
+matricide - matricidio
+patricide - parricidio
+pesticide - pesticida
+spermicide - espermicida
+suicide - suicidio

@@ -1,0 +1,47 @@
+Vocabulario en inglés sobre el hospital
+ambulance - ambulancia
+anaesthesia - anestesia
+appointments book - Libro de citas
+blood pressure - presión sanguínea
+blood test - prueba de sangre
+breathing apparatus - respirador artificial
+capsule - cápsula
+car accident - accidente de autos
+check-up - chequeo médico
+doctor - doctor
+dressing gown - bata
+emergency room - sala de emergencias
+examination couch - diván de reconocimiento
+first aid - primeros auxilios
+gauze - gasa
+health insurance - seguro médico
+injection - inyección
+intensive care unit - unidad de cuidados intensivos
+laboratory - laboratorio
+mask - mascarilla
+medical record - historia clínica
+medicine cabinet - armario de remedios
+microscope - microscopio
+nurse - enfermera
+operating table - mesa de operaciones
+operation - operación
+oxygen - oxigeno
+painkiller - calmante para el dolor
+paramedics - paramédicos
+patient - paciente
+physician - médico clínico
+plaster - yeso
+prescription - receta
+pyjamas - piyama
+sleeping pills - pastillas para dormir
+slippers - pantuflas
+stitches - puntos de sutura
+stretcher - camilla
+surgeon - cirujano
+surgical instruments - instrumentos quirúrgicos
+syringes - jeringas
+therapy - terapia
+treatment - tratamiento
+waiting room - sala de espera
+wheelchair - silla de ruedas
+x-ray plate - radiografía

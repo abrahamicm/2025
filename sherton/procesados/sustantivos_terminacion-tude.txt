@@ -1,0 +1,12 @@
+altitude - altitud
+amplitude - amplitud
+aptitude - aptitud
+attitude - actitud
+fortitude - fortaleza
+gratitude - gratitud
+latitude - latitud
+longitude - longitud
+magnitude - magnitud
+multitude - multitud
+prelude - preludio
+solitude - soledad

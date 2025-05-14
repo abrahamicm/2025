@@ -1,0 +1,37 @@
+authoritarian - autoritario
+barbarian - bárbaro
+bohemian - bohemio
+caucasian - caucásico
+christian - cristiano
+civilian - civil
+cosmopolitan - cosmopolita
+republican - republicano
+urban - urbano
+veteran - veterano
+American - Americano
+Australian - Australiano
+Austrian - Austríaco
+Belgian - Belga
+Bolivian - Boliviano
+Brazilian - BrasileñoCanadian
+(kanédian) -
+Canadiense
+Chilean - Chileno
+Colombian - Colombiano
+Cuban - Cubano
+Egyptian - Egipcio
+German - Alemán
+Hungarian - Húngaro
+Indian - Indio
+Iranian - Iraní
+Italian - Italiano
+Jamaican - Jamaicano
+Korean - Coreano
+Mexican - Mejicano
+Norwegian - Noruego
+Paraguayan - Paraguayo
+Peruvian - Peruano
+Russian - Ruso
+South African - Sudafricano
+Uruguayan - Uruguayo
+Venezuelan - Venezolano

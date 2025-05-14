@@ -1,0 +1,44 @@
+Vocabulario en inglés sobre familia y parientes
+aunt - tía
+brother - hermano
+brother-in-law - cuñado
+children - hijos
+cousin - primo/a
+dad, daddy - papi, papito
+daughter - hija
+daughter-in-law - nuera
+father - padre
+father-in-law - suegro
+first-born - primogénito
+goddaughter - ahijada
+godfather - padrino
+godmother - madrina
+godson - ahijado
+grandchildren - nietos
+granddaughter - nieta
+grandfather - abuelo
+grandmother - abuela
+grandparents - abuelos
+grandson - nieto
+great-grandfather - bisabuelo
+great-grandmother - bisabuela
+great-grandparents - bisabuelos
+husband - esposo
+mom, mommy - mami, mamita
+mother - madre
+mother-in-law - suegra
+nephew - sobrino
+niece - sobrina
+only child - hijo/a único/a
+orphan - huérfano
+parents - padres
+sister - hermana
+sister-in-law - cuñada
+son - hijo
+son-in-law - yerno
+stepdaughter - hijastra
+stepfather - padrastro
+stepmother - madrastra
+stepson - hijastro
+uncle - tío
+wife - esposa

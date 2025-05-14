@@ -1,0 +1,70 @@
+Adjetivos calificativos clasificados por categorías
+Appearance:
+beautiful, ugly, clean, dirty, ...
+Feelings (positive) :
+amused, satisfied, happy, ...
+Feelings (negative) :
+bored, afraid, angry, ...
+Appearance - Apariencia
+beautiful - lindo
+ugly - feo
+clean - limpio
+dirty - sucio
+full - lleno
+empty - vacío
+simple - simple
+complex - complejo
+difficult - difícil
+easy - fácil
+safe - seguro
+dangerous-  peligroso
+strong - fuerte
+weak - débil
+same - mismo
+different - diferente
+neat - limpio, ordenado
+messy - desordenado
+rich - rico
+poor - pobre
+Feelings & Moods (positive) - Sentimientos & Estados de ánimo(positivo)
+amused - divertido
+calm - tranquilo
+cheerful - alegre
+confident - confiado
+content - contento, satisfecho
+eager - deseoso
+satisfied - satisfecho
+ecstatic - eufórico
+enthusiastic - entusiasmado
+inspired - inspirado
+elated - regocijado
+energetic - activo, dinámico
+pleased - encantado
+excited - excitado
+grateful - agradecido
+happy - feliz
+thrilled - emocionado
+hopeful - optimista
+The president was not
+satisfied
+with his ministers.
+El presidente no estaba satisfecho  con sus ministros.
+Feelings & Moods (negative) - Sentimientos & Estados de ánimo (negativo)
+afraid - con miedo
+angry - enfadado
+annoyed - disgustado
+ashamed - avegonzado
+bored - aburrido
+confused - confundido
+depressed - deprimido
+lonely - solo y triste
+upset - molesto
+sad - triste
+tired - cansado
+disappointed - decepcionado
+distressed - angustiado
+embarrased - avergonzado
+frightened - asustado
+frustrated - frustrado
+jealous - celoso, envidioso
+worried - preocupado

@@ -1,0 +1,42 @@
+Vocabulario en inglés sobre puntos en el tiempo
+at dawn - al amanecer
+at dusk - al atardecer
+at midnight - a medianoche
+at night - de noche
+at noon - al mediodía
+every week - todas las semanas
+in a week - dentro de una semana
+in the afternoon - por la tarde
+in the early morning - por la madrugada
+in the evening - por la noche
+in the morning - por la mañana
+last Friday - el viernes pasado
+last month - el mes pasado
+last night - anoche
+last week - la semana pasada
+last year - el año pasado
+next Friday - el viernes que viene
+next week - la semana que viene
+next year - el año que viene
+the day after - el día siguiente
+the day after tomorrow - pasado mañana
+the day before - el día antes
+the day before yesterday - anteayer
+this evening - esta noche
+this Friday - este viernes
+this month - este mes
+this week - esta semana
+this year - este año
+three weeks ago - hace tres semanas
+today - hoy
+tomorrow - mañana
+tomorrow afternoon - mañana por la tarde
+tomorrow evening - mañana por la noche
+tomorrow morning - mañana por la mañana
+tonight - esta noche
+two days ago - hace dos días
+two days earlier - dos días antes
+two days later - dos días después
+yesterday - ayer
+yesterday evening - ayer por la noche
+yesterday morning - ayer por la mañana

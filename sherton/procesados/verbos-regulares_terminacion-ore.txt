@@ -1,0 +1,6 @@
+adore - adorar
+deplore - deplorar
+explore - explorar
+ignore - ignorar
+implore - implorar
+restore - restaurar

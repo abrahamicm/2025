@@ -1,0 +1,37 @@
+
+
+**Condicional Cero: Verdades Universales**
+
+El condicional cero se usa para expresar situaciones que son **siempre verdaderas**, es decir, verdades universales o hechos científicos.
+
+**Estructura:**
+
+*   **If clause (condición):** If + Present Simple
+*   **Main clause (resultado):** Present Simple
+
+**Esquema:**
+
+```
+If + Present tense,  Present tense
+```
+
+**Ejemplo en Inglés:**
+
+```
+If you freeze water, it turns into ice.
+```
+
+*   **If clause:** If you freeze water
+*   **Main clause:** it turns into ice.
+
+**Traducción:** Si congelas el agua, se convierte en hielo.
+
+**Más ejemplos en Inglés y Español:**
+
+*   If I work too much, I get tired.   Si trabajo demasiado, me canso.
+*   If I have time, I usually go to the movies.   Si tengo tiempo, generalmente voy al cine.
+*   If she eats hamburgers, she gets an allergy.   Si ella come hamburguesas, le da alergia.
+*   If they come here, they always bring a present.   Si ellos vienen aquí, siempre traen un regalo.
+*   If she doesn't know the answer, she keeps silent.   Si ella no sabe la respuesta, se mantiene en silencio.
+*   If we don't go out on Saturdays, we rent a video and stay home.   Si no salimos los sábados, alquilamos un video y nos quedamos en casa.
+

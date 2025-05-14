@@ -1,0 +1,103 @@
+Vocabulario en inglés sobre los estados de ánimo
+afraid - temeroso, con miedo
+alarmed - alarmado
+alert - alerta
+amazed - asombrado
+angry - enojado
+annoyed - molesto
+ashamed - avergonzado
+astonished - asombrado
+bored - aburrido
+calm - calm
+cheerful - alegre
+complacent - satisfecho consigo mismo
+confident - confiado
+confused - confundido
+content - satisfecho
+content - contento
+contented - contento, satisfecho
+curious - curioso
+dejected - desanimado
+delighted - encantado
+depressed - deprimido
+disappointed - defraudado
+disheartened - descorazonado
+disillusioned - desilusionado
+distressed - angustiado
+dizzy - mareado
+drunk - borracho
+eager - ansioso, deseoso
+edgy - nervioso, inquieto
+elated - regocijado
+embarrassed - avergonzado, abochornado
+emotional - emocionado, sensible
+enthusiastic - entusiasmado
+envious - envidioso
+excited - excitado
+frustrated - frustrado
+furious - furioso
+glad - contento
+gloomy - triste, pesimista
+grateful - agradecido
+groggy - aturdido
+grumpy - malhumorado
+guilty - culpable
+happy - feliz, contento
+homesick - nostálgico
+hopeful - esperanzado
+horny - caliente, cachondo
+hostile - hostil
+humiliated - humillado
+hungry - hambriento, con hambre
+hurt - herido
+impressed - impresionado
+in love - enamorado
+indifferent - indiferente
+indignant - indignado
+insecure - inseguro
+irritable - irritable
+jealous - celoso
+jubilant - jubiloso
+lazy - perezoso
+listless - indiferente, desganado
+lonely - solitario, solo
+merry - alegre
+mischievous - travieso
+miserable - triste, desgraciado
+nervous - nervioso
+nostalgic - nostálgico
+offended - ofendido
+optimistic - optimista
+overwhelmed - agobiado
+playful - juguetón
+pleased - complacido, satisfecho
+positive - positivo
+proud - orgulloso
+puzzled - confundido
+rejected - rechazado
+relaxed - relajado
+relieved - aliviado
+resentful - resentido
+restless - inquieto
+sad - triste
+satisfied - satisfecho
+scared - asustado
+sentimental - sentimental
+shocked - impresionado, conmovido
+sick - enfermo
+sleepy - soñoliento
+surprised - sorprendido
+terrified - aterrorizado
+thankful - agradecido
+thirsty - sediento, con sed
+thoughtful - pensativo
+thrilled - estremecido
+tired - cansado, fatigado
+touched - emocionado
+touchy - susceptible
+uncomfortable - incómodo, molesto
+unhappy - desdichado
+upset - molesto
+wary - cauteloso
+weary - cansado
+worried - preocupado

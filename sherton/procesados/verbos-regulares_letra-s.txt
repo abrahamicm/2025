@@ -1,0 +1,317 @@
+sack - despedir
+sail - navegar
+salivate - salivar
+salute - saludar
+salvage - salvar
+sashay - caminar pavoneándose
+satirize - satirizar
+satisfy - satisfacer
+saturate - saturar
+saunter - pasear
+savage - atacar ferozmente
+save - salvar, ahorrar, guardar
+savor - saborear
+saw - coser
+scale - escalar
+scamper - corretear
+scan - escudriñar/escanear
+scandalize - escandalizar
+scare - asustar
+scatter - dispersar
+scheme - conspirar
+school - instruir
+scoff - mofarse
+scold - reprender
+scoop - sacar
+scoot - ir rápidamente
+scorch - chamuscar, quemar
+score - anotar
+scorn - desdeñar
+scour - registrar/fregar
+scowl - fruncir el ceño
+scramble - mezclar
+scrape - raspar
+scratch - rasguñar
+scrawl - garabatear
+scream - gritar
+screech - chirriar
+screw - atornillar
+scribble - garabatear
+scrub - fregar, cancelar
+scrunch - crujir
+scrutinize - escudriñar
+scuff - rayar
+scurry - corretear
+scuttle - corretear
+seal - sellar
+seam - unir con costuras
+search - buscar
+seclude - aislar
+secure - asegurar
+seduce - seducir
+seem - parecer
+seep - filtrarse
+seethe - hervir, rabiar
+seize - agarrar
+select - seleccionar
+sense - sentir
+sentence - sentenciar
+separate - separar
+serenade - dar una serenata
+serve - servir
+settle - establecer
+sever - cortar
+sew - coser
+shade - dar sombra
+shamble - caminar arrastrando los pies
+shape - dar forma
+share - compartir
+sharpen - afilar
+shatter - hacer(se) añicos
+shave - afeitarse
+shear - esquilar, cortar (el pelo)
+sheathe - enfundar
+shelter - proteger
+shield - proteger
+shift - cambiar
+shirk - rehuir
+shiver - tiritar
+shock - sobresaltar, conmover
+shoo - ahuyentar
+shop - hacer compras
+shorten - acortar
+shoulder - cargar
+shout - gritar
+shove - empujar bruscamente
+shovel - mover con pala
+showcase - exhibir
+shower - regar/colmar/ducharse
+shred - triturar
+shriek - chillar
+shrug - encogerse de hombros
+shudder - estremecerse
+shuffle - revolver
+shush - hacer callar
+sidestep - esquivar
+sidle - acercarse sigilosamente
+sift - tamizar
+sigh - suspirar
+sign - firmar
+signal - señalar
+silence - silenciar
+simmer - hervir a fuego lento
+simper - sonreír como un tonto
+sin - pecar
+sip - beber a sorbos
+size - clasificar según el tamaño
+sketch - bosquejar
+skewer - ensartar (carne, etc)
+ski - esquiar
+skid - derrapar, patinar
+skim - descremar/echar un vistazo
+skip - saltar, brincar
+skitter - pulular
+skulk - merodear
+slam - cerra de golpe
+slander - calumniar
+slap - abofetear
+slash - cortar
+slather - untar
+slice - rebanar
+slick - alisar
+slide - deslizarse
+slip - resbalar
+slither - deslizarse
+slobber - babearse
+slosh - chapotear
+slouch - encorvarse
+slow - reducir la velocidad
+smash - hacer trizas
+slumber - dormir
+slump - disminuir
+slur - arrastrar (las palabras)
+slurp - sorber
+smack - besar/pegar una bofetada
+smear - embadurnar
+smile - sonreír
+smirk - sonreír con suficiencia
+smite - golpear
+smoke - fumar
+smolder - arder sin llama
+smooch - besuquearse
+smooth - alisar
+smother - ahogar, sofocar
+smudge - manchar
+snake - serpentear
+snap - partir, quebrar
+snarl - gruñir
+snatch - arrebatar
+sneak - hacer furtivamente
+sneer - sonreír con desprecio
+sneeze - estornudar
+snicker - reírse disimuladamente
+sniff - olfatear
+sniffle - respirar con la nariz congestionada
+snigger - reírse disimuladamente
+snip - cortar (con tijera)
+snipe - disparar
+snitch - birlar/contar un secreto
+snivel - lloruquear
+snooze - dormitar
+snore - roncar
+snort - bufar, resoplar
+snow - nevar
+snub - desairar
+snuff - sorber por la nariz
+snuffle - respirar con la nariz congestionada
+snuggle - acurrucarse
+soak - empapar
+sob - sollozar
+socialize - relacionar
+soften - ablandar(se)
+solemnize - solemnizar
+somersault - dar volteretas
+soothe - tranquilizar
+sort - clasificar
+sound - sonar
+span - abarcar
+spank - dar nalgadas
+spare - perdonar, ahorrar
+spark - chispear
+sparkle - centellar
+specialize - especializar
+specify - especificar
+speculate - especular
+spike - clavar
+spite - fastidiar
+splash - salpicar
+splay - extenderse
+splinter - astillar(se)
+splutter - farfullar
+spot - salpicar
+sprawl - extenderse
+spray - vaporizar
+sprinkle - rociar, espolvorear
+sprint - esprintar
+sprout - brotar
+spur - espolear
+spurn - desdeñar
+sputter - chisporrotear
+spy - espiar
+squall - chillar
+square - cuadrar
+squash - aplastar
+squat - ponerse en cuclillas
+squawk - graznar
+squeak - rechinar
+squeal - chillar
+squeeze - apretar, exprimir
+squint - mirar con los ojos entornados
+squirm - retorcerse
+squirt - lanzar un chorro
+squish - aplastar
+stab - apuñalar
+stabilize - estabilizar
+stack - apilar
+stagger - tambalearse
+stain - teñir, pintar
+stalk - acechar
+stall - entretener, demorar
+stammer - tartamudear
+stamp - patalear, zapatear
+standardize - normalizar
+stare - mirar fijamente
+start - arrancar, comenzar
+startle - sobresaltar
+stash - esconder
+state - declarar
+station - etacionar, apostar
+stay - quedarse, permanecer
+steady - estabilizarse
+steer - conducir, dirigir
+step - subir a bordo, pasar
+sterilize - esterilizar
+stick - pegar
+stiffen - endurecerse
+stifle - sofocar
+still - apaciguar(se)
+stimulate - estimular
+stipulate - estipular
+stir - remover, hurgar
+stitch - coser, suturar
+stock - abastecer
+stockpile - almacenar
+stoke - atizar
+stomp - pisar fuerte
+stoop - agacharse
+stop - detenerse
+store - almacenar
+storm - atacar/llover tormentosamente
+stow - guardar
+straddle - sentarse a horcajadas
+straighten - enderezar
+strain - forzar
+strangle - estrangular
+strap - vendar, atar con correa
+stray - desviarse, extraviarse
+streak - hacer rayas
+strengthen - reforzar
+stress - recalcar/estresar
+stretch - estirar
+strip - desnudarse
+stroke - acariciar
+stroll - pasear
+struggle - luchar
+strum - rasguear
+strut - pavonearse
+stuff - rellenar, tapar
+stumble - tropezar
+stump - dejar perplejo
+stutter - tartamudear
+style - peinar, diseñar
+subdue - sojuzgar
+submerge - sumergir(se)
+submit - rendirse/presentar
+subside - calmarse, amainar
+subsidize - subvencionar
+substitute - sustituir
+subtract - restar
+succeed - tener éxito
+succumb - sucumbir
+suck - sorber, aspirar
+suffer - sufrir
+suggest - sugerir
+suit - quedar bien, convenir
+sulk - enfurruñarse, estar de mal humor
+summarize - resumir
+summon - convocar, llamar
+supervise - supervisar
+supplement - suplementar
+supply - suministrar
+support - apoyar
+suppose - suponer
+surge - salir en tropel
+surmise - conjeturar
+surprise - sorprender
+surrender - rendirse
+surround - rodear
+survey - inspeccionar
+survive - sobrevivir
+suspect - sospechar
+suspend - colgar
+swab - limpiar
+swagger - pavonearse
+swallow - tragar
+swat - aplastar (un insecto)
+sway - balamcearse
+sweat - sudar
+swerve - virar bruscamente
+swill - beber a tragos grandes
+swipe - golpear/birlar
+swirl - arremolinarse
+swish - mover produciendo un sonido
+switch - cambiar, enchufar
+swivel - girar sobre un pivote
+swoon - desmayarse
+symbolize - simbolizar
+sympathize - compadecer

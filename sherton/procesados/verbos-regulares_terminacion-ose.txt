@@ -1,0 +1,15 @@
+close - cerrar
+compose - componer
+decompose - descomponer
+depose - deponer
+diagnose - diagnosticar
+disclose - revelar
+dispose - disponer
+enclose - encerrar
+expose - exponer
+impose - imponer
+oppose - oponerse
+propose - proponer
+repose - descansar
+suppose - suponer
+transpose - transponer
