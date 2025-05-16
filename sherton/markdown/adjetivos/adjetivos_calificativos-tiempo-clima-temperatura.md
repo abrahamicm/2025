@@ -21,10 +21,6 @@
 *   **past**  - pasado
 *   **future**  - futuro
 
-    *Ejemplos:*
-
-    *   *They are studying **ancient** civilizations.* (Están estudiando las civilizaciones antiguas).
-    *   *You are too **old-fashioned** to be a genius.* (Eres demasiado anticuado para ser un genio).
 
 **2. Tiempo (clima) (Weather)**
 
@@ -43,10 +39,7 @@
 *   **mild**  - templado
 *   **chilly**  - frío
 
-    *Ejemplos:*
 
-    *   *It was so **foggy** that I could not see anything.* (Estaba tan brumoso que no podía ver nada).
-    *   *Brazil has nice **sunny** beaches.* (Brasil tiene hermosas playas soleadas).
 
 **3. Temperatura (Temperature)**
 
@@ -60,8 +53,3 @@
 *   **hot**  - caluroso
 *   **warm**  - cálido
 *   **pleasant**  - agradable
-
-    *Ejemplos:*
-
-    *   *There are **freezing** temperatures in that region.* (Hay temperaturas heladas en esa región).
-    *   *Corals are found in **warm**, tropical waters.* (Los corales se encuentran en aguas tropicales cálidas).

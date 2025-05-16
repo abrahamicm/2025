@@ -24,10 +24,6 @@
     *   **tight** - apretado
     *   **loose** - holgado
 
-    **Ejemplos:**
-
-    *   That area is now **smooth**, **dry**, and **hard**. (Esa área es ahora suave, seca y dura.)
-    *   Spider's webs are made of a **sticky** material. (Las telarañas están hechas de un material pegajoso.)
 
 *   **Materiales (Materials):**
 
@@ -46,10 +42,6 @@
     *   **tin** - de lata
     *   **cotton** - de algodón
 
-    **Ejemplos:**
-
-    *   They had to cross the **wooden** bridge. (Tuvieron que cruzar el puente de madera.)
-    *   My brother collected **glass** objects. (Mi hermano coleccionaba objetos de vidrio.)
 
 *   **Sonido (Sound):**
 
@@ -68,7 +60,3 @@
     *   **shrill** - agudo, chillón
     *   **melodic** - melódico
 
-    **Ejemplos:**
-
-    *   We could not have a conversation because of the **loud** music. (No pudimos tener una conversación debido a la música fuerte.)
-    *   The teacher entered the **noisy** room. (La maestra ingresó al ruidoso recinto.)

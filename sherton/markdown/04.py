@@ -1,81 +1,60 @@
 import os
 import subprocess
 import re
-import sys
 
-def limpiar_markdown(texto):
-    """Limpia el texto en formato markdown para una mejor lectura por voz."""
-    texto = re.sub(r'\*\*([^*]+)\*\*', r'\1', texto)
-    texto = re.sub(r'\*([^*]+)\*', r'\1', texto)
-    texto = re.sub(r'\[([^]]+)\]\(.*?\)', r'\1', texto)
-    texto = re.sub(r'`[^`]*`', '', texto)
-    texto = re.sub(r'```[\s\S]*?```', '', texto)
-    texto = re.sub(r'\n{2,}', '\n\n', texto)
-    texto = re.sub(r'#+ ', '', texto)
-    return texto.strip()
+# Configuraciones
+input_folder = "./"
+output_folder = "audios"
+balcon_path = "balcon.exe"
+voz_esp = "Microsoft Helena Desktop"  # Cambia esto según la voz instalada en tu sistema
 
-def main():
-    voz_esp = "Microsoft Helena Desktop"  # Cambia aquí si deseas otra voz española
+os.makedirs(output_folder, exist_ok=True)
 
-    if len(sys.argv) > 1 and os.path.isdir(sys.argv[1]):
-        carpeta = sys.argv[1]
-    else:
-        carpeta = os.path.dirname(os.path.abspath(__file__))
+def clean_markdown(text):
+    text = re.sub(r'!\[.*?\]\(.*?\)', '', text)
+    text = re.sub(r'\[.*?\]\(.*?\)', '', text)
+    text = re.sub(r'`{1,3}.*?`{1,3}', '', text, flags=re.DOTALL)
+    text = re.sub(r'>+', '', text)
+    text = re.sub(r'[#*_~`]', '', text)
+    text = re.sub(r'\n{2,}', '\n', text)
+    return text.strip()
 
-    archivos_md = [archivo for archivo in os.listdir(carpeta) if archivo.endswith(".md")]
-    if not archivos_md:
-        print("⚠️ No se encontraron archivos Markdown (.md) en la carpeta.")
-        return
+def convert_to_audio(md_file):
+    base_name = os.path.splitext(md_file)[0]
+    txt_path = os.path.join(output_folder, f"{base_name}.txt")
+    wav_path = os.path.join(output_folder, f"{base_name}.wav")
+    mp3_path = os.path.join(output_folder, f"{base_name}.mp3")
 
-    for archivo in archivos_md:
+    with open(os.path.join(input_folder, md_file), "r", encoding="utf-8") as f:
+        raw_text = f.read()
+    
+    cleaned_text = clean_markdown(raw_text)
+
+    with open(txt_path, "w", encoding="utf-8") as f:
+        f.write(cleaned_text)
+
+    comando = [
+        balcon_path,
+        "-f", txt_path,
+        "-w", wav_path,
+        "-n", voz_esp,
+        "-v", "100",
+        "-m", "1",
+        "--encoding", "utf8"
+    ]
+
+    subprocess.run(comando, check=True)
+    subprocess.run(["ffmpeg", "-y", "-i", wav_path, mp3_path], check=True)
+
+    os.remove(txt_path)
+    os.remove(wav_path)
+
+    print(f"✅ Generado: {mp3_path}")
+
+# Ejecutar para todos los .md
+for archivo in os.listdir(input_folder):
+    if archivo.endswith(".md"):
         try:
-            nombre_base = os.path.splitext(archivo)[0]
-            ruta_md = os.path.join(carpeta, archivo)
-            ruta_txt = os.path.join(carpeta, f"{nombre_base}.txt")
-            ruta_wav = os.path.join(carpeta, f"{nombre_base}.wav")
-
-            try:
-                with open(ruta_md, "r", encoding="utf-8") as f:
-                    contenido = f.read()
-            except UnicodeDecodeError:
-                with open(ruta_md, "r", encoding="latin-1") as f:
-                    contenido = f.read()
-
-            texto_limpio = limpiar_markdown(contenido)
-
-            with open(ruta_txt, "w", encoding="utf-8") as f:
-                f.write(texto_limpio)
-
-            if os.path.getsize(ruta_txt) == 0:
-                print(f"⚠️ El archivo {archivo} está vacío después de limpiarlo. Se omitirá.")
-                os.remove(ruta_txt)
-                continue
-
-            comando = [
-                "balcon",
-                "-f", ruta_txt,
-                "-w", ruta_wav,
-                "-n", voz_esp,
-                "-v", "100",
-                "-m", "1",
-                "--encoding", "utf8"
-            ]
-
-            print(f"🔊 Procesando: {archivo}")
-            resultado = subprocess.run(comando, capture_output=True, text=True)
-            
-            if resultado.returncode != 0:
-                print(f"❌ Error al procesar {archivo}: {resultado.stderr}")
-            else:
-                print(f"✅ Generado: {nombre_base}.wav")
-
-            if os.path.exists(ruta_txt):
-                os.remove(ruta_txt)
-
+            convert_to_audio(archivo)
         except Exception as e:
-            print(f"❌ Error procesando {archivo}: {str(e)}")
-
-    print("🎉 Proceso completado.")
-
-if __name__ == "__main__":
-    main()
+            print(f"❌ Error con {archivo}: {e}")

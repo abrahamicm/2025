@@ -20,10 +20,6 @@
 *   **spicy** - picante
 *   **hot** - picante
 
-**Ejemplos:**
-
-*   "That cook makes **tasty** meals, rich in spices and seasonings." (Ese cocinero hace comidas sabrosas, ricas en especias y condimentos).
-*   "This cake is too **sweet** for me." (Esta torta está demasiado dulce para mí).
 
 **2. Cocina (Cooking):**
 
@@ -40,7 +36,3 @@
 *   **cut** - cortado
 *   **grated** - rallado
 
-**Ejemplos:**
-
-*   "That family likes to eat **roast** beef for dinner." (A esa familia le gusta comer carne asada para la cena).
-*   "We had nothing to eat, except **boiled** potatoes." (No teníamos nada para comer, excepto papas hervidas).

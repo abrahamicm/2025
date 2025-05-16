@@ -30,7 +30,6 @@
 *   **separated** - separado
 *   **divorced** - divorciado
 
-    *Ejemplo:* The children are always **hungry** when they get home from the swimming club. (Los niños están siempre hambrientos cuando llegan a casa del club de natación.)
 
 **2. Opinión:** (Opinion)
 
@@ -53,9 +52,6 @@
 *   **famous** - famoso
 *   **unknown** - desconocido
 
-    *Ejemplos:*
-    *   He arrived late at the concert because he had taken the **wrong** highway. (Llegó tarde al concierto porque había tomado la carretera equivocada.)
-    *   Plane tickets are very **expensive** at this time of year. (Los boletos de avión son muy caros en esta época del año.)
 
 **3. Religión:** (Religion)
 
@@ -69,8 +65,4 @@
 *   **Muslim** - musulmán
 *   **Jewish** - judío
 *   **Lutheran** - luterano
-
-    *Ejemplos:*
-    *   There was a **Catholic** school in the neighborhood. (Había una escuela católica en el vecindario.)
-    *   The **Jewish** and **Christian** religions consider the Bible to be holy. (Las religiones judía y cristiana consideran sagrada a la biblia.)
 

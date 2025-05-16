@@ -8,7 +8,6 @@ La terminación '-ed' de los verbos regulares en pasado tiene tres pronunciacion
 
 La terminación '-ed' se pronuncia  id  cuando el verbo termina en sonido  t  o  d .
 
-*   **Ejemplos:**
     *   to visit (visitar) - visited (vísitid)
     *   to start (empezar) - started (stáartid)
     *   to want (querer) - wanted (wóntid)
@@ -26,7 +25,6 @@ La terminación '-ed' se pronuncia  id  cuando el verbo termina en sonido  t  o 
 **2. Pronunciación  d :**
 
 La terminación '-ed' se pronuncia  d  cuando el verbo termina en un sonido vocálico o en uno de los siguientes sonidos consonantes:  r ,  n ,  l ,  m  y  v 
-*   **Ejemplos:**
     *   to discover (descubrir) - discovered (discóverd)
     *   to conquer (conquistar) - conquered (cónkerd)
     *   to notify (notificar) - notified (nóutifáid)
@@ -49,7 +47,6 @@ La terminación '-ed' se pronuncia  d  cuando el verbo termina en un sonido voc�
 La terminación '-ed' se pronuncia  t  cuando el verbo termina en un sonido consonante sordo (que no hace vibrar las cuerdas vocales), excluyendo los sonidos  t  y  d  (mencionados en la sección 1).
 Los sonidos sordos son:  p ,  k ,  f ,  s ,  ʃ ,  tʃ ,  θ  (think, thing).
 
-*   **Ejemplos:**
     *   to talk (hablar) - talked (tókt)
     *   to walk (caminar) - walked (uókt)
     *   to work (trabajar) - worked (wéerkt)
@@ -67,8 +64,3 @@ Los sonidos sordos son:  p ,  k ,  f ,  s ,  ʃ ,  tʃ ,  θ  (think, thing).
     *   to miss (extrañar, perder) - missed (míst)
     *   to exercise (hacer ejercicio) - exercised (éksersáist)
 
-
-
-*   La pronunciación entre paréntesis es una aproximación fonética en español para facilitar la comprensión.
-*   Esta regla general tiene algunas excepciones, pero cubre la mayoría de los casos.
-*   Practicar con ejemplos es la mejor manera de dominar la pronunciación de la terminación '-ed'.
