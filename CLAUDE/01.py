@@ -5,7 +5,7 @@ import re
 # Ruta donde están los archivos .md
 input_folder = "./"
 # Ruta donde se guardarán los audios
-output_folder = "audios"
+output_folder = "./"
 # Ruta del ejecutable de Balcon
 balcon_path = "balcon.exe"
 
@@ -37,7 +37,7 @@ def convert_to_audio(md_file):
     mp3_output = os.path.join(output_folder, md_file.replace('.md', '.mp3'))
 
     # Usa Balcon para generar un .wav
-    subprocess.run([balcon_path, "-f", txt_path, "-w", wav_output], check=True)
+    subprocess.run([balcon_path, "-f", txt_path,  "--encoding", "utf8", "-w", wav_output], check=True)
 
     # Convierte el .wav a .mp3 usando ffmpeg
     subprocess.run(["ffmpeg", "-y", "-i", wav_output, mp3_output], check=True)

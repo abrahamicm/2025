@@ -1,0 +1,72 @@
+# Less
+
+
+
+**Lista de palabras con el sufijo "-less" y su significado:**
+
+Esta lista presenta palabras que terminan en el sufijo "-less", el cual generalmente indica "sin" o "carente de".
+
+*   **aimless:** sin objetivo
+*   **artless:** ingenuo
+*   **blameless:** inocente
+*   **bottomless:** sin fondo
+*   **boundless:** ilimitado
+*   **brainless:** tonto
+*   **breathless:** sin aliento
+*   **careless:** descuidado
+*   **ceaseless:** incesante
+*   **childless:** sin hijos
+*   **classless:** sin clase (sin distinción de clase social)
+*   **clueless:** despistado
+*   **colorless:** incoloro
+*   **cordless:** inalámbrico
+*   **countless:** innumerable
+*   **defenseless:** indefenso
+*   **effortless:** sin esfuerzo
+*   **emotionless:** sin emoción
+*   **endless:** interminable
+*   **faultless:** intachable
+*   **fearless:** intrépido
+*   **flawless:** impecable
+*   **friendless:** sin amigos
+*   **groundless:** infundado
+*   **harmless:** inofensivo
+*   **heartless:** despiadado
+*   **heedless:** descuidado
+*   **helpless:** indefenso
+*   **homeless:** sin hogar
+*   **hopeless:** desesperanzado
+*   **jobless:** desempleado
+*   **lawless:** ilegal
+*   **lifeless:** sin vida
+*   **listless:** decaído
+*   **meaningless:** sin sentido
+*   **merciless:** despiadado
+*   **mindless:** sin sentido
+*   **motionless:** inmóvil
+*   **nameless:** anónimo
+*   **needless:** inútil
+*   **noiseless:** silencioso
+*   **odorless:** inodoro
+*   **painless:** indoloro
+*   **penniless:** sin dinero
+*   **pitiless:** despiadado
+*   **pointless:** inútil
+*   **powerless:** impotente
+*   **priceless:** inestimable
+*   **reckless:** imprudente
+*   **relentless:** implacable
+*   **remorseless:** despiadado
+*   **restless:** inquieto
+*   **ruthless:** despiadado
+*   **senseless:** insensato
+*   **shameless:** desvergonzado
+*   **shapeless:** sin forma definida
+*   **sleepless:** insomne
+*   **soundless:** silencioso
+*   **speechless:** mudo
+*   **thoughtless:** desconsiderado
+*   **tireless:** incansable
+*   **useless:** inútil
+*   **wireless:** inalámbrico
+

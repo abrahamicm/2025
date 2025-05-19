@@ -1,0 +1,81 @@
+# Expresiones Frases_Verbo To Keep
+
+
+
+**Frases idiomáticas con "KEEP" y sus significados:**
+
+*   **to keep a civil tongue in one's head:** ser respetuoso
+*   **to keep a lid on something:** mantener algo tapado
+*   **to keep a low profile:** tener perfil bajo
+*   **to keep a stiff upper lip:** mantener la compostura
+*   **to keep a straight face:** mantenerse serio
+*   **to keep a (weather) eye on something:** vigilar algo (muy de cerca)
+*   **to keep abreast an ear to the ground:** mantenerse al corriente
+*   **to keep an open mind:** tener una actitud abierta
+*   **to keep body and soul together:** sobrevivir
+*   **to keep company:** hacer compañía
+*   **to keep house:** ocuparse de la casa
+*   **to keep in mind:** recordar
+*   **to keep (it) quiet:** hacer silencio
+*   **to keep long hours:** hacer algo durante horas
+*   **to keep one's chin up:** no desanimarse
+*   **to keep one's cool head:** mantener la calma
+*   **to keep one's distance:** mantener distancia
+*   **to keep one's eye on the ball:** estar concentrado
+*   **to keep one's eyes open:** tener los ojos abiertos
+*   **to keep one's fingers crossed:** tener los dedos cruzados
+*   **to keep one's head above water:** mantenerse a flote
+*   **to keep one's mouth shut:** mantener la boca cerrada
+*   **to keep one's nose clean:** no meterse en líos
+*   **to keep one's nose to the grindstone:** trabajar como un enano
+*   **to keep one's own counsel:** guardar silencio
+*   **to keep one's powder dry:** estar al pie del cañón
+*   **to keep one's shirt on:** no sulfurarse
+*   **to keep pace:** llevar el mismo paso
+*   **to keep posted:** mantener al tanto
+*   **to keep tabs on:** no perder de vista
+*   **to keep the ball rolling:** mantener las cosas en marcha
+*   **to keep the faith:** cumplir una promesa
+*   **to keep track:** llevar la cuenta, seguir la pista el hilo
+*   **to keep under one's hat:** no decir una palabra
+*   **to keep up with the Joneses:** no ser menos que los demás
+*   **to keep up with the times:** no quedarse atrás, modernizarse
+
+**Ejemplos de uso en oraciones:**
+
+*   My mom always told me to **keep a civil tongue in front of my elders.**
+*   The Democrats **kept a lid on the tax reform during the campaign.**
+*   Johnny was the one from the four of us who **kept a low profile.**
+*   Mr. Jones always **kept a stiff upper lip,** even at his son's funeral.
+*   It was hard for me to **keep a straight face** in class when you said something funny.
+*   Would you **keep an eye on the kids** while I take a shower?
+*   As a journalist, you have to **keep abreast** of everything that happens in the world.
+*   Jerry's grandad has always **kept an open mind** about new kinds of music.
+*   We were very poor and we could barely **keep body and soul together.**
+*   James stayed with Emma at the hospital to **keep her company.**
+*   I'm looking for a housekeeper since I work all day and don't have time to **keep house.**
+*   Finding a present for Jess isn't hard if you **keep in mind** what she likes.
+*   Dan's going to propose to Amy but **keep quiet,** it's a secret!
+*   I'm worried about Ted, he **keeps long hours** in front of the computer.
+*   **Keep your chin up,** Frank! You'll find a job sooner or later.
+*   I can never **keep my cool** when I have an oral exam.
+*   It is always best to **keep your distance** from wild animals.
+*   Don't let anything else distract you, just **keep your eye on the ball.**
+*   **Keep your eyes open** and tell me if something unusual happens.
+*   I hope you pass your test. I'll **keep my fingers crossed!**
+*   The company's not doing too well. We can barely **keep our head above water.**
+*   This whole thing is supposed to be a secret so please, **keep your mouth shut!**
+*   I've been in jail before, that's why I'm trying to **keep my nose clean.**
+*   Jerry **keeps his nose to the grindstone.** He lives to work!
+*   In this situation, sir, I think it would be advisable to **keep your own counsel.**
+*   James is a good friend. He has always **kept his powder dry.**
+*   **Keep your shirt on,** man! Perhaps you misunderstood what she said.
+*   can't **keep pace** with you! You've got long legs! Mine are short!
+*   Will you please **keep me posted** on anything that happens?
+*   Lisa is insane. She wants to **keep tabs on** everything her boyfriend does.
+*   It doesn't matter if your partner isn't here, you have to **keep the ball rolling.**
+*   Why did you tell Billy you'd buy him a bike if you couldn't **keep the faith** with him?
+*   The doctor **keeps track** of the progress of all of his patients.
+*   I'm not allowed to have pets at home so I **kept the puppy under my hat.**
+*   My neighbor likes to **keep up with the Joneses.** If we buy a grill, he buys one too.
+*   We have to **keep up with the times** if we want to attract the younger generations.

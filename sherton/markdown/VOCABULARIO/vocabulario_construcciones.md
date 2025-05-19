@@ -1,0 +1,80 @@
+# Vocabulario_Construcciones
+
+
+
+**Título:** Vocabulario: Lugares (Inglés    Español)
+
+**Navegación Principal:**
+
+*   Inicio
+*   Noticias
+*   Clases
+*   eBook
+*   Ingresar
+*   Registrarse (¡Gratis!)
+
+**Listado de Vocabulario:**
+
+
+
+*   amphitheater    anfiteatro
+*   apartment    apartamento
+*   asylum    manicomio
+*   bar    bar
+*   barn    granero, establo
+*   barracks    cuartel militar
+*   boarding house    casa de pensión
+*   brothel    burdel
+*   bunker    búnker
+*   cabin    cabaña
+*   casino    casino
+*   castle    castillo
+*   cathedral    catedral
+*   cave    cueva
+*   church    iglesia
+*   concert hall    sala de conciertos
+*   condominium    condominio
+*   cottage    casa de campo
+*   dormitory    residencia universitaria
+*   factory    fábrica
+*   farm    granja
+*   fort    fuerte
+*   gas station    gasolinera
+*   greenhouse    invernadero
+*   hospital    hospital
+*   hostel    hostal
+*   hotel    hotel
+*   house    casa
+*   houseboat    casa flotante
+*   hut    choza
+*   igloo    iglú
+*   inn    posada
+*   library    biblioteca
+*   lighthouse    faro
+*   mansion    mansión
+*   mobile home    casa rodante
+*   mosque    mezquita
+*   motel    hotel de carretera
+*   museum    museo
+*   nightclub    club nocturno, discoteca
+*   nursing home    residencia para ancianos
+*   palace    palacio
+*   parliament    parlamento
+*   power plant    central eléctrica
+*   prison    cárcel, prisión
+*   pub    pub
+*   pyramid    pirámide
+*   ranch    rancho, hacienda
+*   restaurant    restaurante
+*   shrine    santuario
+*   skyscraper    rascacielos
+*   stadium    estadio
+*   store    tienda, almacén
+*   synagogue    sinagoga
+*   temple    templo
+*   tent    carpa
+*   tepee    choza de indios
+*   tower    torre
+*   warehouse    almacén
+*   windmill    molino de viento
+

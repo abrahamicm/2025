@@ -1,0 +1,65 @@
+# Sustantivos_Terminacion Ure
+
+
+
+**Glosario Inglés-Español**
+
+*   **Adventure**    Aventura
+*   **Agriculture**    Agricultura
+*   **Aperture**    Abertura
+*   **Architecture**    Arquitectura
+*   **Brochure**    Folleto
+*   **Capture**    Captura
+*   **Caricature**    Caricatura
+*   **Censure**    Censura
+*   **Closure**    Cierre
+*   **Composure**    Calma
+*   **Conjecture**    Conjetura
+*   **Creature**    Criatura
+*   **Culture**    Cultura
+*   **Cure**    Cura
+*   **Curvature**    Curvatura
+*   **Departure**    Salida
+*   **Disclosure**    Revelación
+*   **Enclosure**    Recinto
+*   **Expenditure**    Gasto
+*   **Exposure**    Exposición
+*   **Failure**    Fracaso
+*   **Feature**    Rasgo
+*   **Figure**    Figura
+*   **Fracture**    Fractura
+*   **Furniture**    Mobiliario
+*   **Future**    Futuro
+*   **Gesture**    Gesto
+*   **Injure**    Perjudicar
+*   **Insure**    Asegurar
+*   **Juncture**    Coyuntura
+*   **Lecture**    Conferencia
+*   **Legislature**    Legislatura
+*   **Leisure**    Ocio
+*   **Literature**    Literatura
+*   **Manicure**    Manicura
+*   **Manufacture**    Fabricación
+*   **Mature**    Maduro
+*   **Measure**    Medida
+*   **Miniature**    Miniatura
+*   **Mixture**    Mezcla
+*   **Moisture**    Humedad
+*   **Nature**    Naturaleza
+*   **Overture**    Obertura
+*   **Pasture**    Pastura
+*   **Picture**    Cuadro
+*   **Pleasure**    Placer
+*   **Posture**    Postura
+*   **Pressure**    Presión
+*   **Procedure**    Procedimiento
+*   **Puncture**    Pinchazo
+*   **Rupture**    Ruptura
+*   **Sculpture**    Escultura
+*   **Signature**    Firma
+*   **Structure**    Estructura
+*   **Suture**    Sutura
+*   **Temperature**    Temperatura
+*   **Texture**    Textura
+*   **Torture**    Tortura
+*   **Treasure**    Tesoro

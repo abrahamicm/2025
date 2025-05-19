@@ -1,0 +1,55 @@
+# Vocabulario_Musica
+
+
+
+**Vocabulario en Inglés: Instrumentos Musicales**
+
+Esta lista presenta el vocabulario en inglés para diversos instrumentos musicales, junto con su traducción al español.
+
+*   **accordion**    acordeón
+*   **bagpipes**    gaita
+*   **banjo**    banjo
+*   **bass guitar**    bajo
+*   **bassoon**    fagot
+*   **baton**    batuta
+*   **bongo**    bongó
+*   **bugle**    clarín
+*   **castanets**    castañuelas
+*   **cello**    violoncelo
+*   **clarinet**    clarinete
+*   **cymbals**    platillos
+*   **double bass**    contrabajo
+*   **drum**    tambor
+*   **drums**    batería
+*   **drumsticks**    palillos
+*   **fiddle**    violín
+*   **flute**    flauta
+*   **french horn**    trompa
+*   **gong**    gong
+*   **grand piano**    piano de cola
+*   **guitar**    guitarra
+*   **harmonica**    armónica
+*   **harp**    harpa
+*   **kettledrum**    timbal
+*   **keyboard**    teclado
+*   **keys**    teclas
+*   **lute**    laúd
+*   **mandoline**    mandolina
+*   **maraca**    maraca
+*   **oboe**    oboe
+*   **organ**    órgano
+*   **piano**    piano
+*   **piccolo**    flautín
+*   **saxophone**    saxofón
+*   **snare drum**    redoblante
+*   **string**    cuerda
+*   **synthesizer**    sintetizador
+*   **tambourine**    pandereta
+*   **trombone**    trombón
+*   **trumpet**    trompeta
+*   **tuba**    tuba
+*   **violin**    violín
+*   **xylophone**    xilófono
+
+[Opcional: Inserta aquí la liga al canal de Youtube]
+

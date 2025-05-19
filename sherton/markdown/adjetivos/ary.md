@@ -1,0 +1,35 @@
+# Ary
+
+*   **arbitrary**    arbitrario
+*   **auxiliary**    auxiliar
+*   **complementary**    complementario
+*   **contemporary**    contemporáneo
+*   **contrary**    contrario
+*   **coronary**    coronario
+*   **culinary**    culinario
+*   **customary**    habitual
+*   **elementary**    elemental
+*   **extraordinary**    extraordinario
+*   **hereditary**    hereditario
+*   **imaginary**    imaginario
+*   **involuntary**    involuntario
+*   **literary**    literario
+*   **military**    militar
+*   **millenary**    milenario
+*   **momentary**    momentáneo
+*   **necessary**    necesario
+*   **ordinary**    ordinario
+*   **primary**    primario
+*   **revolutionary**    revolucionario
+*   **rudimentary**    rudimentario
+*   **sanitary**    sanitario
+*   **secondary**    secundario
+*   **sedentary**    sedentario
+*   **solidary**    solidario
+*   **solitary**    solitario
+*   **subsidiary**    subsidiario
+*   **supplementary**    adicional
+*   **temporary**    temporal
+*   **tertiary**    terciario
+*   **voluntary**    voluntario
+
