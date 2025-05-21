@@ -1,0 +1,135 @@
+# 11_7_Tips_For_Autonomous_Practice
+
+## 11.7. Tips for Autonomous Practice for English Learners (A1-A2)
+
+### 1. Introduction: Becoming Your Own English Teacher!
+
+Hello everyone! Learning English is like building a house. Lessons with a teacher are like having a strong foundation. But to make your house a home, you need to furnish it yourself!  This means practicing English on your own - we call this **autonomous practice**. It’s like being your own English teacher!
+
+Autonomous practice is **very important** because:
+
+*   **You learn faster:** The more you practice, the better you get.
+*   **You become more confident:** When you can practice alone, you feel more comfortable speaking and understanding English.
+*   **It fits your schedule:** You can practice whenever you have time.
+*   **It's fun!** You can choose activities you enjoy.
+
+This lesson will give you some easy and fun tips to practice English by yourself!
+
+### 2. Detailed Explanation with Examples: Making Practice Easy!
+
+Here are some simple ways to practice English alone, even if you're just starting:
+
+**Tip 1: Label Everything!**
+
+*   **What to do:** Take small pieces of paper and write English words for things around your house.
+*   **Example:**
+    *   Write "door" and stick it on the door.
+    *   Write "table" and stick it on the table.
+    *   Write "chair" and stick it on the chair.
+*   **Why it works:** You see the English word every day, so you remember it easily.
+
+**Tip 2: Listen to Simple English Music and Podcasts.**
+
+*   **What to do:** Find English songs and podcasts made for learners.  Start with children’s songs or very slow podcasts.
+*   **Example:**
+    *   Listen to "Twinkle Twinkle Little Star" on YouTube.
+    *   Find a podcast for beginners like "Learn English with Simple Stories."
+*   **Why it works:** You get used to the sounds of English and learn new words in a fun way.
+
+**Tip 3: Read Easy Books and Comics.**
+
+*   **What to do:** Read books and comics designed for English learners.  Start with picture books.
+*   **Example:**
+    *   Read a book with pictures and simple sentences like "Brown Bear, Brown Bear, What Do You See?".
+    *   Read a simple comic book with lots of pictures.
+*   **Why it works:**  You learn new words in context and improve your reading skills.
+
+**Tip 4: Watch English Cartoons and Shows with Subtitles.**
+
+*   **What to do:** Watch your favorite cartoons or shows in English with English subtitles.
+*   **Example:**
+    *   Watch "Peppa Pig" or "Paw Patrol" in English.
+*   **Why it works:** You see and hear the words at the same time, which helps you understand better.
+
+**Tip 5: Talk to Yourself!**
+
+*   **What to do:** Describe what you are doing in English.
+*   **Example:**
+    *   "I am eating breakfast. I am eating toast. The toast is delicious."
+    *   "I am watching TV.  The cartoon is funny.  I like the dog."
+*   **Why it works:** You practice speaking without feeling shy.
+
+**Tip 6: Use English Learning Apps and Websites.**
+
+*   **What to do:** Use apps like Duolingo or websites like BBC Learning English to do short, fun lessons.
+*   **Example:**
+    *   Do a 5-minute lesson on Duolingo to learn new vocabulary.
+    *   Play a simple English grammar game online.
+*   **Why it works:** It's interactive and helps you learn new things in a fun way.
+
+### 3. Common Phrases and Vocabulary
+
+Here are some useful phrases for autonomous practice:
+
+*   **"I am practicing English."** (Yo estoy practicando inglés.)
+*   **"I am learning new words."** (Estoy aprendiendo nuevas palabras.)
+*   **"I am listening to English music."** (Estoy escuchando música en inglés.)
+*   **"I am reading an English book."** (Estoy leyendo un libro en inglés.)
+*   **"I am watching an English cartoon."** (Estoy viendo una caricatura en inglés.)
+*   **"It is easy/difficult."** (Es fácil/difícil.)
+*   **"I understand/I don't understand."** (Entiendo/No entiendo.)
+*   **"Repeat, please."** (Repita, por favor.)
+*   **"What does it mean?"** (¿Qué significa?)
+
+Important vocabulary:
+
+*   **Autonomous:** Independent, doing something by yourself.
+*   **Practice:** To do something again and again to improve.
+*   **Label:** A piece of paper with writing on it.
+*   **Subtitle:** Words that appear on the screen when you watch a video.
+*   **Podcast:** An audio program, like a radio show.
+*   **Cartoon:** A funny animated TV show.
+*   **App:** A computer program that you can download to your phone or tablet.
+*   **Website:**  A place on the internet where you can find information.
+
+### 4. Practice Exercises
+
+Let's try some simple exercises:
+
+**Exercise 1: Labeling**
+
+1.  Choose five items in your room.
+2.  Write the English name for each item on a small piece of paper.
+3.  Stick the labels on the items.
+4.  Say the English names out loud three times each day.
+
+**Exercise 2: Listening**
+
+1.  Find a simple English song on YouTube.
+2.  Listen to the song two times.
+3.  Try to sing along!
+4.  Write down any new words you hear.
+
+**Exercise 3: Talking**
+
+1.  Describe your favorite food in English. Use simple sentences.
+2.  Example: "I like pizza. Pizza is delicious. It has cheese and tomato."
+3.  Repeat the description three times.
+
+**Exercise 4: Reading**
+
+1.  Find a simple picture book online (search for "easy reader books for kids").
+2.  Read one page of the book.
+3.  Point to the pictures as you read.
+4.  Try to understand the meaning of the words.
+
+### 5. Summary: You Can Do It!
+
+Autonomous practice is a fantastic way to improve your English. Remember:
+
+*   **Start small:** Don't try to do too much at once.
+*   **Be consistent:** Practice a little bit every day.
+*   **Make it fun:** Choose activities you enjoy.
+*   **Don't be afraid to make mistakes:** Mistakes are part of learning!
+
+You are now your own English teacher! Good luck and have fun learning! Remember to be patient with yourself and enjoy the journey. You can do it!

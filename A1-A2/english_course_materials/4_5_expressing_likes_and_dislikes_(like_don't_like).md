@@ -1,0 +1,190 @@
+# 4_5_Expressing_Likes_And_Dislikes_(Like_Don'T_Like)
+
+## 4.5. Expressing Likes and Dislikes (like/don't like)
+
+### Introduction
+
+Knowing how to express your likes and dislikes is super important! It helps you connect with people, share your opinions, and make choices you're happy with. In this lesson, we'll learn simple ways to talk about the things we like and don't like using the words "like" and "don't like." Get ready to share your preferences!
+
+### Detailed Explanation with Examples
+
+We use the words "like" and "don't like" to talk about things we enjoy or don't enjoy. Let's break it down:
+
+**1. "Like" (+ Noun or Verb-ing):**
+
+*   **Meaning:** To enjoy something; to find something pleasant or agreeable.
+
+*   **Structure:**
+    *   **I/You/We/They + like + Noun:**
+        *   Example: **I like pizza.** (Pizza is a noun)
+        *   Example: **You like dogs.** (Dogs is a noun)
+        *   Example: **We like music.** (Music is a noun)
+        *   Example: **They like movies.** (Movies is a noun)
+    *   **He/She/It + likes + Noun:**
+        *   Example: **He likes chocolate.** (Chocolate is a noun)
+        *   Example: **She likes flowers.** (Flowers is a noun)
+        *   Example: **It likes being petted.** (Referring to a cat or dog)
+
+    *   **I/You/We/They + like + Verb-ing:** (Verb-ing is a verb ending in "-ing", like "eating," "playing," "reading")
+        *   Example: **I like swimming.** (Swimming is a verb-ing)
+        *   Example: **You like reading books.** (Reading is a verb-ing)
+        *   Example: **We like playing football.** (Playing is a verb-ing)
+        *   Example: **They like watching TV.** (Watching is a verb-ing)
+
+    *   **He/She/It + likes + Verb-ing:**
+        *   Example: **He likes singing.** (Singing is a verb-ing)
+        *   Example: **She likes dancing.** (Dancing is a verb-ing)
+        *   Example: **It likes sleeping.** (Sleeping is a verb-ing)
+
+**2. "Don't Like" (+ Noun or Verb-ing):**
+
+*   **Meaning:** To *not* enjoy something; to find something unpleasant or disagreeable.
+
+*   **Structure:**
+    *   **I/You/We/They + don't like + Noun:**
+        *   Example: **I don't like spiders.** (Spiders is a noun)
+        *   Example: **You don't like broccoli.** (Broccoli is a noun)
+        *   Example: **We don't like homework.** (Homework is a noun)
+        *   Example: **They don't like Mondays.** (Mondays is a noun)
+
+    *   **He/She/It + doesn't like + Noun:** (Notice the change to "doesn't")
+        *   Example: **He doesn't like loud noises.** (Noises is a noun)
+        *   Example: **She doesn't like the rain.** (Rain is a noun)
+        *   Example: **It doesn't like being alone.** (Referring to a pet)
+
+    *   **I/You/We/They + don't like + Verb-ing:**
+        *   Example: **I don't like doing housework.** (Doing is a verb-ing)
+        *   Example: **You don't like waiting in line.** (Waiting is a verb-ing)
+        *   Example: **We don't like getting up early.** (Getting is a verb-ing)
+        *   Example: **They don't like working late.** (Working is a verb-ing)
+
+    *   **He/She/It + doesn't like + Verb-ing:**
+        *   Example: **He doesn't like cleaning the kitchen.** (Cleaning is a verb-ing)
+        *   Example: **She doesn't like ironing clothes.** (Ironing is a verb-ing)
+        *   Example: **It doesn't like being bathed.** (Referring to a pet)
+
+**Important Note:** Remember to use "likes" and "doesn't like" for he/she/it. This is because in the present simple tense, verbs change their form when used with these pronouns.
+
+### Common Phrases and Vocabulary
+
+Here are some useful phrases to expand your ability to talk about likes and dislikes:
+
+*   **I really like...** (To emphasize that you like something a lot)
+    *   Example: I really like ice cream.
+*   **I quite like...** (To say you like something, but not a lot)
+    *   Example: I quite like coffee.
+*   **I love...** (To show a strong liking)
+    *   Example: I love watching the sunset.
+*   **I hate...** (To show a strong dislike)
+    *   Example: I hate doing the dishes.
+*   **I can't stand...** (To show a very strong dislike - similar to 'hate')
+    *   Example: I can't stand traffic jams.
+*   **I'm not a big fan of...** (To express a dislike in a softer way)
+    *   Example: I'm not a big fan of spicy food.
+*   **I prefer...** (To show you like one thing more than another)
+    *   Example: I prefer tea to coffee.
+
+**Vocabulary Examples (Nouns):**
+
+*   Animals (cats, dogs, horses, birds)
+*   Foods (pizza, chocolate, vegetables, fruit)
+*   Colors (blue, red, green, yellow)
+*   Subjects (math, English, science, history)
+*   Activities (reading, writing, swimming, dancing)
+
+**Vocabulary Examples (Verbs -ing):**
+
+*   Reading
+*   Writing
+*   Swimming
+*   Dancing
+*   Cooking
+*   Playing
+*   Singing
+*   Watching
+
+### Practice Exercises
+
+**Exercise 1: Fill in the Blanks**
+
+Complete the following sentences with "like," "likes," "don't like," or "doesn't like."
+
+1.  I ______ pizza.
+2.  She ______ playing tennis.
+3.  They ______ studying English.
+4.  He ______ vegetables.
+5.  We ______ watching movies.
+6.  It ______ being petted.
+7.  You ______ spiders.
+8.  She ______ broccoli.
+9.  I ______ rainy days.
+10. They ______ getting up early.
+
+**Exercise 2: True or False**
+
+Read the sentences and write "True" or "False." Correct the false sentences.
+
+1.  I likes chocolate. (______)
+2.  He don't like spiders. (______)
+3.  We like listen to music. (______)
+4.  She likes dancing. (______)
+5.  They doesn't like homework. (______)
+
+**Exercise 3:  Express Your Likes and Dislikes**
+
+Write three sentences about things you like and three sentences about things you don't like.  Use the phrases we learned.
+
+*   **Likes:**
+    1.
+    2.
+    3.
+
+*   **Dislikes:**
+    1.
+    2.
+    3.
+
+**Exercise 4:  Pair Work (Speaking Practice)**
+
+Work with a partner. Ask each other "Do you like...?" questions and answer them.
+
+*   Example:
+    *   Person A: "Do you like coffee?"
+    *   Person B: "Yes, I like coffee very much. Do you like tea?"
+    *   Person A: "No, I don't like tea."
+
+Here are some ideas for what to ask about:
+
+*   Coffee/Tea
+*   Swimming
+*   Reading
+*   Math
+*   Dogs/Cats
+*   Spicy food
+
+**Answers to Exercises:**
+
+**Exercise 1:**
+
+1.  like
+2.  likes
+3.  like
+4.  doesn't like
+5.  like
+6.  likes
+7.  don't like
+8.  doesn't like
+9.  don't like
+10. don't like
+
+**Exercise 2:**
+
+1.  False. I *like* chocolate.
+2.  False. He *doesn't like* spiders.
+3.  False. We like *listening* to music.
+4.  True
+5.  False. They *don't like* homework.
+
+### Summary
+
+In this lesson, we learned how to express our likes and dislikes using "like," "likes," "don't like," and "doesn't like." We practiced forming sentences with nouns and verb-ing forms. We also learned some common phrases to make our expressions more interesting. Now you can confidently share your preferences in English! Keep practicing, and you'll become even better at expressing yourself!

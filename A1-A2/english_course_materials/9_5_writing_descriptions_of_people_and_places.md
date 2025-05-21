@@ -1,0 +1,128 @@
+# 9_5_Writing_Descriptions_Of_People_And_Places
+
+## 9.5. Writing descriptions of people and places
+
+**Introduction:**
+
+Hello everyone! In this lesson, we're going to learn how to describe people and places. Being able to describe things is very important in English. It helps you share information, tell stories, and connect with others. Imagine you met a famous actor. You'd want to tell your friends all about them! Or perhaps you visited a beautiful beach. You'd want to share what it was like. This lesson will give you the tools to do just that!
+
+**What we will learn:**
+
+*   How to describe people: appearance (age, height, hair, eyes, clothes) and personality (happy, kind, funny).
+*   How to describe places: general impression (big, small, beautiful, ugly), location, and key features (e.g., for a park: trees, benches, a playground).
+*   Useful vocabulary and phrases.
+*   How to put sentences together to create a description.
+
+**Describing People: Appearance**
+
+When we describe someone's appearance, we talk about what they look like. Here are some things we can mention:
+
+*   **Age:** young, old, middle-aged, a teenager, a child
+    *   Example: She is a **young** woman. He is an **old** man.
+*   **Height:** tall, short, medium height
+    *   Example: He is **tall**. She is **short**.
+*   **Hair:** colour (blonde, brown, black, grey, red), length (long, short, medium length), style (straight, curly, wavy)
+    *   Example: She has **long, brown hair**. He has **short, black hair**. Her hair is **curly**.
+*   **Eyes:** colour (blue, brown, green, grey)
+    *   Example: He has **blue eyes**. She has **brown eyes**.
+*   **Clothes:**  (jeans, t-shirt, dress, jacket, etc.) and their colour
+    *   Example: He is wearing **jeans and a t-shirt**. She is wearing a **red dress**.
+
+**Examples:**
+
+*   "He is a **tall**, **young** man with **short, black hair** and **brown eyes**. He's wearing **jeans and a blue jacket**."
+*   "She is a **short**, **old** woman with **long, grey hair**. She has **green eyes** and is wearing a **purple dress**."
+
+**Describing People: Personality**
+
+We can also describe what someone is like as a person - their personality. Here are some common adjectives:
+
+*   **Happy:** smiling, cheerful
+*   **Sad:** unhappy, upset
+*   **Kind:** helpful, friendly
+*   **Funny:** makes you laugh, humorous
+*   **Shy:** quiet, reserved
+*   **Outgoing:** friendly, sociable
+*   **Serious:** not joking, thoughtful
+
+**Examples:**
+
+*   "He is **happy** and **funny**. He always makes me laugh!"
+*   "She is **kind** and **helpful**. She always helps her friends."
+*   "He is **shy** and **quiet**. He doesn't talk much."
+
+**Putting it all together (Appearance and Personality):**
+
+"My friend, Maria, is **young** and **tall**. She has **long, blonde hair** and **blue eyes**. She is very **kind** and **funny**. She always makes me smile!"
+
+**Describing Places**
+
+When we describe a place, we can talk about its size, how it looks, and what we can find there.
+
+*   **General Impression:** big, small, beautiful, ugly, clean, dirty, modern, old
+    *   Example: It is a **beautiful** park.  The city is **big** and **modern**.
+*   **Location:** near the sea, in the mountains, in the city, in the countryside
+    *   Example:  The park is **in the city**.  The village is **in the countryside**.
+*   **Key Features:**
+    *   **Park:** trees, benches, flowers, playground, grass
+        *   Example:  There are many **trees** in the park. There is also a **playground** for children.
+    *   **Beach:** sand, sea, waves, shells, boats
+        *   Example:  The beach has **white sand** and **blue sea**. There are **shells** on the sand.
+    *   **City:** buildings, shops, restaurants, streets, cars, buses
+        *   Example: The city has **tall buildings** and many **shops**.
+    *   **House:** rooms (kitchen, living room, bedroom, bathroom), garden, furniture
+        *   Example:  My house has three **bedrooms** and a big **kitchen**. There is a small **garden**.
+
+**Examples:**
+
+*   "The park is **beautiful** and **big**. It's **in the city center**. There are many **trees** and **flowers**.  There is also a **playground** for children."
+*   "The beach is **small** and **clean**. It's **near the sea**. The **sand** is **white** and the **sea** is **blue**."
+*   "My house is **small** but **cozy**. It's **in the countryside**. There is a **living room**, a **kitchen**, and two **bedrooms**. We have a **garden** with **flowers**."
+
+**Useful Phrases and Vocabulary:**
+
+*   **Appearance:**
+    *   "He/She is..." (followed by an adjective like tall, short, young)
+    *   "He/She has..." (followed by hair colour/length or eye colour)
+    *   "He/She is wearing..." (followed by clothes)
+*   **Personality:**
+    *   "He/She is..." (followed by an adjective like happy, kind, funny)
+    *   "He/She is very..." (to emphasize: very happy, very kind)
+*   **Places:**
+    *   "It is..." (followed by an adjective like big, small, beautiful)
+    *   "It is in..." (followed by a location like the city, the countryside)
+    *   "There is/are..." (followed by the key features)
+
+**Practice Exercises:**
+
+**Exercise 1: Describing People**
+
+Look at the pictures (Imagine pictures of people) and write a short description for each. Use the vocabulary we learned.
+
+*   **Picture 1:** A young woman with long, brown hair and blue eyes. She is smiling and wearing a red dress.
+    *   **Answer:**  She is a young woman. She has long, brown hair and blue eyes. She is wearing a red dress. She looks happy.
+
+*   **Picture 2:** An old man with short, grey hair and brown eyes. He is wearing glasses and a blue jacket.
+    *   **Answer:** He is an old man. He has short, grey hair and brown eyes. He is wearing glasses and a blue jacket.
+
+**Exercise 2: Describing Places**
+
+Choose one of the places below and write a short description.
+
+*   Your bedroom
+*   Your favourite park
+*   Your classroom
+
+**Example (Your Bedroom):**
+
+My bedroom is small but cozy. It is in my house. There is a bed, a desk, and a wardrobe. The walls are painted blue. I like my bedroom very much.
+
+**Exercise 3: Combining People and Places**
+
+Imagine you are describing someone visiting a place. Write a short paragraph:
+
+"My friend, John, visited the beach yesterday. The beach was beautiful with white sand and blue sea. John was wearing a t-shirt and shorts. He was very happy to be there!"
+
+**Summary:**
+
+Great job! You've now learned how to describe people and places in English! Remember to use adjectives to describe appearance and personality.  For places, think about the location, general impression, and key features. Keep practicing, and you'll become a master of descriptions! Good luck!

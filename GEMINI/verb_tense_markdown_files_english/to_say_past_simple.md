@@ -1,0 +1,274 @@
+# To Say Past Simple
+
+### Affirmative.
+
+*   She said hello to me.
+*   He said he liked the movie.
+*   They said the food was delicious.
+*   I said I was tired.
+*   We said we would be there on time.
+*   The teacher said it was important to study.
+*   My friend said she had a new car.
+*   The news said it would rain tomorrow.
+*   My mom said dinner was ready.
+*   He said he needed help.
+
+### Negative.
+
+*   She didn't say goodbye.
+*   He didn't say anything about the problem.
+*   They didn't say where they were going.
+*   I didn't say that!
+*   We didn't say we were busy.
+*   The teacher didn't say the answer.
+*   My friend didn't say she was angry.
+*   The news didn't say when it would stop raining.
+*   My mom didn't say what was for dinner.
+*   He didn't say thank you.
+
+### Questions.
+
+*   Did she say she was coming?
+*   Did he say why he was late?
+*   Did they say what time it started?
+*   Did you say you needed help?
+*   Did we say we would bring the food?
+*   Did the teacher say there would be a test?
+*   Did your friend say she liked my shirt?
+*   Did the news say anything about the traffic?
+*   Did your mom say you could go?
+*   Did he say where he lived?
+
+### Affirmative Contractions.
+
+*   I'd said I would call.
+*   He'd said he was going home.
+*   She'd said she liked pizza.
+*   They'd said they'd arrive early.
+*   We'd said we'd help clean.
+*   You'd said you understood.
+*   It'd said it was ready to update (referring to a device).
+*   My friend'd said it was fun.
+*   The cat'd said "Meow" (in a cartoon).
+*   The instructions'd said to add water.
+
+### Negative Contractions.
+
+*   She hadn't said she was busy.
+*   He hadn't said what he wanted for his birthday.
+*   They hadn't said where they were staying.
+*   I hadn't said anything about the surprise.
+*   We hadn't said we needed a ride.
+*   The teacher hadn't said when the homework was due.
+*   My friend hadn't said she was feeling sick.
+*   The weather report hadn't said it would snow.
+*   My phone hadn't said there were any messages.
+*   He hadn't said sorry.
+
+### Questions Contractions.
+
+*   Hadn't she said she liked chocolate?
+*   Hadn't he said he'd be here by now?
+*   Hadn't they said they'd bring drinks?
+*   Hadn't you said you were tired?
+*   Hadn't we said we'd help?
+*   Hadn't the teacher said it was important?
+*   Hadn't your friend said she would call?
+*   Hadn't the news said there would be delays?
+*   Hadn't your mom said you couldn't go?
+*   Hadn't he said where the key was?
+
+### Wh- Questions.
+
+*   What did she say?
+*   Why did he say that?
+*   When did they say they were leaving?
+*   Where did you say you lived?
+*   Who said that?
+*   How did she say she was feeling?
+*   Which color did he say he liked best?
+*   Whose book did you say it was?
+*   What time did they say they would arrive?
+*   Why didn't she say anything?
+
+### Identity and Personal Introduction.
+
+*   She said her name was Maria.
+*   He said he was a student.
+*   They said they were from Spain.
+*   I said I was happy to meet them.
+*   We said we were new in town.
+*   He said his nickname was Alex.
+*   She said she liked to dance.
+*   They said they enjoyed learning English.
+*   I said my favorite color was blue.
+*   She said her address was 123 Main Street.
+
+### Nationality and Origin.
+
+*   He said he was from Canada.
+*   She said she was born in Mexico.
+*   They said they were visiting from Japan.
+*   I said I was American.
+*   We said we were proud of our country.
+*   He said his family came from Italy.
+*   She said she learned English in England.
+*   They said their native language was Spanish.
+*   I said I wanted to visit France someday.
+*   She said her grandmother was from Ireland.
+
+### Profession or Occupation.
+
+*   He said he was a doctor.
+*   She said she was a teacher.
+*   They said they were engineers.
+*   I said I was a student.
+*   We said we were looking for jobs.
+*   He said he worked at a bank.
+*   She said she liked her job as a nurse.
+*   They said they were retired.
+*   I said I wanted to be a writer.
+*   She said her dream job was to be a chef.
+
+### Physical or Emotional States.
+
+*   He said he was tired.
+*   She said she was happy.
+*   They said they were excited.
+*   I said I was hungry.
+*   We said we were worried.
+*   He said he felt sick.
+*   She said she was nervous about the test.
+*   They said they were feeling much better.
+*   I said I was cold.
+*   She said she was sad to leave.
+
+### Age.
+
+*   He said he was ten years old.
+*   She said she was twenty-five.
+*   They said they were in their thirties.
+*   I said I was sixteen.
+*   We said we were all the same age.
+*   He said he was turning thirty next week.
+*   She said she was younger than her brother.
+*   They said they were older than they looked.
+*   I said I didn't mind getting older.
+*   She said she was still a child at heart.
+
+### Location or Place.
+
+*   He said he was at the park.
+*   She said she was at home.
+*   They said they were at the library.
+*   I said I was at the store.
+*   We said we were at the beach.
+*   He said he lived in New York.
+*   She said she worked in London.
+*   They said they were visiting Paris.
+*   I said my school was near the park.
+*   She said the museum was very interesting.
+
+### Physical and Personality Descriptions.
+
+*   He said she was beautiful.
+*   She said he was tall and handsome.
+*   They said I was kind.
+*   I said he was funny.
+*   We said she was smart.
+*   He said she had long hair.
+*   She said he was very friendly.
+*   They said I was a good friend.
+*   I said he was always smiling.
+*   She said she liked his blue eyes.
+
+### Permanent Characteristics (General Truths).
+
+*   He said the Earth was round.
+*   She said water boils at 100 degrees Celsius.
+*   They said the sun rises in the east.
+*   I said dogs are loyal animals.
+*   We said honesty is the best policy.
+*   He said birds can fly.
+*   She said fish live in the water.
+*   They said trees need sunlight to grow.
+*   I said exercise is good for your health.
+*   She said good manners are important.
+
+### Weather, Time, and Clock.
+
+*   He said it was raining.
+*   She said it was sunny.
+*   They said it was cold outside.
+*   I said it was 3 o'clock.
+*   We said it was time to go.
+*   He said the weather was nice today.
+*   She said the clock was wrong.
+*   They said it would snow tomorrow.
+*   I said the sun was setting.
+*   She said it was getting dark.
+
+### Price, Quantity or Measurement.
+
+*   He said it cost five dollars.
+*   She said she needed two apples.
+*   They said it was ten meters long.
+*   I said I wanted one ticket.
+*   We said we needed three chairs.
+*   He said the book was expensive.
+*   She said the recipe called for a cup of sugar.
+*   They said the room was very small.
+*   I said the distance was about a mile.
+*   She said the bag weighed five pounds.
+
+### Impersonal Expressions.
+
+*   He said it was nice to see you.
+*   She said it was important to study.
+*   They said it was interesting.
+*   I said it was easy.
+*   We said it was difficult.
+*   He said it was necessary to arrive on time.
+*   She said it was a pleasure to meet you.
+*   They said it was a good idea.
+*   I said it was getting late.
+*   She said it was a shame.
+
+### There is / There are constructions.
+
+*   He said there was a park nearby.
+*   She said there were many students in the class.
+*   They said there was a problem.
+*   I said there was no milk left.
+*   We said there were cookies on the table.
+*   He said there was a cat on the roof.
+*   She said there were clouds in the sky.
+*   They said there was a train coming.
+*   I said there was a restaurant down the street.
+*   She said there were flowers in the garden.
+
+### Modifiers with Modals.
+
+*   He said I should try the cake.
+*   She said we could go to the movies.
+*   They said I must study harder.
+*   I said he might be late.
+*   We said she should call her mother.
+*   He said I could borrow his pen.
+*   She said we must be quiet.
+*   They said I should visit them soon.
+*   I said he might win the game.
+*   She said we should try to help.
+
+### Idiomatic Expressions and Fixed Phrases.
+
+*   He said it was raining cats and dogs.
+*   She said she was feeling under the weather.
+*   They said they were on top of the world.
+*   I said it was a piece of cake.
+*   We said we were in the same boat.
+*   He said to break a leg before the play.
+*   She said to keep up the good work.
+*   They said it was easier said than done.
+*   I said that's what she said.
+*   She said actions speak louder than words.

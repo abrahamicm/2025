@@ -1,0 +1,142 @@
+# 3_10_Free_Time_Activities
+
+## 3.10. Free Time Activities: What Do You Do When You're Not Working or Studying?
+
+### 1. Introduction
+
+Hello everyone! Today, we're going to talk about something fun: **free time activities!** Free time is the time when you're not working or studying. It's a time to relax, enjoy yourself, and do things you like. Talking about your free time is a great way to practice your English and get to know other people. Knowing what activities others enjoy can help you make new friends and find common interests. Let's learn some useful vocabulary and phrases!
+
+### 2. What Are Free Time Activities?
+
+Free time activities are anything you do when you have time off! They can be active, relaxing, creative, or anything in between. Here are some examples:
+
+*   **Sports and Exercise:** Playing football, swimming, running, cycling, dancing.
+    *   *Example:* "I like **playing football** with my friends on weekends."
+*   **Hobbies and Interests:** Reading, gardening, cooking, painting, collecting things, playing a musical instrument.
+    *   *Example:* "My hobby is **reading books**. I enjoy fantasy novels."
+*   **Relaxing Activities:** Watching TV, listening to music, spending time with family, going for a walk.
+    *   *Example:* "I like **watching TV** in the evening to relax."
+*   **Social Activities:** Meeting friends, going to the cinema, going to a restaurant, attending parties.
+    *   *Example:* "I often **meet friends** at the cafe on Saturday."
+*   **Creative Activities:** Writing, drawing, knitting, sewing, making crafts.
+    *   *Example:* "I enjoy **drawing** in my free time."
+*   **Outdoor Activities:** Hiking, camping, fishing, going to the beach.
+    *   *Example:* "We like **going to the beach** in the summer."
+* **Online Activities:** Playing video games, surfing the internet, chatting with friends online, watching videos.
+    *   *Example:* "Sometimes I **play video games** with my brother."
+
+**Important words:**
+
+*   **Like:** I *like* reading. (I enjoy it.)
+*   **Enjoy:** I *enjoy* cooking. (It makes me happy.)
+*   **Love:** I *love* playing football. (I like it very much.)
+*   **Hate:** I *hate* doing the dishes. (I don't like it at all.)
+
+**Remember:** After *like, enjoy, love, hate* we often use verbs with "-ing" (gerunds): like *playing*, enjoy *reading*, love *swimming*.
+
+### 3. Common Phrases and Vocabulary
+
+Here are some helpful phrases you can use when talking about free time activities:
+
+*   **"In my free time, I..."** *Example: In my free time, I read books.*
+*   **"I like to..."** *Example: I like to watch movies.*
+*   **"I enjoy..."** *Example: I enjoy listening to music.*
+*   **"My hobby is..."** *Example: My hobby is gardening.*
+*   **"I often..."** *Example: I often go for a walk.*
+*   **"I usually..."** *Example: I usually visit my family on Sundays.*
+*   **"I sometimes..."** *Example: I sometimes play video games.*
+*   **"I never..."** *Example: I never go skiing.*
+*   **"What do you like to do in your free time?"** (Asking someone else)
+*   **"Do you like...?"** *Example: "Do you like swimming?"*
+*   **"What are your hobbies?"** (Asking someone about their hobbies)
+*   **"That sounds fun!"** (Responding to someone's free time activity)
+*   **"Really? I like that too!"** (Showing common interest)
+*   **"I don't like..."** *Example: I don't like cleaning.*
+
+**Adverbs of Frequency:**
+
+*   **Always (100%):** I *always* brush my teeth.
+*   **Usually (80%):** I *usually* eat breakfast.
+*   **Often (70%):** I *often* go for a walk.
+*   **Sometimes (50%):** I *sometimes* watch movies.
+*   **Rarely (20%):** I *rarely* go to the cinema.
+*   **Never (0%):** I *never* smoke.
+
+### 4. Practice Exercises
+
+**Exercise 1: Matching**
+
+Match the activity with the picture (Imagine pictures are shown here. I'll describe them instead).
+
+1.  Playing football (Imagine a picture of people playing football)
+2.  Reading a book (Imagine a picture of someone reading)
+3.  Watching TV (Imagine a picture of someone watching television)
+4.  Cooking (Imagine a picture of someone cooking)
+5.  Listening to music (Imagine a picture of someone listening to music with headphones)
+
+**Answers:**  Match the descriptions to the number.
+
+**Exercise 2: Fill in the Blanks**
+
+Complete the sentences with the correct word:
+
+1.  In my free time, I like to ________ (read / reading) books.
+2.  My hobby is ________ (paint / painting).
+3.  I ________ (enjoy / enjoys) listening to music.
+4.  I ________ (never / often) go to the cinema.
+5.  What ________ (do / does) you like to do in your free time?
+
+**Answers:**
+
+1.  read
+2.  painting
+3.  enjoy
+4.  never
+5.  do
+
+**Exercise 3: True or False**
+
+Read the sentences and say if they are True or False.
+
+1.  Free time is when you are working. (True / False)
+2.  "I like to swim" is a correct sentence. (True / False)
+3.  "My hobbies are sleep" is a grammatically correct sentence. (True / False)
+4.  "I often plays football" is a correct sentence. (True / False)
+5.  "What do you likes to do?" is a good way to ask someone about their free time. (True / False)
+
+**Answers:**
+
+1. False
+2. True
+3. False
+4. False
+5. False
+
+**Exercise 4:  Speaking Practice**
+
+*   Work with a partner (or imagine a partner!). Ask and answer these questions:
+    *   What do you like to do in your free time?
+    *   What is your favorite hobby?
+    *   Do you enjoy watching TV?
+    *   Do you play any sports?
+    *   What do you usually do on weekends?
+
+*Example dialogue:*
+
+*Person A: "Hello! What do you like to do in your free time?"*
+
+*Person B: "Hi! I like to read books and listen to music. What about you?"*
+
+*Person A: "That sounds relaxing! I like to play football and go for walks."*
+
+**Exercise 5: Write about yourself**
+
+Write a short paragraph (3-5 sentences) about your free time activities.
+
+*Example:*
+
+"In my free time, I like to watch movies. I also enjoy cooking. My hobby is playing the guitar. I often meet my friends at the cafe on weekends. I never go to bed late on weekdays."
+
+### 5. Summary
+
+Today, we learned about **free time activities**. We talked about different types of activities, useful vocabulary, and common phrases.  Remember to use words like "like," "enjoy," "love," and "hate" to express your preferences. Practicing talking about your free time is a great way to improve your English and connect with other people. Keep practicing, and have fun!  Good luck!

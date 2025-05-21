@@ -1,0 +1,130 @@
+# 9_7_Writing_Brief_Biographies
+
+## 9.7. Writing Brief Biographies
+
+### Introduction: Who are you? Who are they?
+
+Hello everyone! Today, we're going to learn how to write short stories about people's lives. These short stories are called "biographies."  A biography tells us about someone’s life - what they did, where they lived, and why they are important. Knowing how to write a brief biography helps us share information about ourselves and others in a simple and clear way. It's also useful for introducing people or writing simple reports!
+
+### What is a Biography?
+
+A biography (pronounced: bye-OG-ruh-fee) is a story about someone's life. A *brief* biography is a very short version of that story. Think of it as a mini-adventure through someone's life!
+
+**Why write a brief biography?**
+
+*   **Introduce people:**  You might need to introduce a speaker at an event.
+*   **Share information:** You can share interesting facts about famous people.
+*   **School projects:** You might have to write a short report about a historical figure.
+*   **Online profiles:**  Writing a "bio" for your social media account.
+
+### How to Write a Brief Biography: Step-by-Step
+
+Here's a simple guide to writing a brief biography:
+
+**Step 1: Choose Your Person**
+
+Who are you writing about?  It can be yourself, a family member, a friend, or someone famous. For example, let's choose a famous person: **Marie Curie**.
+
+**Step 2: Gather Basic Information**
+
+Find out the important details about the person.  Focus on these things:
+
+*   **Full Name:** Marie Skłodowska Curie
+*   **Date of Birth:** November 7, 1867
+*   **Place of Birth:** Warsaw, Poland
+*   **What they did (Occupation):** Scientist (Physicist and Chemist)
+*   **Why they are famous (Achievement):**  Discovered radium and polonium. First woman to win a Nobel Prize. Only person to win Nobel Prizes in two different scientific fields.
+*   **Date of Death:** July 4, 1934
+*   **Place of Death:** Sallanches, France
+
+**Step 3: Write Simple Sentences**
+
+Now, use the information to write simple sentences.  Use present simple tense (for what they *are* or *do* now) or past simple tense (for what they *did* in the past).
+
+*   **Example:**
+    *   Marie Curie **was born** in Poland.
+    *   She **was** a famous scientist.
+    *   She **discovered** radium and polonium.
+    *   She **won** a Nobel Prize.
+
+**Step 4: Put the Sentences Together in a Paragraph**
+
+Combine the sentences into a short paragraph. Use linking words like "and," "because," "but," and "so" to connect the ideas.
+
+**Example:**
+
+Marie Curie was born in Poland on November 7, 1867. She was a famous scientist.  She discovered radium and polonium.  She won a Nobel Prize because of her important discoveries.  She died on July 4, 1934, in France.
+
+**Step 5: Add a Finishing Sentence (Optional)**
+
+You can add a sentence at the end to summarise their importance or legacy.
+
+**Example:**
+
+Marie Curie was born in Poland on November 7, 1867. She was a famous scientist.  She discovered radium and polonium.  She won a Nobel Prize because of her important discoveries. She died on July 4, 1934, in France.  She is remembered as one of the most important scientists of all time.
+
+### Common Phrases and Vocabulary
+
+Here are some useful words and phrases for writing biographies:
+
+*   **was born:** *Example:  She was born in London.*
+*   **grew up:** *Example: He grew up in a small town.*
+*   **studied:** *Example: She studied medicine at university.*
+*   **worked as:** *Example: He worked as a teacher.*
+*   **famous for:** *Example: She is famous for her paintings.*
+*   **important:** *Example:  He is an important figure in history.*
+*   **discovered:** *Example:  He discovered penicillin.*
+*   **won an award:** *Example: She won an award for her music.*
+*   **married:** *Example: He married his childhood sweetheart.*
+*   **died:** *Example: He died in 2010.*
+*   **scientist:** A person who studies science.
+*   **inventor:** A person who creates new things.
+*   **artist:** A person who makes art.
+*   **writer:** A person who writes books or stories.
+*   **musician:** A person who plays music.
+
+### Practice Exercises
+
+**Exercise 1: Fill in the Blanks**
+
+Complete the following biography with the correct words.
+
+Leonardo da Vinci _________ (born) in Italy in 1452. He _________ (be) a famous artist and inventor. He _________ (paint) the Mona Lisa. He also _________ (design) many inventions. He _________ (die) in France in 1519.
+
+**Answer:**
+
+Leonardo da Vinci **was born** in Italy in 1452. He **was** a famous artist and inventor. He **painted** the Mona Lisa. He also **designed** many inventions. He **died** in France in 1519.
+
+**Exercise 2:  Write a Biography about Yourself!**
+
+Answer these questions to help you write a brief biography about yourself:
+
+1.  What is your full name?
+2.  Where were you born?
+3.  When were you born? (Day, month, year)
+4.  What do you do? (Student? Job?)
+5.  What are you good at?
+6.  What do you like to do?
+7.  What is one interesting thing about you?
+
+Now, use your answers to write a short paragraph about yourself!
+
+**Example:**
+
+My name is [Your Name]. I was born in [Your City] on [Your Date of Birth]. I am a [Your Occupation, e.g., student] at [Your School/University]. I am good at [Your Skill]. I like to [Your Hobby]. One interesting thing about me is that [Interesting Fact].
+
+**Exercise 3: Write a Biography of Your Friend/Family Member**
+
+Ask your friend or family member some simple questions and write a brief biography about them.
+
+### Summary
+
+Today, we learned how to write brief biographies.  Remember these important steps:
+
+1.  **Choose someone:**  Decide who you want to write about.
+2.  **Gather information:**  Find out the important facts about their life.
+3.  **Write simple sentences:**  Use present simple and past simple tenses.
+4.  **Put it all together:**  Create a paragraph using linking words.
+5.  **Practice!** The more you write, the better you'll become!
+
+Good luck writing your own brief biographies!

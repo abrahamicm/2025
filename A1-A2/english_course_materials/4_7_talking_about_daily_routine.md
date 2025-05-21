@@ -1,0 +1,178 @@
+# 4_7_Talking_About_Daily_Routine
+
+## 4.7. Talking about daily routine
+
+### Introduction: Why Learn About Daily Routines?
+
+Talking about your daily routine is a fundamental skill for English learners. It allows you to:
+
+*   Introduce yourself and connect with others.
+*   Share information about your life and habits.
+*   Understand how other people live.
+*   Practice using common verbs and time expressions.
+*   Improve your fluency and confidence in speaking.
+
+In this lesson, we will learn how to describe our daily activities using simple sentences and useful vocabulary. Let's get started!
+
+### Detailed Explanation with Examples
+
+A daily routine is a sequence of activities you do every day, or almost every day. It can include things like waking up, eating meals, working, studying, and relaxing.
+
+We use **present simple tense** to describe daily routines. Remember the basic structure:
+
+*   **I / You / We / They + Verb (base form)**
+*   **He / She / It + Verb + -s/-es**
+
+Here are some examples:
+
+*   **I wake up** at 7 o'clock.
+*   **She eats** breakfast at 7:30.
+*   **We go** to school by bus.
+*   **He studies** English in the evening.
+*   **They watch** TV before bed.
+*   **I don't eat** meat. (Negative)
+*   **She doesn't drink** coffee. (Negative)
+
+**Key Verbs for Daily Routines:**
+
+Here's a list of common verbs used to talk about daily routines:
+
+*   **Wake up:** to stop sleeping
+    *   Example: I wake up at 6 AM every day.
+*   **Get up:** to get out of bed
+    *   Example: I get up at 6:30 AM.
+*   **Take a shower:** to wash your body under running water
+    *   Example: I take a shower in the morning.
+*   **Brush my teeth:** to clean your teeth with a brush
+    *   Example: I brush my teeth after breakfast.
+*   **Get dressed:** to put on clothes
+    *   Example: I get dressed before going to work.
+*   **Eat breakfast/lunch/dinner:** to have a meal
+    *   Example: I eat breakfast at home.
+*   **Go to work/school:** to travel to your place of work/study
+    *   Example: I go to work by car.
+*   **Start work/school:** to begin working/studying
+    *   Example: I start work at 9 AM.
+*   **Finish work/school:** to complete working/studying
+    *   Example: I finish work at 5 PM.
+*   **Come home:** to return to your house
+    *   Example: I come home at 6 PM.
+*   **Cook dinner:** to prepare dinner
+    *   Example: I cook dinner for my family.
+*   **Watch TV:** to view programs on television
+    *   Example: I watch TV in the evening.
+*   **Go to bed:** to go to sleep
+    *   Example: I go to bed at 10 PM.
+
+### Common Phrases and Vocabulary
+
+Here are some useful phrases and vocabulary to describe your daily routine:
+
+**Time Expressions:**
+
+*   **In the morning:** From when you wake up until noon.
+    *   Example: I have breakfast in the morning.
+*   **In the afternoon:** From noon until evening.
+    *   Example: I have lunch in the afternoon.
+*   **In the evening:** From sunset until bedtime.
+    *   Example: I watch TV in the evening.
+*   **At night:** When it is dark and you are sleeping (or about to).
+    *   Example: I sleep at night.
+*   **Every day:** Each day.
+    *   Example: I go to school every day.
+*   **On weekdays:** Monday to Friday.
+    *   Example: I work on weekdays.
+*   **At the weekend:** Saturday and Sunday.
+    *   Example: I relax at the weekend.
+*   **At X o'clock:** A specific time.
+    *   Example: I wake up at 7 o'clock.
+*   **Half past X:** Thirty minutes after a specific hour. (e.g., Half past seven = 7:30)
+    *   Example: I have breakfast at half past seven.
+*   **A quarter past X:** Fifteen minutes after a specific hour. (e.g., A quarter past eight = 8:15)
+    *   Example: I leave home at a quarter past eight.
+*   **A quarter to X:** Fifteen minutes before a specific hour. (e.g., A quarter to nine = 8:45)
+    *   Example: I arrive at work at a quarter to nine.
+
+**Adverbs of Frequency:**
+
+*   **Always:** All the time (100%)
+    *   Example: I always brush my teeth in the morning.
+*   **Usually/Generally:** Most of the time (80-90%)
+    *   Example: I usually have cereal for breakfast.
+*   **Often/Frequently:** Many times (60-70%)
+    *   Example: I often go for a walk after dinner.
+*   **Sometimes:** Occasionally (40-50%)
+    *   Example: I sometimes watch a movie on the weekend.
+*   **Rarely/Seldom:** Not very often (10-20%)
+    *   Example: I rarely eat fast food.
+*   **Never:** Not at any time (0%)
+    *   Example: I never drink coffee.
+
+**Other Useful Words/Phrases:**
+
+*   **Then:** Next, after that.
+    *   Example: I wake up, then I get dressed.
+*   **After that:** After something else.
+    *   Example: I have breakfast. After that, I go to work.
+*   **Before:** Prior to something else.
+    *   Example: I read a book before I go to bed.
+*   **Finally:** The last thing.
+    *   Example: Finally, I go to sleep.
+
+### Practice Exercises
+
+**Exercise 1: Matching**
+
+Match the verbs to the pictures (Imagine pictures of each activity are shown here).
+
+1.  Wake up
+2.  Eat breakfast
+3.  Go to work
+4.  Watch TV
+5.  Go to bed
+
+**Exercise 2: Fill in the Blanks**
+
+Complete the sentences with the correct form of the verb in brackets.
+
+1.  I ________ (wake up) at 7 AM every day.
+2.  She ________ (go) to school by bus.
+3.  We ________ (eat) lunch at 1 PM.
+4.  He ________ (not/like) to wake up early.
+5.  They ________ (study) English every evening.
+
+**Exercise 3: Writing Sentences**
+
+Write three sentences describing your daily routine using the verbs and phrases we learned.
+
+Example:
+
+1.  I wake up at 6:30 AM.
+2.  I eat breakfast at 7 AM.
+3.  I go to work at 8 AM.
+
+**Exercise 4: Talking Activity (Pair Work - If possible)**
+
+Ask your partner about their daily routine. Use these questions as prompts:
+
+*   What time do you wake up?
+*   What do you eat for breakfast?
+*   How do you go to work/school?
+*   What do you do in the evening?
+*   What time do you go to bed?
+
+**Exercise 5: Ordering Activities**
+
+Put these activities in the correct order for a typical morning routine:
+
+a) Eat breakfast
+b) Get dressed
+c) Wake up
+d) Take a shower
+e) Brush my teeth
+
+### Summary
+
+In this lesson, we learned how to talk about our daily routines using the present simple tense. We explored common verbs and phrases related to daily activities, time expressions, and adverbs of frequency. We also practiced describing our routines through various exercises.
+
+Remember, practicing regularly is the key to improving your English speaking skills. Keep talking about your daily routine, and you'll become more confident and fluent! Good job!

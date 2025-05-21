@@ -1,0 +1,274 @@
+# To See Present Simple
+
+### Affirmative.
+
+*   I see a bird in the tree.
+*   You see the sun in the sky.
+*   He sees his friend at school.
+*   She sees a cat on the street.
+*   It sees its reflection in the mirror.
+*   We see the mountains in the distance.
+*   They see the bus coming.
+*   My dog sees squirrels in the park.
+*   The teacher sees the students working.
+*   The doctor sees patients every day.
+
+### Negative.
+
+*   I don't see my keys anywhere.
+*   You don't see the problem with this.
+*   He doesn't see the movie.
+*   She doesn't see anything wrong.
+*   It doesn't see very well in the dark.
+*   We don't see each other often.
+*   They don't see the point.
+*   My brother doesn't see his glasses.
+*   The cat doesn't see the mouse.
+*   The blind man doesn't see.
+
+### Questions.
+
+*   Do I see correctly?
+*   Do you see what I mean?
+*   Does he see the difference?
+*   Does she see him?
+*   Does it see me?
+*   Do we see the future?
+*   Do they see the signs?
+*   Does your mother see well?
+*   Does the baby see colors?
+*   Do the students see the board?
+
+### Affirmative Contractions.
+
+*   I'm seeing things! (Used informally, often for hallucinations)
+*   You're seeing clearly now. (Used informally, often for understanding)
+*   He's seeing stars! (Used informally after an impact)
+*   She's seeing a doctor about her eyes. (Used informally when scheduled)
+*   It's seeing the light. (Used informally, often for understanding)
+*   We're seeing progress on the project. (Used informally when noticing change)
+*   They're seeing the results of their hard work. (Used informally when noticing change)
+*   My friend's seeing her boyfriend tonight. (Used informally when scheduled)
+*   The company's seeing increased profits. (Used informally when noticing change)
+*   The team's seeing improvements in their performance. (Used informally when noticing change)
+
+### Negative Contractions.
+
+*   I don't see any reason to worry.
+*   You don't see the big picture.
+*   He doesn't see the importance of education.
+*   She doesn't see the value in it.
+*   It doesn't see any danger.
+*   We don't see eye to eye.
+*   They don't see the consequences.
+*   My dog doesn't see the mailman as a friend.
+*   The teacher doesn't see students using phones.
+*   The judge doesn't see any evidence.
+
+### Questions Contractions.
+
+*   Don't I see you at the gym? (Informal. Same meaning as "Do I not see...")
+*   Don't you see that I'm busy? (Informal. Same meaning as "Do you not see...")
+*   Doesn't he see the beauty in nature? (Informal. Same meaning as "Does he not see...")
+*   Doesn't she see the risks involved? (Informal. Same meaning as "Does she not see...")
+*   Doesn't it see the mouse? (Informal. Same meaning as "Does it not see...")
+*   Don't we see the world differently? (Informal. Same meaning as "Do we not see...")
+*   Don't they see the truth? (Informal. Same meaning as "Do they not see...")
+*   Doesn't your cat see the toy? (Informal. Same meaning as "Does your cat not see...")
+*   Doesn't the machine see the barcode? (Informal. Same meaning as "Does the machine not see...")
+*   Doesn't the camera see my face? (Informal. Same meaning as "Does the camera not see...")
+
+### Wh- Questions.
+
+*   What do you see?
+*   Where do you see him?
+*   When do you see your friends?
+*   Why do you see the doctor?
+*   Who do you see at the store?
+*   How often do you see your family?
+*   Which movie do you see?
+*   Whose car do you see?
+*   What kind of animals do you see?
+*   What time do you see the show?
+
+### Identity and Personal Introduction.
+
+*   I see myself as a student.
+*   You see yourself as a kind person.
+*   He sees himself as a hard worker.
+*   She sees herself as a good friend.
+*   My friends see me as funny.
+*   My family see me as talented.
+*   Strangers see me as shy.
+*   I see myself becoming a doctor.
+*   You see yourself growing older.
+*   He sees himself changing for the better.
+
+### Nationality and Origin.
+
+*   I see many Americans visiting.
+*   You see a lot of Europeans traveling.
+*   He sees tourists from Asia often.
+*   She sees people from Africa in her city.
+*   We see different cultures.
+*   They see immigrants starting new lives.
+*   The restaurant sees customers of different nationalities.
+*   The school sees students from around the world.
+*   The art gallery sees art from different regions.
+*   The airport sees planes arriving from different countries.
+
+### Profession or Occupation.
+
+*   I see my job as important.
+*   You see your work as challenging.
+*   He sees his career as rewarding.
+*   She sees her profession as helpful.
+*   The doctor sees patients every day.
+*   The teacher sees students learning.
+*   The artist sees beauty in everything.
+*   The programmer sees code working.
+*   The chef sees people enjoying food.
+*   The driver sees the road ahead.
+
+### Physical or Emotional States.
+
+*   I see my reflection in the water.
+*   You see the tears in her eyes.
+*   He sees the smile on her face.
+*   She sees the sadness in his eyes.
+*   We see our own happiness reflected in our children.
+*   They see the pain in our hearts.
+*   My dog sees my happiness when I come home.
+*   The mirror sees my wrinkles.
+*   The camera sees my tiredness.
+*   The observer sees the worry on my face.
+
+### Age.
+
+*   I see myself getting older.
+*   You see children playing.
+*   He sees elderly people walking.
+*   She sees teenagers using their phones.
+*   We see families of all ages.
+*   They see babies learning to walk.
+*   The park sees people of different ages.
+*   The school sees students of varying ages.
+*   The doctor sees patients of all ages.
+*   The birthday card sees my age.
+
+### Location or Place.
+
+*   I see a park near my house.
+*   You see the ocean from your balcony.
+*   He sees the mountains in the distance.
+*   She sees the city from her window.
+*   We see trees surrounding our house.
+*   They see the river flowing.
+*   The library sees many books.
+*   The classroom sees many students.
+*   The restaurant sees many customers.
+*   The hospital sees many patients.
+
+### Physical and Personality Descriptions.
+
+*   I see her as kind and generous.
+*   You see him as tall and strong.
+*   He sees her as beautiful and intelligent.
+*   She sees him as funny and charming.
+*   We see them as happy and friendly.
+*   They see us as helpful and supportive.
+*   The camera sees me with glasses.
+*   The mirror sees my brown hair.
+*   The portrait sees him with a beard.
+*   The observer sees her wearing a red dress.
+
+### Permanent Characteristics (General Truths).
+
+*   I see the sky as blue.
+*   You see the grass as green.
+*   He sees the sun rising in the east.
+*   She sees the moon at night.
+*   We see birds flying.
+*   They see fish swimming.
+*   Everyone sees that water is wet.
+*   Everyone sees that fire is hot.
+*   Everyone sees that gravity pulls things down.
+*   Everyone sees that plants need sunlight.
+
+### Weather, Time, and Clock.
+
+*   I see the sun shining.
+*   You see the rain falling.
+*   He sees the snow coming down.
+*   She sees the wind blowing.
+*   We see the clouds forming.
+*   They see the lightning flashing.
+*   The clock sees the hours pass.
+*   My watch sees the seconds tick by.
+*   The calendar sees the days change.
+*   The sky sees the sunrise.
+
+### Price, Quantity or Measurement.
+
+*   I see the price tag on the shirt.
+*   You see the quantity of apples in the bag.
+*   He sees the size of the house.
+*   She sees the length of the table.
+*   We see the amount of sugar in the recipe.
+*   They see the number of cars in the parking lot.
+*   The scale sees my weight.
+*   The measuring cup sees the volume of the liquid.
+*   The thermometer sees the temperature rising.
+*   The cashier sees the total of my purchase.
+
+### Impersonal Expressions.
+
+*   One sees a lot of interesting things in this city.
+*   One doesn't see many stars in the city.
+*   One sees the beauty of nature here.
+*   One doesn't see many people walking at night.
+*   One sees the advantages and disadvantages.
+*   One doesn't see the full picture.
+*   One sees the value in hard work.
+*   One doesn't see the need for that.
+*   One sees the importance of education.
+*   One doesn't see a solution yet.
+
+### There is / There are constructions.
+
+*   There is a bird I see in the garden.
+*   There are clouds I see in the sky.
+*   There is a problem I see with this plan.
+*   There are solutions I see to this challenge.
+*   There is hope I see for the future.
+*   There are opportunities I see available.
+*   There is a cat I see in the street.
+*   There are children I see playing in the park.
+*   There is an issue I see that needs addressing.
+*   There are difficulties I see in this project.
+
+### Modifiers with Modals.
+
+*   I can see the rainbow after the rain.
+*   You should see a doctor if you feel sick.
+*   He might see her at the party.
+*   She must see the importance of this.
+*   We will see the results soon.
+*   They could see the stars tonight.
+*   I want to see the ocean.
+*   You need to see a dentist regularly.
+*   He has to see the manager.
+*   She gets to see her friends often.
+
+### Idiomatic Expressions and Fixed Phrases.
+
+*   I see your point.
+*   Let me see.
+*   I'll see to it.
+*   See you later!
+*   I see eye to eye with you.
+*   I'm seeing red!
+*   As far as I can see...
+*   I can't see that happening.
+*   I've seen better days.
+*   Now I see the light!

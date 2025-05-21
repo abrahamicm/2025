@@ -1,0 +1,157 @@
+# 8_1_Reading_Comprehension_Basic_Blogs_And_Posts
+
+## 2.1. Reading comprehension - basic blogs and posts
+
+**Introduction: Why is Reading Blogs Important?**
+
+Hello everyone! Learning to read and understand simple blogs and online posts is a really important skill in today's world. Blogs are everywhere! They're how people share news, stories, opinions, and information about all kinds of things. Being able to understand them will help you:
+
+*   **Learn new things:** Discover new hobbies, places, and ideas.
+*   **Stay informed:** Understand what's happening around the world.
+*   **Connect with people:** See what others are thinking and feeling.
+*   **Improve your English:** Practice your reading skills in a fun and engaging way.
+
+This lesson will give you the basic tools to understand simple blogs and posts. Let's get started!
+
+**1. Understanding the Basics: Parts of a Blog Post**
+
+Most blog posts have a similar structure:
+
+*   **Title/Headline:** The main idea of the post. It grabs your attention.
+    *   *Example:* "My First Trip to the Zoo!"
+*   **Introduction:** A short paragraph that introduces the topic.
+    *   *Example:* "Last week, I went to the zoo for the very first time. It was amazing!"
+*   **Body Paragraphs:** These are the main parts of the post. They give more details.
+    *   *Example:* "I saw a big elephant! It was eating peanuts."
+*   **Conclusion:** A short paragraph that summarizes the post.
+    *   *Example:* "I had a wonderful day at the zoo. I hope to go back soon!"
+*   **Author:** The person who wrote the blog post.
+    *   *Example:* By: Sarah
+
+**Example Blog Post:**
+
+**My Favorite Color: Blue**
+
+By: David
+
+Hi everyone! Today I want to tell you about my favorite color: blue.
+
+Blue is the color of the sky on a sunny day. It's also the color of the ocean. I love to look at the sky and the ocean. They make me feel calm and happy.
+
+I have a blue t-shirt. I wear it a lot! I also have a blue pen that I use for writing.
+
+Blue is a beautiful color. What is your favorite color?
+
+**2. Finding Key Information**
+
+When you read a blog post, ask yourself these questions:
+
+*   **What is the main topic?** (What is the blog post mostly about?)
+*   **Who is the author?** (Who wrote the blog post?)
+*   **What are the key details?** (Important facts and information)
+*   **What is the author's opinion?** (What does the author think or feel?)
+
+Let's practice with the "My Favorite Color: Blue" blog post:
+
+*   **What is the main topic?** The author's favorite color (blue).
+*   **Who is the author?** David
+*   **What are the key details?** Blue is the color of the sky and ocean. David has a blue t-shirt and a blue pen.
+*   **What is the author's opinion?** Blue is a beautiful color.
+
+**3. Understanding Common Phrases and Vocabulary**
+
+Here are some common words and phrases you might see in simple blogs:
+
+*   **Hi/Hello everyone!:** A friendly greeting.
+*   **Today I want to tell you about...:** Introducing a topic.
+*   **I love...:** Saying what you like.
+*   **I think...:** Saying what you believe.
+*   **It was amazing!:** Describing something you liked.
+*   **I hope...:** Saying what you want to happen.
+*   **My favorite...:** Saying what you like best.
+*   **Happy:** Feeling good
+*   **Sad:** Feeling unhappy
+*   **Excited:** Feeling enthusiastic and eager
+
+**Vocabulary Exercise:**
+
+Match the word with the picture:
+
+1.  Happy
+2.  Sad
+3.  Excited
+
+**(Include pictures of a happy face, a sad face, and an excited face here - if possible)**
+
+Answers: 1 = happy face, 2 = sad face, 3 = excited face.
+
+**4. Practice Exercises**
+
+**Blog Post 1: My Pet Cat**
+
+By: Emily
+
+I have a pet cat. Her name is Luna. Luna is black and white. She is very small.
+
+Luna likes to sleep a lot. She sleeps on my bed. She also likes to play with toys. Her favorite toy is a red ball.
+
+I love Luna very much. She is my best friend.
+
+**Questions:**
+
+1.  What is the main topic of this blog post?
+2.  What is the cat's name?
+3.  What color is the cat?
+4.  What is the cat's favorite toy?
+5.  Does Emily love Luna? Yes or No?
+
+**Answers:**
+
+1.  Emily's pet cat
+2.  Luna
+3.  Black and white
+4.  A red ball
+5.  Yes
+
+**Blog Post 2: My Favorite Food**
+
+By: Tom
+
+My favorite food is pizza! I like pizza with cheese and tomatoes. Sometimes, I like pizza with mushrooms too.
+
+I eat pizza every Friday night with my family. We order pizza from our local pizza shop. It's very delicious!
+
+Pizza makes me happy. What is your favorite food?
+
+**Questions:**
+
+1.  Who wrote this blog post?
+2.  What is Tom's favorite food?
+3.  What does Tom like on his pizza?
+4.  When does Tom eat pizza?
+5.  Is the pizza delicious? Yes or No?
+
+**Answers:**
+
+1. Tom
+2. Pizza
+3. Cheese and Tomatoes (and sometimes mushrooms)
+4. Every Friday night
+5. Yes
+
+**5. Extra tips for better Reading Comprehension**
+
+* Read slowly: Don’t try to read quickly. Understand each sentence and word.
+* Read again: Sometimes, reading something twice helps you understand it better.
+* Look for keywords: Find the important words that tell you what the blog is about.
+* Use a dictionary: If you don’t know a word, look it up! Online dictionaries are very helpful.
+
+**Summary**
+
+Great job! You've learned some important basics about reading comprehension for blogs and posts. Remember:
+
+*   Blog posts usually have a title, introduction, body paragraphs, and a conclusion.
+*   Ask yourself questions about the main topic, author, details, and opinion.
+*   Learn common phrases and vocabulary to help you understand.
+
+Keep practicing! The more you read, the better you will become at understanding English blogs and posts. Good luck!

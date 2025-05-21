@@ -1,0 +1,153 @@
+# 3_2_Personal_Introductions
+
+## 3.2 Personal Introductions
+
+### Introduction: Why are Personal Introductions Important?
+
+Hello! Learning how to introduce yourself is one of the first and most important steps in learning English.  It's how you start conversations, make friends, and build relationships.  When you can introduce yourself confidently, you can feel more comfortable in new situations and make a good first impression.  This lesson will help you learn the basic phrases and vocabulary to introduce yourself in English. Let's get started!
+
+### Detailed Explanation with Examples
+
+Introducing yourself is more than just saying your name.  It's about giving people some basic information about you.  Here's how to do it:
+
+**1. Greetings:**
+
+*   **Hello:** This is a very common and simple greeting.
+    *   Example: "Hello, my name is..."
+*   **Hi:**  Similar to "Hello," but a bit more informal.
+    *   Example: "Hi, I'm..."
+*   **Good morning/afternoon/evening:** Use these at the appropriate time of day.
+    *   Example: "Good morning, my name is..."
+
+**2. Saying your name:**
+
+*   **My name is...** (formal)
+    *   Example: "Hello, my name is Maria."
+*   **I am...** (formal)
+    *   Example: "Good afternoon, I am David."
+*   **I'm...** (short for "I am," more common)
+    *   Example: "Hi, I'm Sarah."
+*   **You can call me...** (more casual, suggests what you prefer to be called)
+    *   Example: "Hello, my name is Elizabeth, but you can call me Liz."
+
+**3. Where are you from?**
+
+*   **I am from...**
+    *   Example: "I am from Spain."
+*   **I'm from...**
+    *   Example: "I'm from Italy."
+*   **I come from...**
+    *   Example: "I come from Germany."
+
+**4. Asking about the other person:**
+
+*   **What's your name?**
+*   **And you?** (After you say your name)
+*   **Where are you from?**
+
+**5. Pleasantries/Nice to meet you:**
+
+*   **Nice to meet you.** (common and polite)
+*   **Pleased to meet you.** (more formal)
+*   **It's nice to meet you too.** (response if someone says "Nice to meet you" to you.)
+
+**Example Conversation:**
+
+*   **You:** Hello, my name is John.
+*   **Other person:** Hi John, I'm Emily.
+*   **You:** Nice to meet you, Emily.
+*   **Emily:** Nice to meet you too, John.
+*   **You:** I'm from the USA. And you?
+*   **Emily:** I'm from Canada.
+
+### Common Phrases and Vocabulary
+
+Here's a list of useful phrases and vocabulary for introductions:
+
+*   **Hello/Hi:** Greetings
+*   **Good morning:** Greeting in the morning.
+*   **Good afternoon:** Greeting after noon.
+*   **Good evening:** Greeting in the evening.
+*   **My name is…:** Used to state your full name.
+*   **I am…/I’m…:** Shorter way to state your name.
+*   **From:** Used to describe where you are from (country, city, etc.).
+*   **Nice to meet you:** Polite phrase said after being introduced.
+*   **Pleased to meet you:** More formal version of "Nice to meet you."
+*   **Too:**  Means "also" or "as well." ("Nice to meet you too.")
+*   **And you?:** Used to politely ask the other person for information.
+
+### Practice Exercises
+
+**Exercise 1: Fill in the Blanks**
+
+Complete the sentences with the correct words:
+
+1.  ________, my name is David.
+2.  I ________ from France.
+3.  ________ to meet you.
+4.  What's ________ name?
+5.  I ________ Emily.
+
+**Answer Key:**
+
+1.  Hello/Hi
+2.  am
+3.  Nice
+4.  your
+5.  am
+
+**Exercise 2:  Ordering a Conversation**
+
+Put the sentences in the correct order to create a simple introduction conversation:
+
+a. Nice to meet you too!
+b. Hi, I'm Ana.
+c. Nice to meet you, Ana! I'm Ben.
+d. Hello, my name is Ben.
+
+**Answer Key:**
+
+d. Hello, my name is Ben.
+b. Hi, I'm Ana.
+c. Nice to meet you, Ana! I'm Ben.
+a. Nice to meet you too!
+
+**Exercise 3:  Role-Playing**
+
+Practice introducing yourself to a partner (or even to yourself in front of a mirror!).  Use the phrases and vocabulary we learned. Try to vary your introductions each time. For example:
+
+*   **First time:** Focus on name and country.
+*   **Second time:** Add a friendly greeting.
+*   **Third time:** Ask the other person for their name and where they are from.
+
+**Example:**
+
+*   You: "Good morning, my name is Michael. I'm from London. What's your name?"
+
+**Exercise 4: Short Answer**
+
+Answer the following questions about yourself:
+
+1.  What is your name?
+2.  Where are you from?
+3.  What is a short name people can use to call you?
+
+(Use the phrases you have learned to answer)
+
+**Example Answers:**
+
+1.  My name is Elena.
+2.  I am from Brazil.
+3.  You can call me Lena.
+
+### Summary
+
+Congratulations! You have learned the basics of personal introductions in English. Remember these key points:
+
+*   Use greetings like "Hello," "Hi," and "Good morning/afternoon/evening."
+*   State your name clearly using phrases like "My name is..." or "I'm..."
+*   Mention where you are from.
+*   Use polite phrases like "Nice to meet you."
+*   Practice makes perfect!  The more you practice introducing yourself, the more confident you will become.
+
+Keep practicing, and you'll be making new friends in English in no time! Good luck!

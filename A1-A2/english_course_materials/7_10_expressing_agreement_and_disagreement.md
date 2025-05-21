@@ -1,0 +1,103 @@
+# 7_10_Expressing_Agreement_And_Disagreement
+
+## 7.10. Expressing Agreement and Disagreement
+
+**Introduction**
+
+Hi everyone! Today, we're going to learn how to express agreement and disagreement in English. This is a very important skill because it helps us to participate in conversations, share our opinions, and have interesting discussions. It’s all about letting people know if you think the same way they do or if you have a different perspective. Knowing how to do this politely is key to good communication!
+
+**What is Agreement and Disagreement?**
+
+*   **Agreement:** When you agree with someone, you think the same way they do. You share the same opinion or idea.
+*   **Disagreement:** When you disagree with someone, you think differently. You have a different opinion or idea.
+
+**How to Express Agreement**
+
+Here are some simple phrases you can use to show that you agree with someone:
+
+*   **"I agree."** (Very common and simple)
+    *   Example:  A: "I think the weather is nice today." B: "I agree."
+*   **"Yes, I think so too."** (Shows you share the same thought)
+    *   Example: A: "This book is very interesting." B: "Yes, I think so too."
+*   **"That's true."** (Confirms something is correct)
+    *   Example: A: "English is important for travel." B: "That's true."
+*   **"Exactly!"** (Shows strong agreement)
+    *   Example: A: "We need to study more." B: "Exactly!"
+*   **"You're right."** (Acknowledges the other person is correct)
+    *   Example: A: "It's getting late." B: "You're right. We should go home."
+*   **"Me too!"** (If someone shares a feeling)
+    *   Example: A: "I'm tired." B: "Me too!"
+
+**How to Express Disagreement (Politely!)**
+
+It's important to be polite when you disagree.  Here are some phrases you can use:
+
+*   **"I don't agree."** (Simple but can sound a little direct)
+    *   Example: A: "I think cats are better than dogs." B: "I don't agree."
+*   **"I don't think so."** (Softer way to disagree)
+    *   Example: A: "It will rain tomorrow." B: "I don't think so."
+*   **"I'm not sure about that."** (Shows hesitation and disagreement)
+    *   Example: A: "This is the best restaurant in town." B: "I'm not sure about that."
+*   **"I see your point, but..."** (Acknowledges the other person's view before disagreeing)
+    *   Example: A: "We should buy a new car." B: "I see your point, but we don't have enough money."
+*   **"Maybe, but..."** (Suggests another possibility)
+    *   Example: A: "The movie was great." B: "Maybe, but I thought it was a little boring."
+*   **"I think differently."** (Very polite way to express a different opinion)
+    *   Example: A: "Summer is the best season." B: "I think differently. I like winter more."
+
+**Common Phrases and Vocabulary**
+
+Here's a vocabulary list that will help you better understand and use the concepts:
+
+*   **Opinion:** What you think about something.
+*   **Agree:** To have the same opinion.
+*   **Disagree:** To have a different opinion.
+*   **True:** Correct; a fact.
+*   **Right:** Correct; accurate.
+*   **Sure:** Certain; confident.
+*   **Point:** An idea or argument.
+*   **Believe:** To think something is true.
+
+**Practice Exercises**
+
+Let's try some practice exercises.  For each statement, choose a phrase to express agreement or disagreement. Remember to be polite!
+
+**Exercise 1: Agreement**
+
+*   Statement: "Pizza is delicious!"
+    *   Possible answer: "I agree!" or "Yes, I think so too."
+*   Statement: "It's very hot today."
+    *   Possible answer: "That's true." or "Me too! (if you feel hot)"
+*   Statement: "Learning English is useful."
+    *   Possible answer: "Exactly!" or "You're right."
+
+**Exercise 2: Disagreement**
+
+*   Statement: "Coffee is better than tea."
+    *   Possible answer: "I don't agree." or "I think differently."
+*   Statement: "This is an easy exercise."
+    *   Possible answer: "I don't think so." or "I'm not sure about that."
+*   Statement: "Winter is the best time to travel."
+    *   Possible answer: "Maybe, but I prefer to travel in the summer." or "I see your point, but I prefer warmer weather."
+
+**Exercise 3: Fill in the blank**
+
+Complete the sentences below with an appropriate expression of agreement or disagreement.
+
+1.  A: "Dogs are great pets."  B: _______________, I love dogs!
+2.  A: "This is the best song ever!" B: _______________, I find it a bit boring.
+3.  A: "It's important to exercise regularly." B: _______________. It keeps you healthy.
+4.  A: "Blue is the prettiest color." B: _______________, I like green better.
+5.  A: "The movie was very long!" B: _______________, I almost fell asleep.
+
+**Answer key for Exercise 3:**
+
+1. Exactly! / I agree!
+2. I'm not sure about that. / I don't think so.
+3. You're right. / That's true.
+4. I think differently. / I don't agree.
+5. That's true. / I agree.
+
+**Summary**
+
+Today, we learned how to express agreement and disagreement in English in a polite and effective way. Remember to use simple phrases, and be mindful of your tone. Practicing these expressions will help you communicate more confidently and participate more actively in conversations. Keep practicing, and you'll become a pro at expressing your opinions! Good luck!

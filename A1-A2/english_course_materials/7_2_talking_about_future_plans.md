@@ -1,0 +1,233 @@
+# 7_2_Talking_About_Future_Plans
+
+## 7.2. Talking about future plans
+
+**Introduction:**
+
+Hi everyone! Welcome to our lesson on talking about future plans! Learning how to talk about the future is super important because it helps you share your dreams, make appointments, and simply tell people what you want to do! Even at the A1-A2 level, you can learn to express your plans in simple and clear ways. Let's get started!
+
+**Why is this important?**
+
+Knowing how to talk about the future helps you:
+
+*   **Socialize:** Make plans with friends ("Let's go to the cinema on Saturday!").
+*   **Travel:** Tell people about your travel plans ("I am going to visit Paris next year.").
+*   **Study/Work:** Discuss your future goals ("I want to learn English").
+*   **Organize your life:** Make appointments ("I have a doctor's appointment tomorrow.").
+
+**1. Simple Future with "going to"**
+
+We use "going to" to talk about plans and intentions. It means you have already decided what you are going to do.
+
+**Structure:**
+
+*   **Subject + am/is/are + going to + base form of the verb**
+
+**Examples:**
+
+*   I **am going to** watch a movie tonight.
+*   He **is going to** play football tomorrow.
+*   They **are going to** eat pizza for dinner.
+*   We **are going to** visit our grandparents next week.
+*   She **is going to** study English after school.
+*   It **is going to** rain this afternoon (We can also use this to make predictions based on evidence).
+*   You **are going to** have a great time on vacation!
+
+**Negative Form:**
+
+*   **Subject + am/is/are + not + going to + base form of the verb**
+
+**Examples:**
+
+*   I **am not going to** cook dinner.
+*   He **is not going to** go to the party.
+*   They **are not going to** buy a new car.
+*   We **are not going to** watch TV tonight.
+*   She **is not going to** clean her room.
+*   It **is not going to** snow tomorrow.
+*   You **are not going to** be late for school!
+
+**Questions:**
+
+*   **Am/Is/Are + subject + going to + base form of the verb?**
+
+**Examples:**
+
+*   **Are** you **going to** travel this summer?
+*   **Is** he **going to** work on Sunday?
+*   **Are** they **going to** have a party?
+*   **Am** I **going to** pass the exam?
+*   **Is** she **going to** call me later?
+
+**Short answers:**
+
+*   Yes, I am. / No, I am not.
+*   Yes, he/she/it is. / No, he/she/it isn't.
+*   Yes, you/we/they are. / No, you/we/they aren't.
+
+**2. Simple Future with "will"**
+
+We also use "will" to talk about future plans, but often for things we decide *at the moment* of speaking, or for predictions.  Sometimes it's a promise or an offer.
+
+**Structure:**
+
+*   **Subject + will + base form of the verb**
+
+**Examples:**
+
+*   I **will** help you with your homework. (Offer)
+*   He **will** be there at 7 pm. (Promise)
+*   They **will** probably arrive late. (Prediction)
+*   We **will** go shopping tomorrow. (Decided now)
+*   She **will** call you back later. (Promise)
+*   It **will** rain tonight. (Prediction)
+*   You **will** enjoy the concert. (Prediction)
+
+**Contraction:**
+
+We often shorten "will" to "'ll": I'll, he'll, she'll, it'll, we'll, you'll, they'll.
+
+**Negative Form:**
+
+*   **Subject + will not + base form of the verb**
+    Or, more commonly:
+*   **Subject + won't + base form of the verb**
+
+**Examples:**
+
+*   I **won't** forget your birthday.
+*   He **will not** be happy about this. (More formal)
+*   They **won't** come to the party.
+*   We **won't** watch TV tonight.
+*   She **won't** tell anyone.
+*   It **won't** be easy.
+*   You **won't** believe what happened!
+
+**Questions:**
+
+*   **Will + subject + base form of the verb?**
+
+**Examples:**
+
+*   **Will** you help me?
+*   **Will** he be there?
+*   **Will** they come?
+*   **Will** we pass the test?
+*   **Will** she call me?
+
+**Short answers:**
+
+*   Yes, I will. / No, I won't.
+*   Yes, he/she/it will. / No, he/she/it won't.
+*   Yes, you/we/they will. / No, you/we/they won't.
+
+**3. Present Continuous for Future Arrangements**
+
+We use the Present Continuous (Subject + am/is/are + verb-ing) to talk about arrangements we've already made, often with a time or place.
+
+**Examples:**
+
+*   I **am meeting** my friend tomorrow. (Arrangement is already made, likely confirmed).
+*   He **is playing** basketball this afternoon.
+*   They **are visiting** their family next weekend.
+*   We **are having** a picnic on Sunday.
+*   She **is flying** to Italy next month.
+
+**Important Note:** Usually, there's some evidence or preparation done when we use the present continuous for future arrangements (e.g., booking a ticket, confirming with a friend).
+
+**Common Phrases and Vocabulary:**
+
+*   **Tomorrow:** The day after today.
+*   **Next week/month/year:** The week/month/year after this one.
+*   **In the future:** Sometime later.
+*   **Tonight:** This evening.
+*   **Later:** After a short time.
+*   **Soon:** In a short time.
+*   **Plan:** Something you intend to do.
+*   **Intentions:** What you plan to do.
+*   **I hope to...** (Expresses a wish for the future)
+*   **I'm thinking of...** (Considering doing something)
+*   **I'm planning to...** (I have a plan to do something)
+*   **Appointment:** A time you have arranged to meet someone or do something.
+*   **Date:** A specific day (e.g., "What's the date of the party?").
+
+**Practice Exercises:**
+
+**Exercise 1: Fill in the blanks with "going to" or "will":**
+
+1.  I _______ (go) to the beach tomorrow. (Planned)
+2.  It's cold! I _______ (close) the window. (Decided now)
+3.  They _______ (visit) their grandparents next Sunday. (Planned)
+4.  I think it _______ (rain) tonight. (Prediction)
+5.  We _______ (study) English together next week. (Planned)
+6.  I _______ (help) you with your homework. (Offer)
+
+**Exercise 2: Rewrite the sentences in the negative form:**
+
+1.  I am going to eat pizza.
+2.  She will be there.
+3.  They are going to travel to Spain.
+4.  He will help you.
+
+**Exercise 3: Ask questions using "going to" or "will":**
+
+1.  You / watch a movie tonight?
+2.  He / play football tomorrow?
+3.  They / come to the party?
+4.  She / call you later?
+
+**Exercise 4: Complete the sentences using the Present Continuous for Future Arrangements:**
+
+1. I _______ (have) dinner with my family tonight.
+2. She _______ (see) the doctor tomorrow morning.
+3. We _______ (fly) to London next week.
+4. They _______ (play) tennis on Saturday.
+
+**Exercise 5: Role-play:**
+
+Work with a partner. One person asks about the other person's plans for the weekend. Use "going to," "will," and the Present Continuous.  For example:
+
+*   Person A: "Hi! What are you doing this weekend?"
+*   Person B: "Hi! I'm going to visit my friend on Saturday. And I think I will watch a movie on Sunday. What about you?"
+
+**Answer Key:**
+
+**Exercise 1:**
+
+1.  am going to go
+2.  will close
+3.  are going to visit
+4.  will rain
+5.  are going to study
+6.  will help
+
+**Exercise 2:**
+
+1.  I am not going to eat pizza.
+2.  She will not be there. / She won't be there.
+3.  They are not going to travel to Spain.
+4.  He will not help you. / He won't help you.
+
+**Exercise 3:**
+
+1.  Are you going to watch a movie tonight?
+2.  Will he play football tomorrow? / Is he going to play football tomorrow?
+3.  Will they come to the party? / Are they going to come to the party?
+4.  Will she call you later? / Is she going to call you later?
+
+**Exercise 4:**
+
+1.  am having
+2.  is seeing
+3.  are flying
+4.  are playing
+
+**Summary:**
+
+Great job! In this lesson, you learned how to talk about your future plans using:
+
+*   **"going to"** for plans and intentions.
+*   **"will"** for on-the-spot decisions, predictions, offers, and promises.
+*   **Present Continuous** for future arrangements.
+
+Remember to practice using these phrases and structures to become more confident in talking about the future! Keep practicing, and you'll be making plans like a pro in no time! Good luck!

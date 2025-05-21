@@ -1,0 +1,138 @@
+# 5_15_Too_Much___Too_Many___Not_Enough
+
+## 5.15. Too much / Too many / Not enough
+
+### Introduction: Why is this important?
+
+Understanding "too much," "too many," and "not enough" is crucial for expressing quantities and limitations accurately. In everyday situations, you'll often need to talk about whether there's enough of something, or if there's an excess or shortage. This lesson will help you express these ideas clearly and confidently in English. Imagine you're ordering food or planning a party; knowing these phrases will be very useful!
+
+### 1. "Too much"
+
+**Meaning:** More than what is needed or wanted. We use "too much" with **uncountable nouns**.
+
+**What are uncountable nouns?** These are things we can't easily count individually, like water, sugar, information, money, etc. You can't say "one water" or "two sugars" in general.
+
+**Structure:** `Too much + Uncountable Noun`
+
+**Examples:**
+
+*   "I drank **too much** coffee. Now I can't sleep." (Coffee is uncountable)
+*   "There's **too much** sugar in this tea. It's very sweet." (Sugar is uncountable)
+*   "He spends **too much** time playing video games." (Time is uncountable)
+*   "She has **too much** homework tonight." (Homework is usually considered uncountable in English)
+
+### 2. "Too many"
+
+**Meaning:** More than what is needed or wanted. We use "too many" with **countable nouns**.
+
+**What are countable nouns?** These are things we can easily count individually, like apples, books, people, cars, etc. You can say "one apple," "two books," "three people."
+
+**Structure:** `Too many + Countable Noun (plural)`
+
+**Examples:**
+
+*   "I ate **too many** cookies. My stomach hurts." (Cookies are countable)
+*   "There are **too many** cars on the road. The traffic is bad." (Cars are countable)
+*   "She has **too many** shoes. She doesn't have enough space in her closet." (Shoes are countable)
+*   "There were **too many** people at the party. It was very crowded." (People are countable)
+
+### 3. "Not enough"
+
+**Meaning:** Less than what is needed or wanted. We use "not enough" with both **countable and uncountable nouns**.
+
+**Structure:**
+
+*   `Not enough + Uncountable Noun`
+*   `Not enough + Countable Noun (plural)`
+
+**Examples (Uncountable):**
+
+*   "I don't have **not enough** money to buy that phone." (Money is uncountable)
+*   "There is **not enough** water in the bottle. I'm thirsty." (Water is uncountable)
+*   "We didn't have **not enough** time to finish the test." (Time is uncountable)
+*   "There's **not enough** information here. I need more details." (Information is uncountable)
+
+**Examples (Countable):**
+
+*   "There are **not enough** chairs for everyone to sit down." (Chairs are countable)
+*   "He doesn't have **not enough** friends. He feels lonely." (Friends are countable)
+*   "I didn't buy **not enough** tickets for the concert." (Tickets are countable)
+*   "She doesn't have **not enough** apples to make a pie." (Apples are countable)
+
+### 4. Common Phrases and Vocabulary
+
+Here are some related words and phrases that you might find useful:
+
+*   **Enough:** Sufficient, adequate, as much as is necessary.  (e.g., "Do you have enough money?")
+*   **Plenty:** A lot, a large amount. (e.g., "There's plenty of food.")
+*   **Sufficient:** Enough for a particular purpose. (e.g., "He has sufficient experience.")
+*   **Excessive:** Too much. (e.g., "The heat was excessive.")
+*   **Limited:** Small in amount or number. (e.g., "We have a limited amount of time.")
+*   **Shortage:** Not enough of something. (e.g., "There is a shortage of doctors in this area.")
+*   **Crowded:** Full of people. (e.g., "The bus is crowded.")
+*   **Empty:** Containing nothing; having no people present. (e.g., "The fridge is empty.")
+
+### 5. Practice Exercises
+
+**A. Choose "too much," "too many," or "not enough" to complete the sentences:**
+
+1.  There is _______ salt in the soup. It tastes bad.
+2.  I have _______ books to read. I don't know where to start.
+3.  She doesn't have _______ patience to deal with children.
+4.  There are _______ students in the class. It's very noisy.
+5.  I have _______ money to buy a new car. I need to save more.
+6.  He ate _______ fast food. He feels sick.
+7.  There aren't _______ buses running tonight. I'll have to take a taxi.
+8.  I didn't have _______ sleep last night. I'm very tired.
+9.  She buys _______ clothes. Her wardrobe is overflowing.
+10. They don't have _______ chairs for all the guests.
+
+**B. Correct the sentences below if they are wrong:**
+
+1. I have too much friends.
+2. There isn't enough informations.
+3. He drank too many water.
+4. She has not enough money.
+5. There are too much people at the beach.
+
+**C. Translate the following sentences into English using "too much," "too many," or "not enough":**
+
+1.  Hay demasiada gente en la calle. (There are too many people on the street.)
+2.  No tengo suficiente tiempo para hacer todo. (I don't have enough time to do everything.)
+3.  Hay demasiada azúcar en el pastel. (There is too much sugar in the cake.)
+4.  No hay suficientes sillas. (There aren't enough chairs.)
+
+**Answer Key:**
+
+**A.**
+
+1.  too much
+2.  too many
+3.  enough
+4.  too many
+5.  not enough
+6.  too much
+7.  enough
+8.  enough
+9.  too many
+10. enough
+
+**B.**
+
+1.  I have **too many** friends.
+2.  There isn't **enough information**.
+3.  He drank **too much** water.
+4.  She does **not have enough** money.
+5.  There are **too many** people at the beach.
+
+**C.** (Example answers provided in parentheses)
+
+### 6. Summary
+
+In this lesson, you learned how to use "too much," "too many," and "not enough" to express quantities.
+
+*   "Too much" is used with **uncountable nouns**.
+*   "Too many" is used with **countable nouns (plural)**.
+*   "Not enough" is used with both **countable and uncountable nouns**.
+
+Remember to practice using these phrases in everyday conversations and writing to improve your English fluency. Good luck!

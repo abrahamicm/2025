@@ -1,0 +1,154 @@
+# 4_3_Giving_Basic_Personal_Information
+
+## 4.3 Giving basic personal information
+
+**Introduction:**
+
+Hello! Learning how to give basic personal information in English is a very important first step. It allows you to introduce yourself, meet new people, and get help when you need it. This lesson will teach you the common phrases and vocabulary you need to share information about yourself in a simple and clear way. Let's get started!
+
+**What kind of information are we talking about?**
+
+Basic personal information usually includes:
+
+*   **Your name:** What people call you.
+*   **Your age:** How old you are.
+*   **Your country/nationality:** Where you are from.
+*   **Your job/occupation:** What you do for work.
+*   **Where you live:** Your city or town.
+*   **Contact information (optional):** A phone number or email address (use caution when sharing this).
+
+**Detailed Explanation with Examples:**
+
+Let's break down each piece of information with example sentences:
+
+**1. Your Name:**
+
+*   **"My name is..."** (Formal and common)
+    *   Example: "My name is Maria Rodriguez."
+*   **"I am..."** (Formal and common)
+    *   Example: "I am David Lee."
+*   **"I'm..."** (Short for "I am," more informal, very common)
+    *   Example: "I'm Anna Schmidt."
+*   **"People call me..."** (Informal, used when you have a nickname)
+    *   Example: "My name is Elizabeth, but people call me Liz."
+
+**2. Your Age:**
+
+*   **"I am... years old."** (Formal and common)
+    *   Example: "I am 25 years old."
+*   **"I'm... years old."** (Informal, very common)
+    *   Example: "I'm 30 years old."
+
+**Important:** We usually *don't* say "I have 25 years."
+
+**3. Your Country/Nationality:**
+
+*   **"I am from..."** (Common)
+    *   Example: "I am from Brazil."
+*   **"I come from..."** (Less common, but correct)
+    *   Example: "I come from Japan."
+*   **"I am... (nationality)."** (Common)
+    *   Example: "I am German."
+
+Here are some common nationalities:
+
+*   American
+*   British
+*   Canadian
+*   Chinese
+*   French
+*   German
+*   Indian
+*   Italian
+*   Japanese
+*   Mexican
+*   Spanish
+
+**4. Your Job/Occupation:**
+
+*   **"I am a/an..."** (Common)
+    *   Example: "I am a teacher."  "I am an engineer." (Use "an" before words that start with a vowel sound).
+*   **"I work as a/an..."** (Also common)
+    *   Example: "I work as a nurse." "I work as an artist."
+*   **"I am a student."** (If you are studying)
+    *   Example: "I am a student at the university."
+
+**5. Where You Live:**
+
+*   **"I live in..."** (Common)
+    *   Example: "I live in London."
+*   **"I am from..., but I live in..."** (If you are living in a different place than where you are from)
+    *   Example: "I am from Argentina, but I live in New York."
+
+**6. Contact Information (Optional):**
+
+*   **"My phone number is..."** (Use with caution)
+    *   Example: "My phone number is 555-123-4567."
+*   **"My email address is..."** (Use with caution)
+    *   Example: "My email address is example@email.com."
+
+**Common Phrases & Vocabulary:**
+
+*   **Hello:** A greeting.
+*   **Hi:** Another greeting, more informal.
+*   **Nice to meet you:** Said when you meet someone for the first time.
+*   **Pleased to meet you:** More formal than "Nice to meet you."
+*   **What's your name?** Asking someone their name.
+*   **Where are you from?** Asking someone their country/nationality.
+*   **What do you do?** Asking someone about their job/occupation.
+*   **How old are you?** Asking someone their age.
+*   **Thank you:** To show appreciation.
+*   **You're welcome:** Response to "Thank you."
+*   **Excuse me:** Use to get someone's attention.
+*   **Sorry:** Use to apologize.
+
+**Practice Exercises:**
+
+**Exercise 1: Fill in the blanks.**
+
+1.  My _________ is Carlos.
+2.  I _________ 22 years old.
+3.  I am _________ Italy.
+4.  I am a _________. (Think of a job)
+5.  I _________ in Rome.
+
+**Answers:** 1. name, 2. am, 3. from, 4. student/teacher/doctor etc., 5. live
+
+**Exercise 2: Translate to English.**
+
+1.  Me llamo Sofia.
+2.  Tengo 28 años.
+3.  Soy de España.
+4.  Trabajo como camarero.
+5.  Vivo en Madrid.
+
+**Answers:**
+
+1.  My name is Sofia.
+2.  I am 28 years old.
+3.  I am from Spain.
+4.  I work as a waiter.
+5.  I live in Madrid.
+
+**Exercise 3:  Role-Playing**
+
+Imagine you are meeting someone new. Ask them these questions and answer them about yourself:
+
+*   What's your name?
+*   How old are you?
+*   Where are you from?
+*   What do you do?
+*   Where do you live?
+
+Example conversation:
+
+**You:** Hello, what's your name?
+**New Person:** Hi, my name is John. What's your name?
+**You:** My name is [Your Name]. Nice to meet you, John.
+**New Person:** Nice to meet you too!
+
+Continue the conversation by asking the other questions.
+
+**Summary:**
+
+In this lesson, you learned how to give basic personal information in English. You learned phrases to share your name, age, country, job, and where you live. You also practiced using these phrases in exercises and a role-playing activity. Remember to practice regularly, and you will become more confident in introducing yourself in English! Good luck!

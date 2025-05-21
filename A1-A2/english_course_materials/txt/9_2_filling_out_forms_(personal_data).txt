@@ -1,0 +1,144 @@
+9.2. Filling out forms (personal data)
+
+Introduction
+
+Hello everyone! Today, we're going to learn about something very important: filling out forms with your personal data. What is "personal data"? It's information about you, like your name, address, and birthday. Why is this important? Because forms are everywhere! You might need to fill one out to join a library, open a bank account, or even sign up for an English class! Knowing how to fill them out correctly is a valuable skill.
+
+What is a Form?
+
+A form is a piece of paper or a digital document with spaces for you to write information. It helps organizations (like schools, banks, or hospitals) collect information about you in a structured way.
+
+Key Vocabulary
+
+Let's learn some important words and phrases you'll see on forms:
+
+   Form: A document you fill out with information.
+   Personal Data: Information about you, like your name and address.
+   First Name: Your given name (e.g., John, Maria)
+   Last Name (Surname/Family Name): Your family name (e.g., Smith, Garcia)
+   Address: Where you live (house number, street name, city, country)
+   Date of Birth (DOB): The date you were born (day, month, year)
+   Email Address: Your online address (e.g., john.smith@example.com)
+   Phone Number: Your phone number (include country code if necessary)
+   Nationality: The country you are from (e.g., British, American, Japanese)
+   Gender: Male (Man) or Female (Woman)
+   Signature: Your handwritten name (to show you agree)
+   Required: Needs to be filled in. Often marked with a star ().
+   Optional: You don't have to fill this in.
+   Mr.: Title for a man.
+   Ms.: Title for a woman (marital status unknown or irrelevant).
+   Mrs.: Title for a married woman.
+
+Common Phrases on Forms
+
+Here are some phrases you might see and what they mean:
+
+   Please print clearly: Write neatly so people can read your writing.
+   Use capital letters: Write using uppercase (A, B, C, etc.).
+   Please tick the box: Put a small checkmark (✓) in the box next to your answer.
+   Enter your details: Write your personal information.
+   Sign here: Write your signature in the space provided.
+
+Examples of Form Fields
+
+Let's look at some examples of what you might see on a form:
+
+Example 1: Basic Information
+
+| Field             | Example                               |
+| ----------------- | ------------------------------------- |
+| First Name        | John                                  |
+| Last Name         | Smith                                 |
+| Date of Birth     | 15/03/1990 (Day/Month/Year)          |
+| Email Address    | john.smith@email.com                |
+| Phone Number       | +44 7700 900000 (UK)                  |
+
+Example 2: Address
+
+| Field            | Example                               |
+| ---------------- | ------------------------------------- |
+| House Number     | 12                                     |
+| Street Name      | Oak Street                            |
+| City             | London                                  |
+| Country          | United Kingdom                        |
+
+Example 3: Gender & Nationality
+
+| Field        | Example          |
+| ------------- | --------------- |
+| Gender       | Male           |
+| Nationality | British          |
+
+Practice Exercises
+
+Let's practice filling out some form fields.
+
+Exercise 1:
+
+Imagine you are joining a local library. The form asks for the following information:
+
+   First Name:
+   Last Name:
+   Address: 20 High Street, Oxford
+   Date of Birth: 05/08/2002
+   Email: sally.brown@example.com
+
+Fill in the fields below using the information above:
+
+   First Name: ____
+   Last Name: ____
+   Address: ____
+   Date of Birth: ____
+   Email: ____
+
+Exercise 2:
+
+Look at this small form and tick the correct answers based on the provided information:
+
+Information: You are a woman named Anna Lee, from South Korea.
+
+| Field        | Options                       | Your Answer (Tick the box) |
+| ------------- | ----------------------------- | ------------------------- |
+| Gender       | Male  ☐       Female  ☐       |                           |
+| Nationality | American  ☐ Korean ☐ Japanese ☐ |                           |
+
+Exercise 3:
+
+You are filling in a form to join an English class. The form requires your signature.
+
+Sign below:
+
+___________________
+(Your Signature)
+Practice writing your signature in the space.
+
+Answers to Exercises
+
+Exercise 1:
+
+   First Name: Sally
+   Last Name: Brown
+   Address: 20 High Street, Oxford
+   Date of Birth: 05/08/2002
+   Email: sally.brown@example.com
+
+Exercise 2:
+
+| Field        | Options                       | Your Answer (Tick the box) |
+| ------------- | ----------------------------- | ------------------------- |
+| Gender       | Male  ☐       Female  ✓       |                           |
+| Nationality | American  ☐ Korean ✓ Japanese ☐ |                           |
+
+Exercise 3: This is a personal answer. It should be your signature.
+
+Tips for Filling out Forms
+
+   Read the instructions carefully: Make sure you understand what the form is asking for.
+   Print clearly: Use capital letters if the form asks for it.
+   Be accurate: Double-check your information before submitting.
+   Don't leave blank spaces: If something doesn't apply to you, write "N/A" (Not Applicable).
+   Ask for help:** If you're not sure about something, ask someone to help you.
+
+Summary
+
+Today, we learned about filling out forms with personal data. We talked about important vocabulary, common phrases, and practice filling out some examples. Remember to read instructions carefully, print clearly, and ask for help when needed. This skill will be very useful in many situations! Well done!

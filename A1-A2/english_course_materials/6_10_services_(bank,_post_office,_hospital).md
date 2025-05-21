@@ -1,0 +1,142 @@
+# 6.10. Services (bank, post office, hospital)
+
+## Introduction: Important Places in Our Community
+
+Hello everyone! Today, we're going to learn about some very important places in our community: the bank, the post office, and the hospital. These places offer **services** – things they do to help us. Knowing how these places work and the words we use there is very important for everyday life! It helps us stay healthy, manage our money, and communicate with others. Let's learn!
+
+## 1. The Bank
+
+**What is a bank?** A bank is a place where people keep their money safe. It's also where people can borrow money.
+
+**What services do banks offer?**
+
+*   **Saving Money:** You can put your money in a bank account to keep it safe and earn interest.
+    *   *Example:* "I want to **save money** for a new bicycle at the bank."
+*   **Withdrawing Money:** You can take money out of your account when you need it.
+    *   *Example:* "I need to **withdraw** some money to buy groceries."
+*   **Depositing Money:** You can put money into your account.
+    *   *Example:* "I want to **deposit** my salary into my bank account."
+*   **Loans:** You can borrow money from the bank to buy a house or a car.
+    *   *Example:* "My parents got a **loan** from the bank to buy a house."
+*   **Paying Bills:** You can pay your bills at the bank or online through the bank.
+    *   *Example:* "I will **pay my bills** online through the bank’s website."
+
+**People you might see at the bank:**
+
+*   **Teller:** A person who helps you with your account.
+*   **Bank Manager:** The person in charge of the bank.
+
+**Common words at the bank:**
+
+*   **Account:** Where your money is kept.
+*   **Cash:** Money in the form of paper bills and coins.
+*   **ATM (Automated Teller Machine):** A machine where you can withdraw or deposit money.
+*   **Interest:** Extra money the bank pays you for keeping your money in the account.
+*   **Balance:** How much money you have in your account.
+
+## 2. The Post Office
+
+**What is a post office?** A post office is a place where you can send and receive letters and packages.
+
+**What services do post offices offer?**
+
+*   **Sending Letters:** You can send letters to friends and family.
+    *   *Example:* "I want to **send a letter** to my grandmother."
+*   **Sending Packages:** You can send boxes with items inside.
+    *   *Example:* "I need to **send a package** with a birthday present."
+*   **Buying Stamps:** You need stamps to send letters.
+    *   *Example:* "I need to **buy stamps** to mail this letter."
+*   **Receiving Mail:** You receive letters and packages that are sent to you.
+    *   *Example:* "I **received a letter** from my friend today!"
+
+**People you might see at the post office:**
+
+*   **Postal Worker/Mail Carrier:** A person who delivers mail.
+*   **Clerk:** A person who helps you send mail at the counter.
+
+**Common words at the post office:**
+
+*   **Stamp:** A small sticker you put on a letter to pay for postage.
+*   **Envelope:** The paper cover for a letter.
+*   **Package:** A box or wrapped item being sent.
+*   **Address:** The place where someone lives.
+*   **Postcard:** A card you can send without an envelope.
+
+## 3. The Hospital
+
+**What is a hospital?** A hospital is a place where doctors and nurses help people who are sick or injured.
+
+**What services do hospitals offer?**
+
+*   **Seeing a Doctor:** You can see a doctor if you are sick or hurt.
+    *   *Example:* "I need to **see a doctor** because I have a fever."
+*   **Emergency Care:** If you are seriously injured, you can go to the emergency room.
+    *   *Example:* "We need to go to the **emergency room** because she broke her arm."
+*   **Getting Medicine:** The hospital can give you medicine to help you get better.
+    *   *Example:* "The doctor gave me a **prescription** for medicine."
+*   **Having Surgery:** Sometimes you need an operation (surgery) at the hospital.
+    *   *Example:* "My grandfather had **surgery** on his leg."
+
+**People you might see at the hospital:**
+
+*   **Doctor:** A person who helps you when you are sick.
+*   **Nurse:** A person who takes care of patients.
+*   **Patient:** A person who is sick or injured and receiving medical care.
+
+**Common words at the hospital:**
+
+*   **Medicine:** Something you take to help you get better.
+*   **Appointment:** A scheduled time to see a doctor.
+*   **Emergency Room:** The part of the hospital for serious injuries.
+*   **Illness:** When you are not well (sick).
+*   **Symptom:** Something that shows you are sick (like a fever or a cough).
+
+## Practice Exercises
+
+**A. Fill in the blanks with the correct word:**
+
+1.  I need to ____________ money into my bank account. (deposit, withdraw, save)
+2.  You need a ____________ to send a letter. (package, envelope, stamp)
+3.  The ____________ takes care of patients in the hospital. (teller, nurse, postal worker)
+4.  I want to ____________ money for a new car. (deposit, save, send)
+5.  I need to go to the ____________ because I have a bad cough. (hospital, bank, post office)
+
+**B. Match the service with the place:**
+
+| Service              | Place          |
+| -------------------- | -------------- |
+| 1. Sending a package | a. Bank        |
+| 2. Saving money      | b. Hospital    |
+| 3. Seeing a doctor  | c. Post Office |
+
+**C. True or False:**
+
+1.  You can get a loan from the post office. (True / False)
+2.  You can send a letter from the post office. (True / False)
+3.  You can deposit money at the hospital. (True / False)
+
+## Summary
+
+Today, we learned about three important services in our community: the bank, the post office, and the hospital. We learned what each place does, the people who work there, and common words used in each location. Remember to practice using these words and phrases in your everyday conversations. This will help you feel more confident and independent in your community! Good job!
+
+**Answer Key:**
+
+**A.**
+
+1.  deposit
+2.  stamp
+3.  nurse
+4.  save
+5.  hospital
+
+**B.**
+
+1.  c
+2.  a
+3.  b
+
+**C.**
+
+1.  False
+2.  True
+3.  False

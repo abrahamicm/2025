@@ -1,0 +1,300 @@
+# To Be Past Simple
+
+### Affirmative.
+
+*   I was happy yesterday.
+*   You were late for school.
+*   He was a doctor.
+*   She was at the park.
+*   It was a cold day.
+*   We were tired after the game.
+*   They were my friends.
+*   The movie was interesting.
+*   My car was blue.
+*   The cookies were delicious.
+
+### Negative.
+
+*   I was not angry.
+*   You were not ready.
+*   He was not at home.
+*   She was not sad.
+*   It was not easy.
+*   We were not hungry.
+*   They were not quiet.
+*   The party was not fun.
+*   The book was not long.
+*   The pizza was not hot.
+
+### Questions.
+
+*   Was I right?
+*   Were you busy?
+*   Was he tall?
+*   Was she a teacher?
+*   Was it raining?
+*   Were we lost?
+*   Were they here?
+*   Was the test hard?
+*   Was the cat black?
+*   Was the music loud?
+
+### Affirmative Contractions.
+
+*   I was = I's = I's excited to see you.
+*   You were = You're = You're right about that.
+*   He was = He's = He's a good student.
+*   She was = She's = She's my sister.
+*   It was = It's = It's a great movie.
+*   We were = We're = We're happy to help.
+*   They were = They're = They're my neighbors.
+*   The weather was = The weather's = The weather's nice yesterday.
+*   My dad was = My dad's = My dad's a firefighter.
+*   This food was = This food's = This food's tasty.
+
+### Negative Contractions.
+
+*   I wasn't tired.
+*   You weren't there.
+*   He wasn't sick.
+*   She wasn't a nurse.
+*   It wasn't expensive.
+*   We weren't scared.
+*   They weren't available.
+*   The restaurant wasn't open.
+*   The problem wasn't serious.
+*   The answer wasn't correct.
+
+### Questions Contractions.
+
+*  Wasn't I invited?
+*  Weren't you happy?
+*  Wasn't he tired?
+*  Wasn't she ready?
+*  Wasn't it fun?
+*  Weren't we supposed to meet?
+*  Weren't they invited?
+*  Wasn't the movie good?
+*  Wasn't the music loud?
+*  Wasn't the food delicious?
+
+### Wh- Questions.
+
+*   Where was I?
+*   Why were you late?
+*   Who was he?
+*   What was she doing?
+*   When was it over?
+*   How were we supposed to know?
+*   Where were they?
+*   What was the problem?
+*   Which book was yours?
+*   How was the party?
+
+### Identity and Personal Introduction.
+
+*   I was Maria's friend.
+*   You were the class president.
+*   He was the new student.
+*   She was the youngest in her family.
+*   It was my first time at the concert.
+*   We were a team.
+*   They were the winners.
+*   My name was different then.
+*   My role was as a helper.
+*   My number was seven.
+
+### Nationality and Origin.
+
+*   I was American.
+*   You were from Spain.
+*   He was Italian.
+*   She was Canadian.
+*   It was a French car.
+*   We were from Brazil.
+*   They were from China.
+*   My grandmother was Irish.
+*   His passport was Russian.
+*   Her accent was Australian.
+
+### Profession or Occupation.
+
+*   I was a waiter.
+*   You were a student.
+*   He was an engineer.
+*   She was a writer.
+*   It was his job.
+*   We were firefighters.
+*   They were police officers.
+*   My father was a farmer.
+*   Her sister was a nurse.
+*   His brother was a baker.
+
+### Physical or Emotional States.
+
+*   I was sick.
+*   You were excited.
+*   He was cold.
+*   She was nervous.
+*   It was painful.
+*   We were sleepy.
+*   They were worried.
+*   My hands were shaky.
+*   Her face was red.
+*   His eyes were tired.
+
+### Age.
+
+*   I was ten years old.
+*   You were eighteen.
+*   He was thirty.
+*   She was forty.
+*   It was his fifth birthday.
+*   We were young.
+*   They were old.
+*   My grandfather was seventy.
+*   Her grandmother was ninety.
+*   His dog was one year old.
+
+### Location or Place.
+
+*   I was at the store.
+*   You were in the kitchen.
+*   He was at the beach.
+*   She was at school.
+*   It was in the box.
+*   We were at the cinema.
+*   They were in the garden.
+*   My phone was on the table.
+*   Her keys were in the car.
+*   His wallet was in his pocket.
+
+### Physical and Personality Descriptions.
+
+*   I was thin.
+*   You were kind.
+*   He was strong.
+*   She was beautiful.
+*   It was small.
+*   We were happy.
+*   They were funny.
+*   My hair was long.
+*   Her eyes were blue.
+*   His shirt was clean.
+
+### Permanent Characteristics (General Truths).
+
+*   Water was necessary for life.
+*   The Earth was round.
+*   Honesty was important.
+*   The sky was blue.
+*   Love was a powerful feeling.
+*   Exercise was good for health.
+*   Trees were plants.
+*   Education was essential.
+*   Friendship was valuable.
+*   Kindness was appreciated.
+
+### Weather, Time, and Clock.
+
+*   It was sunny yesterday.
+*   It was late.
+*   It was three o'clock.
+*   The weather was cold.
+*   It was windy.
+*   It was raining.
+*   The time was early.
+*   It was hot outside.
+*   The sky was clear.
+*   The clock was slow.
+
+### Price, Quantity or Measurement.
+
+*   It was five dollars.
+*   It was ten kilograms.
+*   It was two meters long.
+*   The amount was small.
+*   The price was high.
+*   The quantity was enough.
+*   The weight was heavy.
+*   The size was large.
+*   The discount was good.
+*   The measure was accurate.
+
+### Use of “to be” as an Auxiliary in Continuous Tenses.
+
+*   I was walking to the store.
+*   You were eating dinner.
+*   He was playing football.
+*   She was reading a book.
+*   It was raining hard.
+*   We were watching TV.
+*   They were swimming in the pool.
+*   My dog was sleeping.
+*   Her baby was crying.
+*   His car was running.
+
+### Use of “to be” as an Auxiliary in the Passive Voice.
+
+*   The cake was eaten.
+*   The door was opened.
+*   The letter was written.
+*   The car was washed.
+*   The house was cleaned.
+*   The window was broken.
+*   The book was read.
+*   The song was sung.
+*   The money was stolen.
+*   The food was cooked.
+
+### Impersonal Expressions.
+
+*   It was cold inside.
+*   It was dark outside.
+*   It was late when I called you.
+*   It was noisy at the concert.
+*   It was quiet in the library.
+*   It was easy to see the stars.
+*   It was interesting to learn about the topic.
+*   It was fun to watch the game.
+*   It was great to meet you.
+*   It was important to be on time.
+
+### There is / There are constructions.
+
+*   There was a cat on the roof.
+*   There were many people at the party.
+*   There was a problem with the car.
+*   There were some cookies on the table.
+*   There was a fly in my soup.
+*   There were no chairs available.
+*   There was a lot of noise.
+*   There were several options to choose from.
+*   There was a beautiful sunset.
+*   There were stars in the sky.
+
+### Modifiers with Modals.
+
+*   I was able to finish the task.
+*   You were supposed to be here.
+*   He was going to call you.
+*   She was meant to arrive earlier.
+*   It was possible to see the moon.
+*   We were allowed to stay up late.
+*   They were willing to help.
+*   The movie was supposed to be good.
+*   The train was expected to be on time.
+*   My sister was able to fix it.
+
+### Idiomatic Expressions and Fixed Phrases.
+
+*   I was born in July.
+*   You were right on time.
+*   He was in charge.
+*   She was at a loss for words.
+*   It was all over.
+*   We were on our way.
+*   They were out of town.
+*   My car was out of gas.
+*   Her dress was made of silk.
+*   His mind was at peace.

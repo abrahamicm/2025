@@ -1,0 +1,118 @@
+# 7_16_Buying_Transport_Tickets
+
+## 7.16. Buying Transport Tickets
+
+### Introduction
+
+Hello! Welcome to this lesson about buying transport tickets. When you travel, you often need to use buses, trains, or trams. Buying tickets can seem a little confusing, but don't worry! This lesson will teach you simple words and phrases to help you buy tickets easily. It's important to know how to buy tickets so you can travel safely and legally. Let's start!
+
+### Detailed Explanation with Examples
+
+**Where to Buy Tickets:**
+
+*   **Ticket Machines:** These are usually in stations or at bus stops. They often have different languages.
+    *   Example: "Look for the ticket machine near the bus stop."
+*   **Ticket Office:** This is a place with a person who sells tickets.
+    *   Example: "I bought my ticket at the ticket office in the train station."
+*   **Online:** Some companies let you buy tickets online with your phone or computer.
+    *   Example: "You can buy a ticket on the website and show it on your phone."
+*   **On the Bus/Tram:** Sometimes, you can buy a ticket directly from the driver.
+    *   Example: "Hello, can I buy a ticket to the city center, please?"
+
+**Types of Tickets:**
+
+*   **Single Ticket (One-way ticket):** This is for one journey.
+    *   Example: "I need a single ticket to the museum, please."
+*   **Return Ticket (Round-trip ticket):** This is for a journey there and back.
+    *   Example: "I'd like a return ticket to the beach, please."
+*   **Day Ticket:** This is for unlimited travel for one day.
+    *   Example: "A day ticket is cheaper if you plan to travel a lot."
+*   **Weekly/Monthly Ticket:** This is for unlimited travel for a week or a month.
+    *   Example: "I buy a monthly ticket because I use the bus every day."
+
+**How to Buy a Ticket:**
+
+1.  **Decide where you want to go.**
+    *   Example: "I want to go to the park."
+2.  **Choose the right type of ticket.**
+    *   Example: "A single ticket is enough for me."
+3.  **Go to the ticket machine or ticket office.**
+    *   Example: "Let's go to the ticket machine."
+4.  **Tell the person (at the ticket office) or select on the machine where you want to go and what kind of ticket you need.**
+    *   Example at Ticket Office: "Hello, I would like a single ticket to the park, please."
+    *   Example at Ticket Machine: Follow the instructions on the screen.
+5.  **Pay for your ticket.**
+    *   Example: "I can pay with cash or card."
+6.  **Keep your ticket safe!**
+    *   Example: "I put my ticket in my wallet."
+
+### Common Phrases and Vocabulary
+
+| Phrase/Word             | Meaning                                         | Example                                                     |
+| ------------------------- | ----------------------------------------------- | ------------------------------------------------------------ |
+| Ticket                    | A piece of paper or card that lets you travel  | "Here is your ticket."                                        |
+| Single ticket            | A ticket for one journey                           | "Can I have a single ticket to London, please?"               |
+| Return ticket            | A ticket for a journey there and back            | "I need a return ticket to Oxford."                          |
+| Day ticket                | A ticket for unlimited travel for one day       | "Is there a day ticket available?"                           |
+| Station                   | A place where trains or buses stop              | "The train station is near the city center."                  |
+| Bus stop                 | A place where buses stop                         | "Wait for the bus at the bus stop."                          |
+| Ticket machine             | A machine that sells tickets                   | "Use the ticket machine to buy your ticket."                 |
+| Ticket office              | A place where you can buy tickets from a person | "Go to the ticket office if you have questions."             |
+| Platform                  | Where you wait for a train                       | "The train to Paris is on platform 5."                       |
+| Cash                     | Money in the form of notes and coins           | "Can I pay with cash?"                                       |
+| Card                     | A credit or debit card                          | "I'll pay by card, please."                                   |
+| Change                   | The money you get back when you pay too much    | "Here is your change."                                        |
+| How much is it?           | Asking the price of something                    | "How much is it to go to the airport?"                      |
+| Where is...?             | Asking for the location of something            | "Where is the bus station?"                                 |
+| Next stop                | The stop coming up after the current one.       | "The next stop is the museum."                               |
+| Off-peak ticket          | A ticket that is cheaper outside of busy times | "An off-peak return to London, please."                      |
+
+### Practice Exercises
+
+**Exercise 1: Matching**
+
+Match the word with the correct picture (add pictures here in a real document)
+
+1.  Ticket machine  ( )
+2.  Bus stop       ( )
+3.  Ticket           ( )
+4.  Train station   ( )
+
+**Exercise 2: Fill in the blanks**
+
+Choose the correct word from the box: *single, return, machine, office, cash*
+
+1.  I need a ___________ ticket to the library.
+2.  The ___________ sells tickets.
+3.  Can I pay with ___________?
+4.  I want a ___________ ticket to New York and back.
+5.  You can buy a ticket at the ticket ___________.
+
+**Exercise 3: Role-Playing**
+
+Imagine you are at the ticket office. Practice these conversations with a friend or family member:
+
+*   **You:** Hello, I would like a single ticket to the zoo, please.
+*   **Ticket Seller:** Hello! That will be 5 euros.
+*   **You:** Here is 5 euros.
+*   **Ticket Seller:** Thank you. Here is your ticket. Have a nice day!
+
+*   **You:** Hello, I need a return ticket to the beach, please.
+*   **Ticket Seller:** Where are you travelling from?
+*   **You:** From here (point at the station on a map).
+*   **Ticket Seller:** Okay, that will be 8 euros.
+*   **You:** Can I pay by card?
+*   **Ticket Seller:** Yes, of course.
+*   **You:** *Tap your card on the card reader.*
+*   **Ticket Seller:** Thank you. Here is your ticket.
+
+**Exercise 4: True or False**
+
+1. You can only buy tickets at a ticket office. (True/False)
+2. A single ticket is for a journey there and back. (True/False)
+3. You can sometimes buy a ticket on the bus. (True/False)
+4. You don't need to keep your ticket safe. (True/False)
+
+### Summary
+
+Great job! You have learned how to buy transport tickets. Remember to choose the right type of ticket, find a ticket machine or office, and pay safely. Use the phrases and vocabulary you learned in this lesson to help you. Now you can travel with confidence! Keep practicing, and you'll become an expert at buying transport tickets. Have fun on your travels!

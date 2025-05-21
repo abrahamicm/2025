@@ -1,0 +1,274 @@
+# To Go Present Simple
+
+### Affirmative.
+
+*   I go to school every day.
+*   You go to the park on Saturdays.
+*   He goes to work by bus.
+*   She goes to the library to study.
+*   It goes well with cheese.
+*   We go to the cinema on Fridays.
+*   They go to the beach in summer.
+*   My dog goes for a walk in the morning.
+*   The children go to bed early.
+*   The birds go south in winter.
+
+### Negative.
+
+*   I do not go to the gym.
+*   You do not go to that restaurant.
+*   He does not go to the doctor.
+*   She does not go to parties.
+*   It does not go on sale very often.
+*   We do not go to church on Sundays.
+*   They do not go to sleep late.
+*   My cat does not go outside.
+*   The stores do not go out of business often.
+*   These shoes do not go with that dress.
+
+### Questions.
+
+*   Do I go the right way?
+*   Do you go to the movies often?
+*   Does he go to the same school as you?
+*   Does she go to the gym?
+*   Does it go with the rest of the decor?
+*   Do we go now, or do we wait?
+*   Do they go to Italy every year?
+*   Does your brother go to college?
+*   Do the buses go here?
+*   Do the flowers go in this vase?
+
+### Affirmative Contractions.
+
+*   I'm going to the store. (Implied future action)
+*   You're going to be late. (Implied future action)
+*   He's going to try it. (Implied future action)
+*   She's going to sing a song. (Implied future action)
+*   It's going to rain. (Implied future action)
+*   We're going to have fun. (Implied future action)
+*   They're going to win. (Implied future action)
+*   My friend's going to visit. (Implied future action)
+*   The team's going to practice. (Implied future action)
+*   The train's going to arrive soon. (Implied future action)
+
+### Negative Contractions.
+
+*   I don't go there anymore.
+*   You don't go to his house.
+*   He doesn't go out much.
+*   She doesn't go to that cafe.
+*   It doesn't go on very long.
+*   We don't go to concerts.
+*   They don't go to bed early.
+*   My sister doesn't go to the library.
+*   The students don't go to school on weekends.
+*   The dogs don't go outside when it's raining.
+
+### Questions Contractions.
+
+*   Isn't he going to come? (Implied future action)
+*   Aren't they going to help? (Implied future action)
+*   Isn't it going to be okay? (Implied future action)
+*   Aren't we going to the park? (Implied future action)
+*   Don't you go there often?
+*   Doesn't she go swimming?
+*   Don't they go to the same church?
+*   Doesn't your father go to work early?
+*   Don't the kids go to bed at 8?
+*   Doesn't the movie go on for three hours?
+
+### Wh- Questions.
+
+*   Where do you go on vacation?
+*   When does he go to work?
+*   Why does she go to the library?
+*   What time do we go to the store?
+*   How often do they go to the gym?
+*   Which bus goes to the city center?
+*   Who goes to the movies with you?
+*   Whose car goes fastest?
+*   What kind of music does he go wild for?
+*   How far does the trail go?
+
+### Identity and Personal Introduction.
+
+*   I go by Alex.
+*   People go to me for advice.
+*   I go through a lot of coffee.
+*   He goes by his middle name.
+*   She goes through many changes.
+*   They go by different names.
+*   We go out on weekends.
+*   The dog goes by Buddy.
+*   I go to her for help.
+*   She goes to him for support.
+
+### Nationality and Origin.
+
+*   I go back to my hometown.
+*   He goes to visit his family in Italy.
+*   She goes to France every summer.
+*   They go to Mexico for vacation.
+*   We go back to Ireland for Christmas.
+*   The family goes back to their roots.
+*   He goes to the same village every year.
+*   She goes back to Japan often.
+*   The children go to Canada.
+*   I go to England next year.
+
+### Profession or Occupation.
+
+*   I go to work at 8 AM.
+*   He goes to his office every day.
+*   She goes to the hospital to help people.
+*   They go to the construction site.
+*   We go to the farm to harvest crops.
+*   My dad goes to the factory.
+*   The teacher goes to school.
+*   The musician goes to the studio.
+*   The artist goes to his workshop.
+*   She goes to court.
+
+### Physical or Emotional States.
+
+*   I go through periods of sadness.
+*   He goes pale when he's nervous.
+*   She goes red when she's embarrassed.
+*   They go crazy when they win.
+*   We go quiet when the movie starts.
+*   The patient goes into surgery.
+*   The water goes bad in the sun.
+*   My food goes cold quickly.
+*   He goes blind sometimes.
+*   She goes deaf in that ear.
+
+### Age.
+
+*   He goes into his fifties.
+*   She goes through her teenage years.
+*   They go into adulthood.
+*   We go into our twenties.
+*   He goes into retirement soon.
+*   She goes into the next grade.
+*   The child goes to kindergarten.
+*   They go into their golden years.
+*   He goes over 60 years old.
+*   She goes to high school next year.
+
+### Location or Place.
+
+*   I go to the library after school.
+*   He goes to the park to relax.
+*   She goes to the market to buy food.
+*   They go to the mountains for hiking.
+*   We go to the beach to swim.
+*   The bus goes to the airport.
+*   The train goes to New York.
+*   The road goes to the lake.
+*   The river goes to the ocean.
+*   He goes to heaven.
+
+### Physical and Personality Descriptions.
+
+*   She goes around smiling.
+*   He goes through life easily.
+*   They go around helping others.
+*   We go around exploring new places.
+*   He goes around asking for money.
+*   She goes around being a star.
+*   They go around like tourists.
+*   He goes around feeling good.
+*   She goes around acting funny.
+*   They go around in the forest.
+
+### Permanent Characteristics (General Truths).
+
+*   The sun goes down in the west.
+*   Water goes down the drain.
+*   Rivers go to the sea.
+*   The earth goes around the sun.
+*   Time goes by quickly.
+*   Milk goes bad in heat.
+*   Smoke goes up.
+*   Prices go up.
+*   Roots go into the ground.
+*   The road goes on and on.
+
+### Weather, Time, and Clock.
+
+*   The sun goes down at 6 PM.
+*   The rain goes on for hours.
+*   The storm goes away quickly.
+*   The weather goes from hot to cold.
+*   The clock goes backwards.
+*   My watch goes slowly.
+*   The time goes by fast.
+*   The seasons go by.
+*   The temperature goes down.
+*   The wind goes through the trees.
+
+### Price, Quantity or Measurement.
+
+*   The price of gas goes up.
+*   The temperature goes to 100 degrees.
+*   The stock goes down.
+*   The amount of water goes high.
+*   The recipe goes to my grandma.
+*   The cost goes over budget.
+*   The weight goes to 50 kilos.
+*   The sales go well sometimes.
+*   The production goes lower.
+*   The demand goes higher.
+
+### Impersonal Expressions.
+
+*   It goes without saying.
+*   How does it go? (Referring to a song or saying)
+*   Anything goes.
+*   That goes for everyone.
+*   As time goes by.
+*   Here goes nothing.
+*   It goes to show you.
+*   Everything goes on sale.
+*   It goes against my values.
+*   What goes around, comes around.
+
+### There is / There are constructions.
+
+*   There goes the bus.
+*   There goes my chance.
+*   There goes my money.
+*   There goes the neighborhood.
+*   There goes my peace.
+*   There goes the day.
+*   There goes the dream.
+*   There goes my patience.
+*   There goes the ball.
+*   There goes the ice cream.
+
+### Modifiers with Modals.
+
+*   I should go home.
+*   You must go to the doctor.
+*   He can go if he wants.
+*   She may go to the party.
+*   We could go to the beach.
+*   They might go to the concert.
+*   I will go tomorrow.
+*   You would go if you could.
+*   I have to go to work.
+*   I need to go to sleep.
+
+### Idiomatic Expressions and Fixed Phrases.
+
+*   Let's go!
+*   Here we go again.
+*   Go figure.
+*   Go with the flow.
+*   Go easy on me.
+*   Go the extra mile.
+*   Go through the roof.
+*   Go out of your way.
+*   Go back to the drawing board.
+*   Go against the grain.

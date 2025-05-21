@@ -1,0 +1,135 @@
+# 4_1_Greeting_And_Saying_Goodbye
+
+## 4.1. Greeting and Saying Goodbye in English
+
+### Introduction
+
+Learning how to greet people and say goodbye is one of the very first and most important steps in learning English.  It's how you start and end conversations and make a good impression. It helps you be polite and friendly. In this lesson, we will learn some common greetings and farewells that you can use in everyday situations. Let's get started!
+
+### Detailed Explanation with Examples
+
+**A. Greetings (Saying Hello)**
+
+Greetings depend on the time of day and the level of formality needed.
+
+*   **Formal Greetings:** These are used with people you don't know well, or in professional situations.
+
+    *   **"Good morning"**:  Used from sunrise to noon (12:00 PM).
+        *   Example: "Good morning, Mr. Smith. How are you?"
+    *   **"Good afternoon"**: Used from noon (12:00 PM) to sunset (around 6:00 PM).
+        *   Example: "Good afternoon, class. Please open your books."
+    *   **"Good evening"**:  Used from sunset (around 6:00 PM) onwards.
+        *   Example: "Good evening, Madam. Welcome to the restaurant."
+    *   **"How do you do?"**: This is a very formal greeting, often used when you are first introduced to someone.  The correct response is also "How do you do?".
+        *   Example: "Hello, I'm Sarah. How do you do?"  "How do you do? I'm John."
+
+*   **Informal Greetings:** These are used with friends, family, and people you know well.
+
+    *   **"Hello"**: A general greeting, suitable for almost any situation.
+        *   Example: "Hello, Mary! How are you doing?"
+    *   **"Hi"**:  A more casual version of "Hello".
+        *   Example: "Hi, David! What's up?"
+    *   **"Hey"**: Very informal, used with close friends.  Be careful using it with people you don't know!
+        *   Example: "Hey, Anna! Long time no see!"
+    *   **"How are you?"**:  A general question asking about someone's well-being. The common response is "I'm fine, thank you. And you?".
+        *   Example: "Hello, how are you?" "I'm fine, thank you. And you?" "I'm good, thanks."
+    *   **"How's it going?" / "How's everything?"**:  Another informal way to ask how someone is doing. Common responses are "It's going well" or "Everything's fine."
+        *   Example: "Hi, Mark! How's it going?" "It's going well, thanks."
+    *   **"What's up?"**:  A very informal way to say "Hello" and ask what's happening. The common response is "Not much" or "Nothing much."
+        *   Example: "Hey John! What's up?" "Not much, just relaxing."
+
+**B. Farewells (Saying Goodbye)**
+
+Farewells are ways to say goodbye.  Like greetings, they can be formal or informal.
+
+*   **Formal Farewells:**
+
+    *   **"Goodbye"**: A standard farewell, suitable for most situations.
+        *   Example: "Goodbye, Mr. Johnson. Have a nice day."
+    *   **"Good night"**: Used when someone is going to bed or when you are leaving a place late in the evening.
+        *   Example: "Good night, everyone. See you tomorrow."
+
+*   **Informal Farewells:**
+
+    *   **"Bye"**: A shorter version of "Goodbye."
+        *   Example: "Bye, Sarah! See you later!"
+    *   **"See you later" / "See you soon"**: Implying you will meet again.
+        *   Example: "Bye! See you later!"
+    *   **"Talk to you later"**:  Similar to "See you later," often used on the phone or online.
+        *   Example: "Okay, I have to go. Talk to you later!"
+    *   **"Have a good day/night/weekend"**: A nice way to end a conversation.
+        *   Example: "It was nice talking to you. Have a good day!"
+    *   **"Take care"**: Showing concern for the other person.
+        *   Example: "Goodbye, take care!"
+    *   **"So long"**: An older, less common, but still understood farewell.
+        *   Example: "So long, partner!"
+
+### Common Phrases and Vocabulary
+
+| Word/Phrase        | Meaning                                                     | Example                                                                 |
+| ------------------- | ----------------------------------------------------------- | ----------------------------------------------------------------------- |
+| Greeting            | A word or action used to welcome someone                     | "Hello" is a common greeting.                                          |
+| Farewell            | A word or action used to say goodbye                         | "Goodbye" is a standard farewell.                                        |
+| Formal              | Polite and respectful, used in professional situations       | Use formal greetings with your boss.                                    |
+| Informal            | Casual, used with friends and family                        | Use informal greetings with your friends.                               |
+| How are you doing?   | A question asking about someone's well-being              | "Hi John! How are you doing?"                                            |
+| What's up?          | A very informal way to say "Hello"                           | "Hey Mary! What's up?"                                                   |
+| Long time no see! | Used when you haven't seen someone in a while                 | "Hi David! Long time no see!"                                        |
+| Have a nice day!   | A polite way to end a conversation                          | "Goodbye, have a nice day!"                                            |
+| Take care!         | Showing concern for the other person                       | "Goodbye, take care!"                                                   |
+
+### Practice Exercises
+
+**Exercise 1: Fill in the blanks with the correct greeting based on the time of day.**
+
+1.  It's 8:00 AM. You say: ______________, Maria!
+2.  It's 3:00 PM. You say: ______________, teacher!
+3.  It's 7:00 PM. You say: ______________, everyone!
+
+**Answer:**
+1.  Good morning
+2.  Good afternoon
+3.  Good evening
+
+**Exercise 2: Match the informal greeting with its possible response.**
+
+| Greeting           | Response                       |
+| ------------------ | ------------------------------ |
+| 1. Hi!             | a. Not much.                    |
+| 2. How's it going? | b. Hi!                         |
+| 3. What's up?      | c. It's going well, thanks.  |
+
+**Answer:**
+
+1. b
+2. c
+3. a
+
+**Exercise 3: Choose the best farewell for each situation.**
+
+1.  You are leaving a friend's house at 10:00 PM:
+    a) Goodbye  b) Good night  c) See you soon
+
+2.  You are leaving work at 5:00 PM:
+    a) Bye  b) Talk to you later  c) Have a good evening
+
+3.  You are leaving a friend after lunch, and you plan to see them next week:
+    a) Goodbye b) Take care c) See you later
+
+**Answer:**
+
+1.  b
+2.  c
+3.  c
+
+**Exercise 4: Role-playing:**
+
+Practice with a friend. One person greets the other, and the other person responds appropriately. Then, switch roles. Try to use both formal and informal greetings and farewells.
+
+*   **Situation 1:** You meet a new neighbor.
+*   **Situation 2:** You see your best friend at the park.
+*   **Situation 3:** You say goodbye to your teacher after class.
+
+### Summary
+
+In this lesson, we learned how to greet people and say goodbye in English. We covered both formal and informal greetings and farewells, depending on the situation and the person you are talking to.  Remember to choose the appropriate greeting and farewell based on the time of day, the level of formality, and your relationship with the person you are talking to. Practice these phrases regularly to become more confident in your English conversations!  Good luck!

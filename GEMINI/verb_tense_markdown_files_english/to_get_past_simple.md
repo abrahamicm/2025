@@ -1,0 +1,276 @@
+# To Get Past Simple
+
+### Affirmative.
+
+*   I got a new bike for my birthday.
+*   She got a good grade on her test.
+*   We got home late last night.
+*   He got a phone call from his mother.
+*   They got married last summer.
+*   The dog got a bone from the butcher.
+*   The plant got enough sunlight to grow.
+*   I got a feeling that something was wrong.
+*   She got a new job at the library.
+*   We got permission to use the classroom.
+
+### Negative.
+
+*   I didn't get the joke.
+*   She didn't get enough sleep last night.
+*   We didn't get a chance to say goodbye.
+*   He didn't get the message I sent.
+*   They didn't get any help from anyone.
+*   The cat didn't get the mouse.
+*   The cake didn't get baked properly.
+*   I didn't get to see the movie.
+*   She didn't get an invitation to the party.
+*   We didn't get lost on the way.
+
+### Questions.
+
+*   Did you get my email?
+*   Did she get the promotion?
+*   Did we get enough food for everyone?
+*   Did he get a ticket for speeding?
+*   Did they get along with each other?
+*   Did the bird get back into its nest?
+*   Did the water get hot enough?
+*   Did you get a chance to relax?
+*   Did she get any news about her sister?
+*   Did we get everything on the list?
+
+### Affirmative Contractions.
+
+*   (Contractions with "to get" are rare and often rephrased. These are uncommon but grammatically possible for emphasis in speaking):
+*   I'd gotten used to waking up early.
+*   She'd gotten a new haircut.
+*   We'd gotten all the supplies we needed.
+*   He'd gotten over his cold by then.
+*   They'd gotten quite a shock.
+*   The computer'd gotten a virus.
+*   The car'd gotten its tires changed.
+*   I'd gotten started on the project.
+*   She'd gotten the hang of it.
+*   We'd gotten pretty far in the game.
+
+### Negative Contractions.
+
+*   I didn't get the tickets in time.
+*   She didn't get the package yesterday.
+*   We didn't get a reservation at the restaurant.
+*   He didn't get much sympathy.
+*   They didn't get an answer from the company.
+*   The machine didn't get fixed.
+*   The cookies didn't get burned.
+*   I didn't get around to cleaning the house.
+*   She didn't get to finish her book.
+*   We didn't get upset about it.
+
+### Questions Contractions.
+
+*   (Contractions in questions with "get" are not standard. Instead using "Didn't...")
+*   Didn't you get my text message?
+*   Didn't she get offered the job?
+*   Didn't we get invited to the party?
+*   Didn't he get a promotion?
+*   Didn't they get a new car?
+*   Didn't the flower get enough water?
+*   Didn't the bread get moldy?
+*   Didn't you get a good grade on the exam?
+*   Didn't she get the keys from her mom?
+*   Didn't we get lost on the way?
+
+### Wh- Questions.
+
+*   What did you get for Christmas?
+*   Where did she get that dress?
+*   When did we get here?
+*   Who did he get the information from?
+*   Why did they get angry?
+*   How did the dog get out of the yard?
+*   What time did you get to school?
+*   Where did she get the inspiration for her art?
+*   When did we get our test results?
+*   How much money did he get paid?
+
+### Identity and Personal Introduction.
+
+*   I got called John by accident.
+*   She got nicknamed "Sunshine" as a child.
+*   We got introduced at the conference last week.
+*   He got to know her through mutual friends.
+*   They got the impression I was older.
+*   My grandma got called by her maiden name.
+*   The new boy got called a bully.
+*   I got to know her better at her place.
+*   She got introduced to my family.
+*   We got labeled as 'beginners' at the gym.
+
+### Nationality and Origin.
+
+*   I got my passport last year.
+*   She got back from her trip to Italy.
+*   We got a taste of French culture in Paris.
+*   He got used to driving on the left in England.
+*   They got their visas approved.
+*   The foreigner got a warm welcome to the town.
+*   I got her address after she moved to Spain.
+*   She got acquainted with the local traditions quickly.
+*   We got a glimpse of the Eiffel Tower.
+*   He got comfortable with his foreign colleagues.
+
+### Profession or Occupation.
+
+*   I got a job as a waiter at a restaurant.
+*   She got promoted to manager.
+*   We got hired to paint the house.
+*   He got fired from his job last month.
+*   They got paid on Friday.
+*   The student got internship at a local enterprise.
+*   I got selected for my dream job in Paris.
+*   She got an evaluation from her supervisor.
+*   We got our certifications online.
+*   He got the award "Employee of the year".
+
+### Physical or Emotional States.
+
+*   I got sick after eating the bad food.
+*   She got angry when he lied.
+*   We got tired after the long walk.
+*   He got scared by the loud noise.
+*   They got happy when they saw their friends.
+*   The girl got a fever for her flu.
+*   I got worried when she didn't reply.
+*   She got exhausted after the marathon.
+*   We got sunburned at the beach.
+*   He got dizzy on the roller coaster.
+
+### Age.
+
+*   I got older last year.
+*   She got her driver's license when she got 16.
+*   We got senior discounts at the museum.
+*   He got a job when he got out of college.
+*   They got married young.
+*   My sister got old enough to vote this year.
+*   I got a new sense of responsibility as I got older.
+*   She got her wisdom tooth out when she got older.
+*   We got a family discount since our children got old enough.
+*   He got a cane once he got older.
+
+### Location or Place.
+
+*   I got to the airport on time.
+*   She got lost in the city.
+*   We got back to the hotel late.
+*   He got stuck in traffic.
+*   They got off the bus at the wrong stop.
+*   The cat got into the house.
+*   I got through security quickly.
+*   She got around the neighborhood by bike.
+*   We got home earlier than expected.
+*   He got out of the car to stretch.
+
+### Physical and Personality Descriptions.
+
+*   He got taller over the summer.
+*   She got a tan at the beach.
+*   I got a bit more reserved as I got older.
+*   He got more confident after his success.
+*   They got better at playing the guitar.
+*   My hair got darker.
+*   I got more interested in her.
+*   She got nicer during the days.
+*   We got stronger with our training.
+*   The food got cold pretty quickly.
+
+### Permanent Characteristics (General Truths).
+
+*   The sun got brighter in the summer.
+*   The days got shorter in the winter.
+*   Water got cold when it lost its heat.
+*   The wood got wet.
+*   The air got heavy before the storm.
+*   The ice got thinner as it melted.
+*   The leaves got green in the spring.
+*   The coffee got colder as time passed.
+*   The ocean got deeper near the coast.
+*   The earth got dryer after it rained.
+
+### Weather, Time, and Clock.
+
+*   It got dark early in winter.
+*   The weather got warmer in May.
+*   We got started on the project at 9 AM.
+*   He got home after sunset.
+*   The clock got moved for daylight saving.
+*   The storm got worse during the night.
+*   The sky got clearer in the morning.
+*   It got rainy later.
+*   We got late to our appointment.
+*   The clocks got changed over the weekend.
+
+### Price, Quantity or Measurement.
+
+*   I got it for half price.
+*   She got two tickets to the concert.
+*   We got enough supplies for the trip.
+*   He got 10 pounds of apples.
+*   They got a discount on their purchase.
+*   The cake got measured with high precision.
+*   I got everything on sale.
+*   She got a discount for her coupons.
+*   We got the best quality of products.
+*   The material got measured in inches.
+
+### Impersonal Expressions.
+
+*   It got very cold last night.
+*   It got late quickly.
+*   It got easier with practice.
+*   It got noisy in the city.
+*   It got boring after a while.
+*   It got complicated to solve it.
+*   It got difficult when it started raining.
+*   It got interesting after I did my research.
+*   It got tiresome waiting in the line.
+*   It got easier to understand over time.
+
+### There is / There are constructions.
+
+*   There got to be too many people at the event.
+*   There got to be a misunderstanding between us.
+*   There got to be a way to fix this.
+*   There got to be at least ten people here.
+*   There got to be some cake left.
+*   There got to be a better explanation for this.
+*   There got to be a party yesterday.
+*   There got to be a light on.
+*   There got to be no one here.
+*   There got to be something special about it.
+
+### Modifiers with Modals.
+
+*   I could get used to this.
+*   She should get some rest.
+*   We might get a better offer.
+*   He would get upset if you left.
+*   They must get ready soon.
+*   You should get checked up after that.
+*   I could get her a new phone.
+*   She might get more money for this.
+*   We should get groceries for dinner.
+*   He would get angry if you called him.
+
+### Idiomatic Expressions and Fixed Phrases.
+
+*   I got the hang of it.
+*   She got carried away.
+*   We got off on the wrong foot.
+*   He got cold feet.
+*   They got it off their chest.
+*   We got wind of the rumor.
+*   I got a kick out of that movie.
+*   She got a break on the price.
+*   We got the ball rolling.
+*   He got the better of me in the argument.

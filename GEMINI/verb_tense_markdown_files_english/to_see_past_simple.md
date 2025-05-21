@@ -1,0 +1,274 @@
+# To See Past Simple
+
+### Affirmative.
+
+*   I saw a cat in the garden yesterday.
+*   She saw a rainbow after the rain.
+*   He saw his friend at the park.
+*   We saw a movie last night.
+*   They saw a bird flying in the sky.
+*   You saw the teacher in the hallway.
+*   The dog saw a squirrel in the tree.
+*   My mom saw a beautiful dress in the store.
+*   My dad saw a football game on TV.
+*   The children saw fireworks on New Year's Eve.
+
+### Negative.
+
+*   I didn't see my keys this morning.
+*   She didn't see the accident happen.
+*   He didn't see the sign.
+*   We didn't see any stars last night.
+*   They didn't see the humor in the joke.
+*   You didn't see me wave at you.
+*   The cat didn't see the mouse.
+*   My brother didn't see the pizza in the fridge.
+*   My sister didn't see the bus coming.
+*   The students didn't see the answer to the question.
+
+### Questions.
+
+*   Did you see the news today?
+*   Did she see the email I sent her?
+*   Did he see the doctor yesterday?
+*   Did we see that movie before?
+*   Did they see the Eiffel Tower in Paris?
+*   Did I see you at the concert?
+*   Did the bird see the worm?
+*   Did your mom see the mess in your room?
+*   Did your dad see the package that arrived?
+*   Did the children see Santa Claus?
+
+### Affirmative Contractions.
+
+*   I'd (I had) seen that movie before. (*Although not directly past simple "see," using the past participle to illustrate a sentence using a contraction*)
+*   She'd (She had) seen the Eiffel Tower last year. (*Although not directly past simple "see," using the past participle to illustrate a sentence using a contraction*)
+*   He'd (He had) seen his old school recently. (*Although not directly past simple "see," using the past participle to illustrate a sentence using a contraction*)
+*   We'd (We had) seen the play before it closed. (*Although not directly past simple "see," using the past participle to illustrate a sentence using a contraction*)
+*   They'd (They had) seen the best part of the show. (*Although not directly past simple "see," using the past participle to illustrate a sentence using a contraction*)
+*   You'd (You had) seen her talking to him earlier. (*Although not directly past simple "see," using the past participle to illustrate a sentence using a contraction*)
+*   The dog'd (The dog had) seen the postman. (*Although not directly past simple "see," using the past participle to illustrate a sentence using a contraction*)
+*   My mom'd (My mom had) seen the flowers I bought her. (*Although not directly past simple "see," using the past participle to illustrate a sentence using a contraction*)
+*   My dad'd (My dad had) seen the new car. (*Although not directly past simple "see," using the past participle to illustrate a sentence using a contraction*)
+*   The cat'd (The cat had) seen a bird outside. (*Although not directly past simple "see," using the past participle to illustrate a sentence using a contraction*)
+
+### Negative Contractions.
+
+*   I didn't see anything.
+*   She didn't see the point.
+*   He didn't see the end of the movie.
+*   We didn't see anyone we knew.
+*   They didn't see the mistake.
+*   You didn't see the sign?
+*   The bird didn't see the glass.
+*   My mom didn't see the discount.
+*   My dad didn't see the game.
+*   The children didn't see the surprise.
+
+### Questions Contractions.
+
+*   Didn't I see you at the store yesterday?
+*   Didn't she see the message I left her?
+*   Didn't he see the problem?
+*   Didn't we see this before?
+*   Didn't they see the warning signs?
+*   Didn't you see the money on the table?
+*   Didn't the dog see the treat?
+*   Didn't Mom see the mess?
+*   Didn't Dad see the car?
+*   Didn't the kids see the clown?
+
+### Wh- Questions.
+
+*   What did you see at the zoo?
+*   Where did she see him last?
+*   When did he see the doctor?
+*   Why did we see that strange bird?
+*   How did they see so far away?
+*   Who did you see at the party?
+*   Which movie did you see last night?
+*   Whose car did she see parked outside?
+*   How many birds did they see?
+*   What time did you see the sunrise?
+
+### Identity and Personal Introduction.
+
+*   I saw my reflection in the mirror.
+*   She saw herself as a confident person.
+*   He saw his younger self in the photo.
+*   We saw each other at the meeting.
+*   They saw him as a leader.
+*   You saw your name on the list.
+*   The child saw her mother's face.
+*   I saw my doctor's face at the clinic.
+*   She saw her daughter's face and smiled.
+*   He saw his son's face and felt proud.
+
+### Nationality and Origin.
+
+*   I saw many tourists at the museum.
+*   She saw people from different countries at the airport.
+*   He saw a flag from his country of origin.
+*   We saw some people from Japan during our trip.
+*   They saw many Spanish speakers in Miami.
+*   You saw a lot of Europeans in London.
+*   The local guide saw many foreign faces.
+*   I saw people from all over the world at the conference.
+*   She saw a mix of cultures on the street.
+*   He saw representatives from various nations at the UN.
+
+### Profession or Occupation.
+
+*   I saw the doctor at the hospital.
+*   She saw the teacher at the school.
+*   He saw the police officer on the street.
+*   We saw the waiter at the restaurant.
+*   They saw the bus driver on their route.
+*   You saw the cashier at the supermarket.
+*   I saw a construction worker on my way home.
+*   She saw the firefighter at the scene of the fire.
+*   He saw his accountant last week.
+*   We saw our plumber fixing the sink.
+
+### Physical or Emotional States.
+
+*   I saw her sad face.
+*   She saw his happy smile.
+*   He saw their tired eyes.
+*   We saw their worried expressions.
+*   They saw her nervous behavior.
+*   You saw my surprised look.
+*   The doctor saw the patient's pale face.
+*   The mom saw her child’s happy expression.
+*   She saw his determined look before the race.
+*   He saw her hopeful expression when she received the news.
+
+### Age.
+
+*   I saw a very old man at the park.
+*   She saw a young child playing with a ball.
+*   He saw teenagers hanging out at the mall.
+*   We saw a group of middle-aged people exercising.
+*   They saw the baby sleeping in the crib.
+*   You saw a newborn at the hospital.
+*   She saw a little boy running with a kite.
+*   He saw an elderly woman crossing the street.
+*   I saw a young adult at the coffee shop.
+*   She saw a toddler playing in the sand.
+
+### Location or Place.
+
+*   I saw the lake in the mountains.
+*   She saw the ocean from her balcony.
+*   He saw the city from the airplane.
+*   We saw the forest during our hike.
+*   They saw the house on the hill.
+*   You saw the school across the street.
+*   I saw the library downtown.
+*   She saw the post office next to the park.
+*   He saw the airport in the distance.
+*   We saw the gas station near the highway.
+
+### Physical and Personality Descriptions.
+
+*   I saw a tall man with brown hair.
+*   She saw a kind woman with a gentle smile.
+*   He saw a shy boy hiding behind his mother.
+*   We saw a friendly dog wagging its tail.
+*   They saw a grumpy old man sitting on the bench.
+*   You saw a pretty girl with blue eyes.
+*   She saw a funny clown making jokes.
+*   He saw a strong man lifting weights.
+*   I saw a smart child reading a book.
+*   She saw a brave firefighter rescuing people.
+
+### Permanent Characteristics (General Truths).
+
+*   He saw that the sun rises in the East.
+*   She saw that water boils at 100 degrees Celsius.
+*   We saw that birds fly.
+*   They saw that fish swim in the ocean.
+*   You saw that trees grow tall.
+*   I saw that the Earth is round.
+*   She saw that fire is hot.
+*   He saw that ice is cold.
+*   We saw the sky is blue.
+*   They saw that the grass is green.
+
+### Weather, Time, and Clock.
+
+*   I saw the rain falling outside.
+*   She saw the sun shining brightly.
+*   He saw the time on the clock.
+*   We saw the snow covering the ground.
+*   They saw the wind blowing the trees.
+*   You saw the dark clouds approaching.
+*   I saw the lightning flash in the sky.
+*   She saw the hour hand move on the clock.
+*   He saw a beautiful sunset.
+*   We saw a heavy fog roll in.
+
+### Price, Quantity or Measurement.
+
+*   I saw the price of the book.
+*   She saw the quantity of apples in the basket.
+*   He saw the measurement on the ruler.
+*   We saw the cost of the groceries.
+*   They saw the number of people at the concert.
+*   You saw the weight on the scale.
+*   I saw the length of the room.
+*   She saw the height of the building.
+*   He saw the amount of money in the wallet.
+*   We saw the volume of water in the bottle.
+
+### Impersonal Expressions.
+
+*   It seemed like I saw a ghost.
+*   It looked like she saw something scary.
+*   It appeared that he saw the truth.
+*   It felt like we saw a miracle.
+*   It turned out that they saw everything.
+*   It was obvious that you saw something.
+*   It was surprising that she saw it.
+*   It was important that he saw his mistake.
+*   It was necessary that we saw the document.
+*   It was likely that they saw the signal.
+
+### There is / There are constructions.
+
+*   There was a bird I saw in the garden.
+*   There were many stars we saw last night.
+*   There was a cat she saw on the street.
+*   There were some clouds he saw in the sky.
+*   There was a car they saw parked outside.
+*   There was a tree you saw near the park.
+*   There was a house I saw on the hill.
+*   There were people she saw at the store.
+*   There was a dog he saw at the park.
+*   There were flowers we saw in the field.
+
+### Modifiers with Modals.
+
+*   I could see the mountains in the distance.
+*   She might see him later. (*Future tense example as past tense doesn't fit grammatically)*
+*   He should have seen the sign.
+*   We had to see the doctor.
+*   They wanted to see the show.
+*   You must have seen it.
+*   I needed to see the document.
+*   She was able to see the stars.
+*   He tried to see what was happening.
+*   We were going to see the movie.
+
+### Idiomatic Expressions and Fixed Phrases.
+
+*   I saw the light. (Understood something)
+*   She saw red. (Became angry)
+*   He saw eye to eye with her. (Agreed)
+*   We saw through his lies. (Detected the deception)
+*   They saw the writing on the wall. (Recognized the inevitable outcome)
+*   You saw your chance and took it. (Recognized an opportunity)
+*   I saw him off at the airport. (Watched him leave)
+*   She saw something in him. (Recognized potential)
+*   He saw to it that the job was done. (Ensured)
+*   We saw the last of them. (They left and won't be back)

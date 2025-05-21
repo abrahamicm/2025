@@ -1,0 +1,126 @@
+# 6_7_Basic_Technology_(Electronic_Devices)
+
+## 6.7. Basic Technology (Electronic Devices)
+
+### Introduction: Hello Technology!
+
+Technology is everywhere! We use electronic devices every day for communication, entertainment, and work. Knowing basic technology vocabulary is important for everyday life. This lesson will teach you about some common electronic devices and how to talk about them. Ready? Let's begin!
+
+### What are Electronic Devices?
+
+Electronic devices use electricity to work. They can do many things, from playing music to connecting you to people around the world. Here are some common examples:
+
+*   **Mobile Phone (or Cell Phone):** This is a small telephone that you can carry with you. You can call people, send messages, take pictures, and use the internet.
+    *   **Example:** "I use my mobile phone to call my mom every day."
+    *   **Image:** (You would ideally insert a picture of a mobile phone here)
+
+*   **Computer:** A computer is a machine that can do many different things. You can write documents, browse the internet, play games, and watch videos.  There are two main types:
+    *   **Desktop Computer:** A computer that stays in one place.
+        *   **Example:** "I do my homework on the desktop computer in my room."
+        *   **Image:** (You would ideally insert a picture of a desktop computer here)
+    *   **Laptop:** A computer that you can carry around. It is smaller and lighter than a desktop computer.
+        *   **Example:** "I take my laptop to school to take notes."
+        *   **Image:** (You would ideally insert a picture of a laptop computer here)
+
+*   **Tablet:** A tablet is like a big mobile phone. It has a touchscreen and is good for reading, watching videos, and playing games.
+    *   **Example:** "My children like to play games on the tablet."
+    *   **Image:** (You would ideally insert a picture of a tablet here)
+
+*   **Television (TV):** A TV shows videos and programs.
+    *   **Example:** "We watch movies on the TV on Saturday nights."
+    *   **Image:** (You would ideally insert a picture of a TV here)
+
+*   **Headphones:** You wear headphones to listen to music or other sounds privately.
+    *   **Example:** "I wear headphones when I listen to music on the bus."
+    *   **Image:** (You would ideally insert a picture of headphones here)
+
+*   **Camera:** A camera takes pictures and videos.
+    *   **Example:** "I use my camera to take pictures of my family."
+    *   **Image:** (You would ideally insert a picture of a camera here)
+
+### Common Phrases & Vocabulary
+
+Here are some useful phrases to talk about electronic devices:
+
+*   **Turn on:** To start a device. (e.g., "Turn on the TV.")
+*   **Turn off:** To stop a device. (e.g., "Turn off the computer.")
+*   **Charge:** To put electricity into a device's battery. (e.g., "I need to charge my phone.")
+*   **Use:** To do something with a device. (e.g., "I use my computer for work.")
+*   **Download:** To get something from the internet and put it on your device. (e.g., "I want to download a new game.")
+*   **Upload:** To send something from your device to the internet. (e.g., "I will upload the photo to my social media.")
+*   **Connect:** To join something together (like connecting to the internet). (e.g., "Connect to the Wi-Fi.")
+*   **Battery:** The thing that gives power to electronic devices.
+    *   "My battery is low."
+    *   "I need a new battery."
+*   **Screen:** The part of a device where you see images and text.
+    *   "The screen is cracked."
+    *   "The screen is too bright."
+*   **Button:** Something you push to make the device do something.
+    *   "Push the power button to turn it on."
+*   **App (Application):** A program on a mobile phone or tablet.
+    *   "I use the weather app to check the weather."
+
+### Practice Exercises
+
+**1. Matching:** Match the device to its picture (Imagine pictures are provided here, maybe labelled A-E):
+
+    1. Mobile Phone  ( )
+    2. Laptop       ( )
+    3. Television ( )
+    4. Headphones ( )
+    5. Tablet      ( )
+
+**2. Fill in the Blanks:** Choose the correct word from the box to complete the sentences.
+
+    (charge, turn off, use, download, connect)
+
+    1. I need to __________ my phone. The battery is very low.
+    2. Please __________ the TV when you are finished watching.
+    3. I __________ my computer for work and school.
+    4. I want to __________ a new app for learning English.
+    5. Can you help me __________ to the Wi-Fi?
+
+**3. True or False:** Read the sentences and write True or False.
+
+    1.  You can use a mobile phone to take pictures. (       )
+    2.  A desktop computer is easy to carry around. (       )
+    3.  You need headphones to see a movie. (       )
+    4.  You can't connect to the internet with a laptop. (       )
+    5.  A battery gives power to electronic devices. (       )
+
+**4. Simple Questions:** Answer the questions in simple sentences.
+
+    1.  What is your favorite electronic device?
+        _________________________________________
+    2.  How often do you use your mobile phone?
+        _________________________________________
+    3.  What do you use your computer for?
+        _________________________________________
+    4.  Do you like to watch TV? What do you like to watch?
+        _________________________________________
+
+**Answer Key:**
+
+**1. Matching:** *This depends on the images chosen, but the answers would be the corresponding letters.*
+
+**2. Fill in the Blanks:**
+
+    1. charge
+    2. turn off
+    3. use
+    4. download
+    5. connect
+
+**3. True or False:**
+
+    1. True
+    2. False
+    3. False
+    4. False
+    5. True
+
+**4. Simple Questions:** *Answers will vary.*
+
+### Summary: Good Job!
+
+Congratulations! You have learned about basic electronic devices and some common phrases for talking about them. Now you can talk about technology with more confidence. Keep practicing and you'll become even better! Remember to review the vocabulary and phrases regularly. Good luck!

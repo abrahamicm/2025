@@ -1,0 +1,114 @@
+# 2_11_Prepositions_Of_Place_(In,_On,_Under,_Next_To,_Between)
+
+## 2.11. Prepositions of place (in, on, under, next to, between)
+
+**Introduction:**
+
+Hello everyone! Today, we're going to learn about prepositions of place.  Prepositions are words that tell us *where* something is. Knowing these words will help you describe locations clearly and understand where things are in relation to each other.  Think of it like giving someone directions, or describing what's in a room! This lesson will focus on five common prepositions: *in, on, under, next to,* and *between*. Let's get started!
+
+**Detailed Explanation with Examples:**
+
+Here are the five prepositions we'll be looking at, with explanations and examples:
+
+*   **1. IN:**  *In* tells us that something is *inside* something else, or *contained within* something.
+
+    *   **Example 1:** The book is **in** the bag. (The book is inside the bag.)
+    *   **Example 2:** The cat is **in** the box. (The cat is inside the box.)
+    *   **Example 3:** We live **in** London. (London is a city, and we live inside it.)
+    *   **Example 4:** There is water **in** the glass. (The water is contained within the glass.)
+
+*   **2. ON:** *On* tells us that something is *touching the top surface* of something else.
+
+    *   **Example 1:** The apple is **on** the table. (The apple is touching the table's surface.)
+    *   **Example 2:** The picture is **on** the wall. (The picture is attached to the wall's surface.)
+    *   **Example 3:** The cat is **on** the sofa. (The cat is sitting on the sofa's surface.)
+    *   **Example 4:** The newspaper is **on** the floor. (The newspaper is laying flat on the floor.)
+
+*   **3. UNDER:** *Under* tells us that something is *below* something else, often covered or hidden.
+
+    *   **Example 1:** The cat is **under** the table. (The cat is below the table, perhaps hiding.)
+    *   **Example 2:** The ball is **under** the bed. (The ball rolled below the bed.)
+    *   **Example 3:** There is a rug **under** the table. (The rug is placed below the table.)
+    *   **Example 4:**  The roots of the tree are **under** the ground.
+
+*   **4. NEXT TO:** *Next to* tells us that something is *beside* something else, with one object's side close to another's.  It means close proximity.
+
+    *   **Example 1:** The chair is **next to** the desk. (The chair is beside the desk.)
+    *   **Example 2:** The supermarket is **next to** the bank. (The supermarket is beside the bank.)
+    *   **Example 3:** My house is **next to** the park. (My house is beside the park.)
+    *   **Example 4:** Please sit **next to** me. (Please sit beside me.)
+
+*   **5. BETWEEN:** *Between* tells us that something is *in the middle of two* other things.
+
+    *   **Example 1:** The table is **between** the sofa and the chair. (The table is in the middle.)
+    *   **Example 2:** The shop is **between** the bakery and the library. (The shop is in the middle.)
+    *   **Example 3:**  There is a small town **between** London and Oxford. (The town is on the way from London to Oxford.)
+    *   **Example 4:** The cat is sitting **between** two cushions.
+
+**Common Phrases and Vocabulary:**
+
+Here are some useful phrases and vocabulary related to prepositions of place:
+
+*   **Position:** The location of something. (Example: "What is the *position* of the lamp?")
+*   **Location:** A place. (Example: "The *location* of the school is on Main Street.")
+*   **Place:** A spot or area. (Example: "This is a nice *place*.")
+*   **Above:** (Although not the main focus, it's good to know) *Above* means higher than something else, but not necessarily touching. (Example: "The picture is *above* the sofa.")
+*   **Below:** (Although not the main focus, it's good to know) *Below* means lower than something else, but not necessarily touching. (Example: "The temperature is *below* zero.")
+*   **In front of:** (Although not the main focus, it's good to know) *In front of* means facing you or at the front of something. (Example: "The car is *in front of* the house.")
+*   **Behind:** (Although not the main focus, it's good to know) *Behind* means at the back of something. (Example: "The garden is *behind* the house.")
+
+**Practice Exercises:**
+
+**Exercise 1: Fill in the blanks with the correct preposition (in, on, under, next to, between).**
+
+1.  The keys are ______ the table.
+2.  The dog is sleeping ______ the bed.
+3.  The flowers are ______ the vase.
+4.  The bank is ______ the post office and the library.
+5.  My house is ______ the bakery.
+
+**Answer Key (Exercise 1):**
+
+1.  on
+2.  under
+3.  in
+4.  between
+5.  next to
+
+**Exercise 2: Look at the picture and answer the questions using prepositions.**
+
+**(Imagine a picture showing a room with a sofa, a cat, a table, a book, a lamp, and a rug.)**
+
+1.  Where is the cat? (Example answer: The cat is *on* the sofa.)
+2.  Where is the book?
+3.  Where is the lamp?
+4.  Where is the rug?
+5.  Where is the table in relation to the sofa?
+
+**Possible Answer Key (Exercise 2):**
+
+1.  The cat is on the sofa.
+2.  The book is on the table.
+3.  The lamp is on the table.
+4.  The rug is under the table.
+5.  The table is next to the sofa.
+
+**Exercise 3: True or False?**
+
+1. The apple is in the box. (Picture shows an apple ON a box)
+2. The dog is under the chair. (Picture shows a dog under a chair)
+3. The phone is next to the books. (Picture shows a phone far away from the books)
+4. The pen is between the books. (Picture shows a pen between the books)
+5. The car is on the street. (Picture shows a car on the street)
+
+**Answer Key (Exercise 3):**
+
+1. False
+2. True
+3. False
+4. True
+5. True
+
+**Summary:**
+
+Great job! Today, you've learned about five important prepositions of place: *in, on, under, next to,* and *between*. You know how to use them to describe where things are. Keep practicing, and you'll become a master of prepositions! Remember to look around your environment and try to describe where things are using these new words. Good luck, and keep learning!

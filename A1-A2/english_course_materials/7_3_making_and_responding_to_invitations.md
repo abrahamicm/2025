@@ -1,0 +1,119 @@
+# 7_3_Making_And_Responding_To_Invitations
+
+## 7.3. Making and Responding to Invitations
+
+### Introduction
+
+Learning how to make and respond to invitations is a fundamental skill in English. It helps you connect with people, make friends, and participate in social activities. This lesson will teach you simple phrases and strategies for inviting someone to an event or activity, and for accepting or declining an invitation politely. Let's get started!
+
+### Making Invitations
+
+Making an invitation means asking someone to join you for something. At A1-A2 level, we use simple questions and statements.
+
+**Simple Questions:**
+
+*   **"Do you want to...?"** (Very common and versatile)
+    *   Example: "Do you want to go to the park with me?"
+*   **"Would you like to...?"** (Slightly more polite than "Do you want to...")
+    *   Example: "Would you like to have coffee with me?"
+*   **"Are you free...?"** (Checking availability)
+    *   Example: "Are you free on Saturday?"
+    *   Follow up: "Are you free on Saturday? We could go to the cinema."
+
+**Simple Statements:**
+
+*   **"Let's...!"** (A suggestion, often followed by an invitation)
+    *   Example: "Let's watch a movie! Do you want to come to my house?"
+*   **"How about...?"** (Suggesting an activity)
+    *   Example: "How about going for a walk?"
+
+**Important Information to Include:**
+
+When you invite someone, be clear about:
+
+*   **What:** What are you inviting them to do? (e.g., "go to the cinema", "have dinner", "play football")
+*   **When:** When is the event? (e.g., "tomorrow", "on Saturday", "at 7 pm")
+*   **Where:** Where will the event take place? (e.g., "at my house", "at the park", "at the restaurant")
+
+**Example Invitation:**
+
+"Hi Maria, do you want to go to the cinema with me on Friday at 7 pm? It's at the ABC Cinema."
+
+### Responding to Invitations
+
+Responding to an invitation means saying whether you can or cannot accept the invitation. It's important to be polite, regardless of your decision.
+
+**Accepting an Invitation:**
+
+*   **Enthusiastic Acceptance:**
+    *   "Yes, I'd love to!"
+    *   "That sounds great!"
+    *   "Yes, that's a great idea!"
+*   **Simple Acceptance:**
+    *   "Yes, thank you!"
+    *   "Okay, great!"
+    *   "I'd like that very much."
+
+**Declining an Invitation:**
+
+It's important to give a reason (even a simple one) and to be polite when declining.
+
+*   **Polite Refusal with a Reason:**
+    *   "I'm sorry, I can't. I'm busy on Saturday."
+    *   "Thank you for the invitation, but I have other plans."
+    *   "I'd love to, but I have to work."
+*   **Expressing Regret:**
+    *   "I wish I could, but..."
+    *   "That sounds fun, but..."
+
+**Important:** Always thank the person for inviting you, even if you decline.
+
+**Example Responses:**
+
+*   **Invitation:** "Do you want to have dinner with me tomorrow night?"
+    *   **Accepting:** "Yes, I'd love to! What time?"
+    *   **Declining:** "Thank you for the invitation, but I have to study tomorrow night. Maybe another time?"
+
+### Common Phrases and Vocabulary
+
+*   **Invitation:** invitation, invite, event, activity, plan, free
+*   **Accepting:** yes, sure, great, sounds good, love to, okay
+*   **Declining:** no, sorry, busy, can't, perhaps, maybe next time, another time
+*   **Time:** tomorrow, today, tonight, this weekend, next week, on (day), at (time)
+*   **Places:** cinema, park, restaurant, cafe, my house, your house
+
+### Practice Exercises
+
+**Exercise 1: Making Invitations**
+
+Imagine you want to invite your friend to the following activities. Write a simple invitation for each:
+
+1.  Going for a walk in the park on Sunday.
+    *   Example: "Hi [Friend's Name], Are you free on Sunday? Do you want to go for a walk in the park with me?"
+2.  Having pizza at your house on Friday night.
+3.  Visiting the museum next Saturday.
+4.  Playing football in the afternoon.
+
+**Exercise 2: Responding to Invitations**
+
+Read the following invitations and write a suitable response (accepting or declining) for each:
+
+1.  "Do you want to go to the beach tomorrow?"
+    *   Accepting Example: "Yes, that sounds great! What time should we meet?"
+    *   Declining Example: "I'm sorry, I can't. I have to help my family tomorrow. Maybe next week?"
+2.  "Would you like to have coffee with me this afternoon?"
+3.  "Let's go to the cinema on Saturday!"
+4.  "Are you free to play video games tonight?"
+
+**Exercise 3: Role-Playing**
+
+Pair up with a classmate or friend. One person makes an invitation, and the other person responds. Take turns being the inviter and the invitee. Use the phrases and vocabulary from this lesson. Ideas for events:
+
+*   Going to a concert
+*   Having a picnic
+*   Studying together
+*   Visiting a new cafe
+
+### Summary
+
+In this lesson, you learned how to make and respond to invitations in simple English. Remember to be clear when making an invitation, and polite when accepting or declining. Practicing these phrases will help you communicate more effectively and confidently in everyday conversations. Good luck!

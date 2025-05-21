@@ -1,0 +1,256 @@
+# To Come Past Simple
+
+### Affirmative.
+
+*   I came to school early yesterday.
+*   She came to the party with her brother.
+*   We came home late last night.
+*   The bus came on time.
+*   The rain came suddenly.
+*   He came to visit us last summer.
+*   They came to the meeting unprepared.
+*   The idea came to me in a dream.
+*   My friends came over for dinner.
+*   The package came in the mail today.
+
+### Negative.
+
+*   I didn't come to work on Sunday.
+*   She didn't come to my birthday.
+*   We didn't come to a decision.
+*   The train didn't come on time.
+*   The answer didn't come easily.
+*   He didn't come alone to the concert.
+*   They didn't come to help us.
+*   The news didn't come as a surprise.
+*   My parents didn't come to watch me play.
+*   The opportunity didn't come again.
+
+### Questions.
+
+*   Did you come to the park yesterday?
+*   Did she come with you?
+*   Did we come to the right place?
+*   Did the postman come today?
+*   Did the sun come out this morning?
+*   Did he come to your rescue?
+*   Did they come prepared for the test?
+*   Did the thought come to mind?
+*   Did your sister come to see you?
+*   Did the food come quickly?
+
+### Affirmative Contractions.
+
+*   (Not Applicable - "came" does not contract in affirmative sentences.)
+
+### Negative Contractions.
+
+*   I didn't come to understand the problem.
+*   She didn't come to the conclusion.
+*   We didn't come to expect that result.
+*   The delivery didn't come when expected.
+*   The feeling didn't come as a welcome one.
+*   He didn't come to the realization immediately.
+*   They didn't come to an agreement.
+*   The solution didn't come to light.
+*   My car didn't come with a spare tire.
+*   The letter didn't come for another week.
+
+### Questions Contractions.
+
+*   (Not Applicable - Question contractions are the same as regular negative contractions.)
+
+### Wh- Questions.
+
+*   Where did you come from?
+*   When did she come back?
+*   Why did we come here?
+*   How did the idea come about?
+*   What time did they come?
+*   Who did he come with?
+*   Which bus did you come on?
+*   How much did it come to?
+*   How often did they come to visit?
+*   What came next in the story?
+
+### Identity and Personal Introduction.
+
+*   I came as a student.
+*   She came as a guest.
+*   He came as a volunteer.
+*   We came as a team.
+*   They came as representatives.
+*   The package came as a gift.
+*   The invitation came as a surprise.
+*   My assistance came as a comfort.
+*   The advice came as a suggestion.
+*   The news came as a shock.
+
+### Nationality and Origin.
+
+*   He came from Italy.
+*   She came from Spain.
+*   They came from Germany.
+*   I came from France.
+*   We came from England.
+*   The car came from Japan.
+*   The coffee came from Brazil.
+*   The spices came from India.
+*   The watch came from Switzerland.
+*   The idea came from Africa.
+
+### Profession or Occupation.
+
+*   He came as a doctor.
+*   She came as a teacher.
+*   They came as engineers.
+*   I came as a programmer.
+*   We came as mechanics.
+*   The plumber came today.
+*   The electrician came yesterday.
+*   The baker came early.
+*   The mailman came late.
+*   The cleaner came on Thursday.
+
+### Physical or Emotional States.
+
+*   A fever came over me.
+*   Sleep came easily.
+*   Tears came to her eyes.
+*   The pain came back.
+*   The fear came suddenly.
+*   Relief came quickly.
+*   Happiness came slowly.
+*   The sickness came and went.
+*   The tiredness came at the end of the day.
+*   The headache came after the noise.
+
+### Age.
+
+*   He came of age last year.
+*   She came of age last month.
+*   I came of age two years ago.
+*   They came of age together.
+*   My little brother came of age.
+*   The vintage car came of age.
+*   The law came of age.
+*   The plant came of age.
+*   The new technology came of age.
+*   This style of dress came of age.
+
+### Location or Place.
+
+*   He came here last week.
+*   She came there yesterday.
+*   They came to my house.
+*   I came to the office.
+*   We came to the beach.
+*   The package came to the wrong address.
+*   The problem came to the surface.
+*   The solution came to light.
+*   The river came to the sea.
+*   The bird came to the feeder.
+
+### Physical and Personality Descriptions.
+
+*   (Difficult to use "came" directly for physical descriptions, focus on events.)
+*   Confidence came naturally to him.
+*   Shyness came over her.
+*   The feeling came to be friendly.
+*   The decision to be kind came instinctively.
+*   Intelligence came with education.
+*   The need to succeed came from within.
+*   Strength came with practice.
+*   The ability to focus came with effort.
+*   The skill to draw came slowly.
+
+### Permanent Characteristics (General Truths).
+
+*   Spring came after winter.
+*   The night came after day.
+*   (Difficult to use "came" directly for permanent characteristics, focus on events that reinforce them.)
+*   The opportunity came and he took it. (Showing decisiveness)
+*   Difficulty came but they persisted. (Showing resilience)
+*   Challenge came and it revealed his abilities.
+*   The need for change came and he embraced it.
+*   The situation came and she understood the problem.
+*   The moment came and she seized it.
+*   Trouble came and he solved it.
+
+### Weather, Time, and Clock.
+
+*   The rain came down hard.
+*   The storm came suddenly.
+*   Winter came early this year.
+*   Night came quickly.
+*   The clock came to 6 PM.
+*   The moment came and went.
+*   My time came at last.
+*   The meeting came to an end.
+*   The end of the month came too fast.
+*   Summer came after Spring.
+
+### Price, Quantity or Measurement.
+
+*   The bill came to $20.
+*   The order came to 5 items.
+*   The measurement came to 10 centimeters.
+*   The discount came to 10%.
+*   The tax came to an extra cost.
+*   The amount came to a lot.
+*   The total came to more than expected.
+*   The weight came to 1 kilo.
+*   The length came to 2 meters.
+*   The quantity came to ten.
+
+### Impersonal Expressions.
+
+*   It came as a shock.
+*   It came to pass that he won.
+*   It came to my attention.
+*   It came to light later.
+*   It came as no surprise.
+*   It came about unexpectedly.
+*   It came to a head.
+*   It came to a standstill.
+*   It came easy to him.
+*   It came difficult to me.
+
+### There is / There are constructions.
+
+*   There came a time when I had to decide.
+*   There came a point where we had to stop.
+*   There came a day when everything changed.
+*   There came an opportunity to learn.
+*   There came a knock at the door.
+*   There came a silence in the room.
+*   There came a storm last night.
+*   There came a moment of truth.
+*   There came an answer eventually.
+*   There came a time when things got better.
+
+### Modifiers with Modals.
+
+*   It should have come yesterday.
+*   The package might have come while I was out.
+*   The letter could have come this morning.
+*   He must have come to see me.
+*   She would have come if she could.
+*   They may have come already.
+*   The problem can come at any time.
+*   He has to come prepared next time.
+*   The order had to come earlier.
+*   The storm might come later.
+
+### Idiomatic Expressions and Fixed Phrases.
+
+*   Where do you come from?
+*   It all came down to this.
+*   He came clean about everything.
+*   She came across as friendly.
+*   The idea came to mind.
+*   He came into a fortune.
+*   The team came through in the end.
+*   The news came out.
+*   He came under attack.
+*   She came of age.

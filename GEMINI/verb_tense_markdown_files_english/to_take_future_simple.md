@@ -1,0 +1,274 @@
+# To Take Future Simple
+
+### Affirmative.
+
+*   I will take the bus to school tomorrow.
+*   She will take a picture of the sunset.
+*   He will take his dog for a walk later.
+*   We will take a break after this exercise.
+*   They will take the exam next week.
+*   You will take your medicine before bed.
+*   The company will take a risk on this new product.
+*   The students will take notes during the lecture.
+*   The chef will take pride in his cooking.
+*   The tour guide will take us to the museum.
+
+### Negative.
+
+*   I will not take the job offer.
+*   She will not take any more classes this semester.
+*   He will not take his car to the mechanic.
+*   We will not take the highway; it's too busy.
+*   They will not take responsibility for the mistake.
+*   You will not take advantage of my kindness.
+*   The store will not take returns after 30 days.
+*   The baby will not take a nap today, it seems.
+*   The teacher will not take late submissions.
+*   The cat will not take its medicine easily.
+
+### Questions.
+
+*   Will you take a vacation this year?
+*   Will she take the train to work?
+*   Will he take the opportunity to travel?
+*   Will we take a vote on this decision?
+*   Will they take my advice?
+*   Will the doctor take my temperature?
+*   Will the plant take root in this soil?
+*   Will the team take home the championship?
+*   Will the project take more time than expected?
+*   Will the store take credit cards?
+
+### Affirmative Contractions.
+
+*   I'll take a nap after lunch.
+*   She'll take the lead on this project.
+*   He'll take the stairs instead of the elevator.
+*   We'll take a look at the report tomorrow.
+*   They'll take a chance on the lottery.
+*   You'll take a liking to this new coffee shop.
+*   It'll take some time to get used to this.
+*   The dog'll take its toy outside.
+*   The baby'll take a bottle before bed.
+*   The company'll take steps to improve its image.
+
+### Negative Contractions.
+
+*   I won't take that personally.
+*   She won't take the blame for it.
+*   He won't take no for an answer.
+*   We won't take this lying down.
+*   They won't take our offer.
+*   You won't take the easy way out, will you?
+*   It won't take long to finish.
+*   The car won't take any more gas.
+*   The plant won't take much sunlight.
+*   The store won't take checks anymore.
+
+### Questions Contractions.
+
+*   Won't you take a seat?
+*   Won't she take my advice?
+*   Won't he take the day off?
+*   Won't we take a break soon?
+*   Won't they take the bus with us?
+*   Won't it take too long to get there?
+*   Won't the dog take a walk now?
+*   Won't the baby take a nap?
+*   Won't the store take a discount?
+*   Won't the car take a long time to repair?
+
+### Wh- Questions.
+
+*   What will you take to the party?
+*   When will she take her vacation?
+*   Where will he take the trash out?
+*   Why will we take this route?
+*   How will they take the news?
+*   Which class will you take next semester?
+*   Who will take the lead on this project?
+*   Whose car will you take to the airport?
+*   How much time will it take to finish?
+*   What kind of pet will they take home?
+
+### Identity and Personal Introduction.
+
+*   I will take "Smith" as my last name.
+*   She will take pride in being a doctor.
+*   He will take the role of team leader.
+*   We will take our identities very seriously.
+*   They will take the opportunity to introduce themselves.
+*   You will take my word for it.
+*   The company will take a new name next year.
+*   I will take the name Marie on stage.
+*   She will take the title of CEO.
+*   He will take his responsibilities very seriously.
+
+### Nationality and Origin.
+
+*   I will take a trip to Italy next year.
+*   She will take pride in her heritage.
+*   He will take lessons in French.
+*   We will take our inspiration from our ancestors.
+*   They will take advantage of living in this country.
+*   You will take to the local culture quickly.
+*   The food will take inspiration from Mexican cuisine.
+*   I will take a course about history.
+*   She will take the time to know the language.
+*   He will take a new citizenship.
+
+### Profession or Occupation.
+
+*   I will take a job as a teacher.
+*   She will take a promotion at work.
+*   He will take responsibility for the project.
+*   We will take on new clients next month.
+*   They will take their roles seriously.
+*   You will take the lead in the meeting.
+*   The company will take on new employees.
+*   I will take a certification to improve my skills.
+*   She will take the opportunity to study medicine.
+*   He will take advantage of the good payment.
+
+### Physical or Emotional States.
+
+*   I will take a deep breath.
+*   She will take a moment to relax.
+*   He will take care of himself better.
+*   We will take a walk to clear our heads.
+*   They will take time to grieve.
+*   You will take a break to rest your eyes.
+*   The medicine will take effect soon.
+*   I will take this news well.
+*   She will take comfort in her family.
+*   He will take pride in his achievements.
+
+### Age.
+
+*   I will take another year off before college.
+*   She will take her first job at 16.
+*   He will take early retirement at 60.
+*   We will take our grandchildren to the park.
+*   They will take their children to school.
+*   You will take on more responsibilities as you get older.
+*   The baby will take its first steps soon.
+*   I will take my driving license when I turn 18.
+*   She will take dance classes when she is older.
+*   He will take a trip to Europe when he is older.
+
+### Location or Place.
+
+*   I will take a train to Paris.
+*   She will take a walk in the park.
+*   He will take his dog to the beach.
+*   We will take a tour of the museum.
+*   They will take a taxi to the airport.
+*   You will take the bus to downtown.
+*   The company will take its business overseas.
+*   I will take a vacation to Spain.
+*   She will take a picture of the lake.
+*   He will take a hike on the mountain.
+
+### Physical and Personality Descriptions.
+
+*   I will take after my mother's eyes.
+*   She will take pride in her appearance.
+*   He will take his father's strong build.
+*   We will take care in our actions.
+*   They will take a friendly approach.
+*   You will take a calm and relaxed approach.
+*   The building will take on a new look.
+*   I will take after my mother's kindness.
+*   She will take care of her skin.
+*   He will take advantage of his tall height.
+
+### Permanent Characteristics (General Truths).
+
+*   Water will take the shape of its container.
+*   The sun will take the same path every day.
+*   Trees will take time to grow tall.
+*   Rivers will take the path of least resistance.
+*   The Earth will take 365 days to orbit the Sun.
+*   Stars will take millions of years to burn out.
+*   The moon will take around 28 days to orbit the Earth.
+*   The tides will take place every day.
+*   Plants will take sunlight to grow.
+*   Lakes will take different forms.
+
+### Weather, Time, and Clock.
+
+*   It will take about an hour to get there.
+*   The rain will take a break later today.
+*   The storm will take place tonight.
+*   The sun will take a few minutes to set.
+*   The clock will take some time to fix.
+*   It will take about 5 minutes to reheat the food.
+*   The fog will take until midday to lift.
+*   The storm will take the energy away.
+*   It will take place at 3 PM.
+*   The weather will take a turn for the worse.
+
+### Price, Quantity or Measurement.
+
+*   It will take 5 dollars to buy the item.
+*   It will take two cups of flour for the recipe.
+*   The project will take three weeks to complete.
+*   The dress will take 100 dollars to sew.
+*   It will take two liters of water to fill the container.
+*   The measure will take 10 centimeters.
+*   It will take 5 apples to make the pie.
+*   The repair will take 20 euros.
+*   The new carpet will take 20 square meters.
+*   The new sofa will take 2 meters length.
+
+### Impersonal Expressions.
+
+*   It will take courage to do that.
+*   It will take skill to paint that portrait.
+*   It will take effort to learn a new language.
+*   It will take time to heal.
+*   It will take patience to deal with children.
+*   It will take a miracle for this to work.
+*   It will take a lot of money to build a house.
+*   It will take wisdom to make the right choice.
+*   It will take a long road.
+*   It will take a step further.
+
+### There is / There are constructions.
+
+*   There will take place a meeting next Monday.
+*   There will take a test in the classroom.
+*   There will take a parade in the city.
+*   There will take a change in the policy.
+*   There will take a concert in the park.
+*   There will take a demonstration by the students.
+*   There will take a course on math.
+*   There will take a bus to the museum.
+*   There will take a new route to the beach.
+*   There will take a chance to see the art show.
+
+### Modifiers with Modals.
+
+*   I might take a cooking class.
+*   She should take some rest.
+*   He could take the job if he wanted.
+*   We must take responsibility for our actions.
+*   They can take a break now.
+*   You may take your seat.
+*   I would take a walk if it wasn't raining.
+*   She will have to take a test next week.
+*   He could have taken the train.
+*   We must take care of our planet.
+
+### Idiomatic Expressions and Fixed Phrases.
+
+*   I will take it easy this weekend.
+*   She will take after her mother.
+*   He will take care of the situation.
+*   We will take a look at the proposal.
+*   They will take their time to decide.
+*   You will take my breath away.
+*   I will take a rain check on that.
+*   She will take heart in the support.
+*   He will take the bull by the horns.
+*   We will take it all in.
