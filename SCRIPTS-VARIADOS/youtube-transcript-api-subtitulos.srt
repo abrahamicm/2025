@@ -1,0 +1,612 @@
+0.12 --> 4.72
+Sandwich dice 2025 y así se ve un Hello
+
+2.399 --> 6.68
+War en React y apareció esta imagen tan
+
+4.72 --> 8.559
+bestia. Visual Studio Code, el public,
+
+6.68 --> 11.719
+el source, los componens, la rutas, el
+
+8.559 --> 13.879999999999999
+logo, el main, el CTA, Jason, Ban,
+
+11.719 --> 16.279
+Biome, Gittign Nor, todo está aquí, el
+
+13.88 --> 18.16
+index, el package, el tal y así se ve un
+
+16.279 --> 21.039
+Hello World. Así se ve un Hello War en
+
+18.16 --> 22.6
+en React. A ver, la verdad creo que lo
+
+21.039 --> 23.96
+hice con sarcasmo, eh, porque hay gente
+
+22.6 --> 25.8
+que ya se ha estado enfadando y también
+
+23.96 --> 27.519000000000002
+por esto, pero creo que lo dicen con
+
+25.8 --> 28.92
+sarcasmo porque obviamente esto no es ni
+
+27.519 --> 30.598999999999997
+un Hellow War. Por un lado, no es un
+
+28.92 --> 32.399
+Hell War y por otro lado tampoco es de
+
+30.599 --> 35.079
+React porque si no me equivoco tiene
+
+32.399 --> 36.52
+pinta de ser de React Router, si no me
+
+35.079 --> 38.12
+equivoco. A lo mejor me equivoco, pero
+
+36.52 --> 39.68000000000001
+parece que es Real Router y por eso ya
+
+38.12 --> 41.519999999999996
+tienes componentes, rutas y tal. De
+
+39.68 --> 43.8
+hecho, ya lo sabemos todos. Puedes hacer
+
+41.52 --> 45.399
+react un index. hhthtml y ya está, ¿no?
+
+43.8 --> 47.959999999999994
+Pero bueno, mucha gente o se la ha
+
+45.399 --> 49.6
+tomado en serio o se ha [ __ ] ¿eh?
+
+47.96 --> 51.36
+Ah, mira, estás usando stack, lo cual
+
+49.6 --> 52.64
+añade más boiler plate. Más boiler
+
+51.36 --> 54.239
+plate. Bueno, que tampoco está mal este,
+
+52.64 --> 55.84
+¿eh? Tampoco está mal aquí con bit
+
+54.239 --> 57.239
+también. Aquí veo muchos archivos, tío.
+
+55.84 --> 58.68000000000001
+También veo muchos archivos. dice,
+
+57.239 --> 60.279999999999994
+"Aunque para ser honesto, solo tres son
+
+58.68 --> 62.28
+del router." Bueno, pero la carpeta
+
+60.28 --> 63.76
+roots también es del router, ¿no? O sea,
+
+62.28 --> 65.56
+a ver, a ver, a ver. Hay cosas raras.
+
+63.76 --> 67.24
+Hay cosas raras. HTML Mac es más que
+
+65.56 --> 68.84
+suficiente muchas veces. Deploy en Nelly
+
+67.24 --> 69.759
+F con un dominio barato de por B y se va
+
+68.84 --> 72.56
+a
+
+69.759 --> 73.88
+producción. A ver, hay una iniciativa,
+
+72.56 --> 75.56
+no sé si la habéis visto, que me hace
+
+73.88 --> 78.119
+mucha gracia, que se llama esta
+
+75.56 --> 81.2
+Justucking Use. HTML, que además la la
+
+78.119 --> 85.119
+han traducido ya al argentino por parte
+
+81.2 --> 87.68
+de de Maximiliano Firman. Us HTML, la
+
+85.119 --> 89.52
+concha de tu madre. Escúchame, [ __ ]
+
+87.68 --> 91.64
+¿Sabes qué es lo que carga más rápido
+
+89.52 --> 95.759
+que tu engendro sobrecargado y lleno de
+
+91.64 --> 98.6
+giladas? HTML pelado, así como viene. ¿Y
+
+95.759 --> 101.36
+sabes qué es lo que nos rompe todos los
+
+98.6 --> 103.79899999999999
+[ __ ] martes? El HTML, el que
+
+101.36 --> 106.799
+simplemente funciona. ¿Para qué [ __ ]
+
+103.799 --> 108.47900000000001
+la complicá y la rompés las pelotas a
+
+106.799 --> 109.52000000000001
+todo el mundo? Bueno, está super bien.
+
+108.479 --> 112.119
+Te aviso,
+
+109.52 --> 113.79899999999999
+Salame. La web andaba bárbaro antes que
+
+112.119 --> 116.719
+tus frameworks inflados salieran de la
+
+113.799 --> 118.159
+cloaca. Te gastas 10 lucas verdes en el
+
+116.719 --> 120.079
+framewor de moda como si fuera una
+
+118.159 --> 121.88000000000001
+cartera Gucci para llevar dentro la
+
+120.079 --> 124.88
+misma [ __ ] que podrían meter en una
+
+121.88 --> 127.399
+bolsa del chino del 95. ¿Y por qué
+
+124.88 --> 130.16
+[ __ ] te haces tanto lío si HTML está
+
+127.399 --> 132.4
+listo desde que existe internet y así te
+
+130.16 --> 134.879
+haces llamar desarrollador web patético,
+
+132.4 --> 137.36
+hermano. [ __ ] no veas cómo está. No
+
+134.879 --> 139.04
+nos quemes, no nos quemes. Me estás
+
+137.36 --> 141.04000000000002
+jodiendo. ¿Sabes mostrar un botón en
+
+139.04 --> 142.92
+pantalla sin todo el circo moderno que
+
+141.04 --> 145.519
+necesitas para sentirte importante?
+
+142.92 --> 147.319
+Mirá, [ __ ] Acá tenés tu botón. Botón
+
+145.519 --> 150.239
+de la concha de la
+
+147.319 --> 151.83999999999997
+lora. Ay, qué bueno. Tatúatelo en la
+
+150.239 --> 154.56
+frente. Así te acordas cuando te miras
+
+151.84 --> 158.56
+la cola, la cara de boludo en el
+
+154.56 --> 160.599
+espejo. Y mira, lo pone aquí al revés.
+
+158.56 --> 162.599
+Te diste cuenta, campeona. HTML es el
+
+160.599 --> 166.2
+[ __ ] conejo de Duracel de la web. Sigue
+
+162.599 --> 168.44
+y sigue. Ay, dice, mira, toma de banana
+
+166.2 --> 170.44
+pixelado. ¿Por qué fachero? Se ve, se
+
+168.44 --> 172.56
+puede cliquear. Es simplemente hermoso,
+
+170.44 --> 174.35999999999999
+loco. Ahora que existe la IA, seguís
+
+172.56 --> 176.599
+usando framework de JavaScript. Me está
+
+174.36 --> 178.59900000000002
+jodiendo. La IA está ahí, la mandó el
+
+176.599 --> 180.64
+Diego del cielo o mínimo llegó desde el
+
+178.599 --> 183.64
+búnker Nerd de Alman, lista para
+
+180.64 --> 185.64
+escribirte esa pedorra en 5 segundos.
+
+183.64 --> 187.44
+Bueno, porque HTML la rompe, todo el
+
+185.64 --> 190.319
+mundo sabe HTML, ni un [ __ ] error de
+
+187.44 --> 193.07999999999998
+hidratación. Tomá agua,
+
+190.319 --> 195.92
+[ __ ] Error de hidratación. ¿Qué
+
+193.08 --> 199.59900000000002
+carajos es eso? Suena excusa de barista
+
+195.92 --> 201.64
+hipster palermitano de Palermo porque tu
+
+199.599 --> 204.28
+late de avena está seco. Uy, maestro, tu
+
+201.64 --> 206.92
+café tiene un error de hidratación. Anda
+
+204.28 --> 208.519
+a [ __ ] Tre shaking. ¿Qué es esto? La
+
+206.92 --> 211.28
+maderera de la esquina. Basta de
+
+208.519 --> 213.68
+inventar boludeces. La [ __ ] madre. HTML
+
+211.28 --> 216.08
+no haces agiladas, solo anda. No
+
+213.68 --> 217.87900000000002
+necesitas soportar HTML. ¿Viste a
+
+216.08 --> 220.56
+alguien contrató un equipo para mantener
+
+217.879 --> 223.72
+HTML? No, nadie, maestro. HTML es tan
+
+220.56 --> 225.04
+confiable que ni necesita soporte.
+
+223.72 --> 226.68
+Mientras tus frameworks inflado se
+
+225.04 --> 229.07999999999998
+quejan con cada update o lloran por
+
+226.68 --> 231.43900000000002
+parches, HTML se rasca y labura sin
+
+229.08 --> 233.28
+chistar. Si te quieren vender soporte
+
+231.439 --> 235.159
+premium de HTML, mándalos a [ __ ]
+
+233.28 --> 237.04
+Encima ni traducir Framework Podés. ¿Qué
+
+235.159 --> 240.79899999999998
+es un marco de trabajo? Anda la [ __ ] que
+
+237.04 --> 242.84
+te parió. No necesitas depar HTML. No
+
+240.799 --> 245.4
+necesitas una UI con brillos en el [ __ ]
+
+242.84 --> 247.28
+para que quede bien. Usa HTML, loco.
+
+245.4 --> 249.12
+Negrita, listo. Subrayado. Lo tienes
+
+247.28 --> 250.879
+tachado porque es una [ __ ] Resaltado
+
+249.12 --> 252.84
+en itálica. Está ahí, está ahí. Y la
+
+250.879 --> 255.44
+concha de la lora sigue ahí de nuevo.
+
+252.84 --> 258.04
+Bueno, aquí tenéis todos los todas las
+
+255.44 --> 259.919
+etiquetas. Aquí diálogos y mira, abrilo,
+
+258.04 --> 263.0
+cobarde. Ni sabías que HTMLia podía
+
+259.919 --> 265.08
+esto, ¿no? A comerla. Abrí el diálogo de
+
+263.0 --> 267.72
+una vez. Hola, desagradecido. Ciérrame
+
+265.08 --> 269.84
+todo, papito. Formularios que andan
+
+267.72 --> 272.08000000000004
+hasta en el Casio de tu
+
+269.84 --> 273.75899999999996
+vieja. Bueno, bueno, está muy bien.
+
+272.08 --> 276.56
+Además está divertido porque hay
+
+273.759 --> 280.40000000000003
+traducciones también de Colombia, México
+
+276.56 --> 282.56
+y Venezuela. Eh, usa HTML, perro ju
+
+280.4 --> 284.919
+malparido. Sabe que es lo que carga más
+
+282.56 --> 287.199
+rápido que su huevonato sobrecargada y
+
+284.919 --> 289.28
+llena de maricadas. Y también tenéis
+
+287.199 --> 291.56
+aquí el de México. Solo utiliza HTML
+
+289.28 --> 293.19899999999996
+Chinago. Oye, chaquetín, ¿sabes que
+
+291.56 --> 296.12
+carga más rápido que tu [ __ ] de
+
+293.199 --> 298.44
+framework? HTML puro sin chingaderas. Y
+
+296.12 --> 301.479
+sabes que no se rompe cada martes HTML,
+
+298.44 --> 303.24
+que simplemente funciona. Aquí lo que le
+
+301.479 --> 305.199
+le veo a este de Colombia que falta un
+
+303.24 --> 307.16
+poco de gonorrea, hijo de [ __ ]
+
+305.199 --> 310.28000000000003
+malparido. Y aquí tenemos el de
+
+307.16 --> 312.12
+Venezuela. Usa HTML, [ __ ] de tu madre.
+
+310.28 --> 313.67999999999995
+Épale, piaso [ __ ] ¿Sabes que carga
+
+312.12 --> 316.84000000000003
+más rápido que tu [ __ ] sobrecargada y
+
+313.68 --> 319.919
+llena de [ __ ] inútiles? Madre mía, me
+
+316.84 --> 321.84
+encanta, me encanta, me encanta. Pues
+
+319.919 --> 323.52
+ahí lo tenéis, ¿eh? Si sois de algún
+
+321.84 --> 325.75899999999996
+país y queréis meterlo, pues que sepáis
+
+323.52 --> 327.44
+que todavía podéis añadir, ¿eh? están
+
+325.759 --> 329.72
+buscando más traducciones. Le encantan
+
+327.44 --> 331.56
+las traducciones y la verdad este tipo
+
+329.72 --> 333.44000000000005
+de cosas, quieras o no, algo de razón
+
+331.56 --> 335.52
+hay. Algo de razón hay, ¿eh? Algo de
+
+333.44 --> 338.0
+razón hay. Esto de solo hace utiliza
+
+335.52 --> 340.59999999999997
+HTML y ya está. De hecho, hay una cosa
+
+338.0 --> 343.199
+que que me que a mí me sorprende mucho y
+
+340.6 --> 344.639
+el otro día hablé de esto y a mí encima
+
+343.199 --> 346.28000000000003
+una cosa que no entiendo, a ver si lo
+
+344.639 --> 348.68
+encuentro porque ya venía el otro
+
+346.28 --> 350.31899999999996
+pesado, siempre está atento. Ah, este,
+
+348.68 --> 351.8
+este, este lo que puse. Tengo que hacer
+
+350.319 --> 353.24
+una landing page estática. Voy a
+
+351.8 --> 354.96000000000004
+instalar Ria, Angular Viw, usar
+
+353.24 --> 358.639
+microfrontes, microservicios y en PM
+
+354.96 --> 360.96
+Store 15 dependencias más. Vale, esto,
+
+358.639 --> 362.759
+esto de aquí. Y ya me viene mi compa el
+
+360.96 --> 364.88
+Midu. La madre que parió Héctor. Héctor
+
+362.759 --> 366.91900000000004
+siempre está ahí metiéndome baza, ¿eh?
+
+364.88 --> 368.8
+Siempre está. Ay, perdóname, Héctor. No,
+
+366.919 --> 370.56
+vamos a usar Blazor, si te parece.
+
+368.8 --> 372.96000000000004
+Blazor para hacer tu landing page. Vamos
+
+370.56 --> 374.639
+a utilizar Blzor con web assembly. Hay
+
+372.96 --> 376.479
+que ver. Y punto net para que no tengas
+
+374.639 --> 379.12
+que tocar JavaScript. Blor para
+
+376.479 --> 381.31899999999996
+descargar un y medio de DL. Si no vamos
+
+379.12 --> 382.919
+a usar SQL, que es un lenguaje de
+
+381.319 --> 384.759
+programación puedes hacer la landing
+
+382.919 --> 386.639
+patch estática con SQL. Solo por no
+
+384.759 --> 389.639
+tocar JavaScript serías capaz de
+
+386.639 --> 392.68
+utilizar SQL para evitarlo. SQL y punto
+
+389.639 --> 394.84000000000003
+net ya está. Blazor, blzor, blzor te voy
+
+392.68 --> 397.28000000000003
+a dar yo a ti que te voy a rapar y todo
+
+394.84 --> 398.67999999999995
+con Blzor. Voy a voy a agarrar el Blazor
+
+397.28 --> 400.31899999999996
+y te voy a rapar esas melenas que
+
+398.68 --> 402.759
+tienes. Ya sabes que es broma. El tema
+
+400.319 --> 404.36
+es que que tiene razón. O sea, estas
+
+402.759 --> 405.96000000000004
+cosas, o sea, esto es innegable. Esto es
+
+404.36 --> 407.639
+innegable. El tema es que yo creo que
+
+405.96 --> 409.599
+muchas veces utilizamos cosas
+
+407.639 --> 411.36
+innecesarias. Creo que se puede utilizar
+
+409.599 --> 413.639
+RAC y tiene mucho sentido aprender RAC.
+
+411.36 --> 415.599
+A mí me encanta RAC, pero React no se
+
+413.639 --> 417.8
+puede utilizar para todo, para cualquier
+
+415.599 --> 420.039
+cosa y es verdad que utiliza, tiene
+
+417.8 --> 422.12
+demasiada complejidad a veces, pero sí
+
+420.039 --> 423.96
+que podéis buscar pues alguna alguna
+
+422.12 --> 426.319
+alguna cosa más intermedia para no tener
+
+423.96 --> 428.75899999999996
+que utilizar pues el el típico framework
+
+426.319 --> 430.8
+de React o de Angular que que de Angular
+
+428.759 --> 432.91900000000004
+también pasa pasa o con Vi o con lo que
+
+430.8 --> 435.199
+sea, ¿no? Mejor jubilarse ya que un LM
+
+432.919 --> 436.71999999999997
+senior lo haga todo por ti. Eso también
+
+435.199 --> 438.91900000000004
+también es verdad que lo haga ya está.
+
+436.72 --> 440.84000000000003
+Eh, todo bromita menos lo derraparlo.
+
+438.919 --> 444.12
+No, hombre, no. Pero si tiene una melena
+
+440.84 --> 444.11999999999995
+hermosa, hermosa.
+

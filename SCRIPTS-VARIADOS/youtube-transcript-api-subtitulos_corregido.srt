@@ -1,0 +1,815 @@
+1
+00:00:00,120 --> 00:00:04,719
+Sandwich dice 2025 y así se ve un Hello
+
+2
+00:00:02,399 --> 00:00:06,679
+War en React y apareció esta imagen tan
+
+3
+00:00:04,719 --> 00:00:08,558
+bestia. Visual Studio Code, el public,
+
+4
+00:00:06,679 --> 00:00:11,718
+el source, los componens, la rutas, el
+
+5
+00:00:08,558 --> 00:00:13,879
+logo, el main, el CTA, Jason, Ban,
+
+6
+00:00:11,718 --> 00:00:16,278
+Biome, Gittign Nor, todo está aquí, el
+
+7
+00:00:13,880 --> 00:00:18,160
+index, el package, el tal y así se ve un
+
+8
+00:00:16,278 --> 00:00:21,039
+Hello World. Así se ve un Hello War en
+
+9
+00:00:18,160 --> 00:00:22,600
+en React. A ver, la verdad creo que lo
+
+10
+00:00:21,039 --> 00:00:23,960
+hice con sarcasmo, eh, porque hay gente
+
+11
+00:00:22,600 --> 00:00:25,800
+que ya se ha estado enfadando y también
+
+12
+00:00:23,960 --> 00:00:27,519
+por esto, pero creo que lo dicen con
+
+13
+00:00:25,800 --> 00:00:28,920
+sarcasmo porque obviamente esto no es ni
+
+14
+00:00:27,518 --> 00:00:30,598
+un Hellow War. Por un lado, no es un
+
+15
+00:00:28,920 --> 00:00:32,399
+Hell War y por otro lado tampoco es de
+
+16
+00:00:30,599 --> 00:00:35,079
+React porque si no me equivoco tiene
+
+17
+00:00:32,399 --> 00:00:36,520
+pinta de ser de React Router, si no me
+
+18
+00:00:35,079 --> 00:00:38,119
+equivoco. A lo mejor me equivoco, pero
+
+19
+00:00:36,520 --> 00:00:39,680
+parece que es Real Router y por eso ya
+
+20
+00:00:38,119 --> 00:00:41,519
+tienes componentes, rutas y tal. De
+
+21
+00:00:39,679 --> 00:00:43,799
+hecho, ya lo sabemos todos. Puedes hacer
+
+22
+00:00:41,520 --> 00:00:45,399
+react un index. hhthtml y ya está, ¿no?
+
+23
+00:00:43,799 --> 00:00:47,959
+Pero bueno, mucha gente o se la ha
+
+24
+00:00:45,399 --> 00:00:49,600
+tomado en serio o se ha [ __ ] ¿eh?
+
+25
+00:00:47,960 --> 00:00:51,359
+Ah, mira, estás usando stack, lo cual
+
+26
+00:00:49,600 --> 00:00:52,640
+añade más boiler plate. Más boiler
+
+27
+00:00:51,359 --> 00:00:54,238
+plate. Bueno, que tampoco está mal este,
+
+28
+00:00:52,640 --> 00:00:55,840
+¿eh? Tampoco está mal aquí con bit
+
+29
+00:00:54,238 --> 00:00:57,238
+también. Aquí veo muchos archivos, tío.
+
+30
+00:00:55,840 --> 00:00:58,680
+También veo muchos archivos. dice,
+
+31
+00:00:57,238 --> 00:01:00,279
+"Aunque para ser honesto, solo tres son
+
+32
+00:00:58,679 --> 00:01:02,280
+del router." Bueno, pero la carpeta
+
+33
+00:01:00,280 --> 00:01:03,759
+roots también es del router, ¿no? O sea,
+
+34
+00:01:02,280 --> 00:01:05,560
+a ver, a ver, a ver. Hay cosas raras.
+
+35
+00:01:03,759 --> 00:01:07,239
+Hay cosas raras. HTML Mac es más que
+
+36
+00:01:05,560 --> 00:01:08,840
+suficiente muchas veces. Deploy en Nelly
+
+37
+00:01:07,239 --> 00:01:09,759
+F con un dominio barato de por B y se va
+
+38
+00:01:08,840 --> 00:01:12,560
+a
+
+39
+00:01:09,759 --> 00:01:13,879
+producción. A ver, hay una iniciativa,
+
+40
+00:01:12,560 --> 00:01:15,560
+no sé si la habéis visto, que me hace
+
+41
+00:01:13,879 --> 00:01:18,118
+mucha gracia, que se llama esta
+
+42
+00:01:15,560 --> 00:01:21,200
+Justucking Use. HTML, que además la la
+
+43
+00:01:18,118 --> 00:01:25,118
+han traducido ya al argentino por parte
+
+44
+00:01:21,200 --> 00:01:27,680
+de de Maximiliano Firman. Us HTML, la
+
+45
+00:01:25,118 --> 00:01:29,519
+concha de tu madre. Escúchame, [ __ ]
+
+46
+00:01:27,680 --> 00:01:31,640
+¿Sabes qué es lo que carga más rápido
+
+47
+00:01:29,519 --> 00:01:35,759
+que tu engendro sobrecargado y lleno de
+
+48
+00:01:31,640 --> 00:01:38,599
+giladas? HTML pelado, así como viene. ¿Y
+
+49
+00:01:35,759 --> 00:01:41,359
+sabes qué es lo que nos rompe todos los
+
+50
+00:01:38,599 --> 00:01:43,798
+[ __ ] martes? El HTML, el que
+
+51
+00:01:41,359 --> 00:01:46,799
+simplemente funciona. ¿Para qué [ __ ]
+
+52
+00:01:43,799 --> 00:01:48,479
+la complicá y la rompés las pelotas a
+
+53
+00:01:46,799 --> 00:01:49,520
+todo el mundo? Bueno, está super bien.
+
+54
+00:01:48,478 --> 00:01:52,118
+Te aviso,
+
+55
+00:01:49,519 --> 00:01:53,798
+Salame. La web andaba bárbaro antes que
+
+56
+00:01:52,118 --> 00:01:56,718
+tus frameworks inflados salieran de la
+
+57
+00:01:53,799 --> 00:01:58,159
+cloaca. Te gastas 10 lucas verdes en el
+
+58
+00:01:56,718 --> 00:02:00,078
+framewor de moda como si fuera una
+
+59
+00:01:58,159 --> 00:02:01,880
+cartera Gucci para llevar dentro la
+
+60
+00:02:00,078 --> 00:02:04,879
+misma [ __ ] que podrían meter en una
+
+61
+00:02:01,879 --> 00:02:07,399
+bolsa del chino del 95. ¿Y por qué
+
+62
+00:02:04,879 --> 00:02:10,159
+[ __ ] te haces tanto lío si HTML está
+
+63
+00:02:07,399 --> 00:02:12,400
+listo desde que existe internet y así te
+
+64
+00:02:10,159 --> 00:02:14,878
+haces llamar desarrollador web patético,
+
+65
+00:02:12,400 --> 00:02:17,360
+hermano. [ __ ] no veas cómo está. No
+
+66
+00:02:14,878 --> 00:02:19,039
+nos quemes, no nos quemes. Me estás
+
+67
+00:02:17,360 --> 00:02:21,040
+jodiendo. ¿Sabes mostrar un botón en
+
+68
+00:02:19,039 --> 00:02:22,919
+pantalla sin todo el circo moderno que
+
+69
+00:02:21,039 --> 00:02:25,519
+necesitas para sentirte importante?
+
+70
+00:02:22,919 --> 00:02:27,318
+Mirá, [ __ ] Acá tenés tu botón. Botón
+
+71
+00:02:25,519 --> 00:02:30,239
+de la concha de la
+
+72
+00:02:27,318 --> 00:02:31,839
+lora. Ay, qué bueno. Tatúatelo en la
+
+73
+00:02:30,239 --> 00:02:34,560
+frente. Así te acordas cuando te miras
+
+74
+00:02:31,840 --> 00:02:38,560
+la cola, la cara de boludo en el
+
+75
+00:02:34,560 --> 00:02:40,598
+espejo. Y mira, lo pone aquí al revés.
+
+76
+00:02:38,560 --> 00:02:42,598
+Te diste cuenta, campeona. HTML es el
+
+77
+00:02:40,598 --> 00:02:46,199
+[ __ ] conejo de Duracel de la web. Sigue
+
+78
+00:02:42,598 --> 00:02:48,439
+y sigue. Ay, dice, mira, toma de banana
+
+79
+00:02:46,199 --> 00:02:50,439
+pixelado. ¿Por qué fachero? Se ve, se
+
+80
+00:02:48,439 --> 00:02:52,560
+puede cliquear. Es simplemente hermoso,
+
+81
+00:02:50,439 --> 00:02:54,359
+loco. Ahora que existe la IA, seguís
+
+82
+00:02:52,560 --> 00:02:56,598
+usando framework de JavaScript. Me está
+
+83
+00:02:54,360 --> 00:02:58,599
+jodiendo. La IA está ahí, la mandó el
+
+84
+00:02:56,598 --> 00:03:00,639
+Diego del cielo o mínimo llegó desde el
+
+85
+00:02:58,598 --> 00:03:03,639
+búnker Nerd de Alman, lista para
+
+86
+00:03:00,639 --> 00:03:05,639
+escribirte esa pedorra en 5 segundos.
+
+87
+00:03:03,639 --> 00:03:07,439
+Bueno, porque HTML la rompe, todo el
+
+88
+00:03:05,639 --> 00:03:10,318
+mundo sabe HTML, ni un [ __ ] error de
+
+89
+00:03:07,439 --> 00:03:13,079
+hidratación. Tomá agua,
+
+90
+00:03:10,318 --> 00:03:15,919
+[ __ ] Error de hidratación. ¿Qué
+
+91
+00:03:13,080 --> 00:03:19,599
+carajos es eso? Suena excusa de barista
+
+92
+00:03:15,919 --> 00:03:21,639
+hipster palermitano de Palermo porque tu
+
+93
+00:03:19,598 --> 00:03:24,280
+late de avena está seco. Uy, maestro, tu
+
+94
+00:03:21,639 --> 00:03:26,919
+café tiene un error de hidratación. Anda
+
+95
+00:03:24,280 --> 00:03:28,519
+a [ __ ] Tre shaking. ¿Qué es esto? La
+
+96
+00:03:26,919 --> 00:03:31,280
+maderera de la esquina. Basta de
+
+97
+00:03:28,519 --> 00:03:33,680
+inventar boludeces. La [ __ ] madre. HTML
+
+98
+00:03:31,280 --> 00:03:36,080
+no haces agiladas, solo anda. No
+
+99
+00:03:33,680 --> 00:03:37,879
+necesitas soportar HTML. ¿Viste a
+
+100
+00:03:36,080 --> 00:03:40,560
+alguien contrató un equipo para mantener
+
+101
+00:03:37,878 --> 00:03:43,719
+HTML? No, nadie, maestro. HTML es tan
+
+102
+00:03:40,560 --> 00:03:45,039
+confiable que ni necesita soporte.
+
+103
+00:03:43,719 --> 00:03:46,680
+Mientras tus frameworks inflado se
+
+104
+00:03:45,039 --> 00:03:49,079
+quejan con cada update o lloran por
+
+105
+00:03:46,680 --> 00:03:51,439
+parches, HTML se rasca y labura sin
+
+106
+00:03:49,080 --> 00:03:53,280
+chistar. Si te quieren vender soporte
+
+107
+00:03:51,438 --> 00:03:55,158
+premium de HTML, mándalos a [ __ ]
+
+108
+00:03:53,280 --> 00:03:57,039
+Encima ni traducir Framework Podés. ¿Qué
+
+109
+00:03:55,158 --> 00:04:00,798
+es un marco de trabajo? Anda la [ __ ] que
+
+110
+00:03:57,039 --> 00:04:02,840
+te parió. No necesitas depar HTML. No
+
+111
+00:04:00,799 --> 00:04:05,400
+necesitas una UI con brillos en el [ __ ]
+
+112
+00:04:02,840 --> 00:04:07,280
+para que quede bien. Usa HTML, loco.
+
+113
+00:04:05,400 --> 00:04:09,120
+Negrita, listo. Subrayado. Lo tienes
+
+114
+00:04:07,280 --> 00:04:10,878
+tachado porque es una [ __ ] Resaltado
+
+115
+00:04:09,120 --> 00:04:12,840
+en itálica. Está ahí, está ahí. Y la
+
+116
+00:04:10,878 --> 00:04:15,439
+concha de la lora sigue ahí de nuevo.
+
+117
+00:04:12,840 --> 00:04:18,040
+Bueno, aquí tenéis todos los todas las
+
+118
+00:04:15,439 --> 00:04:19,918
+etiquetas. Aquí diálogos y mira, abrilo,
+
+119
+00:04:18,040 --> 00:04:23,000
+cobarde. Ni sabías que HTMLia podía
+
+120
+00:04:19,918 --> 00:04:25,079
+esto, ¿no? A comerla. Abrí el diálogo de
+
+121
+00:04:23,000 --> 00:04:27,720
+una vez. Hola, desagradecido. Ciérrame
+
+122
+00:04:25,079 --> 00:04:29,839
+todo, papito. Formularios que andan
+
+123
+00:04:27,720 --> 00:04:32,080
+hasta en el Casio de tu
+
+124
+00:04:29,839 --> 00:04:33,758
+vieja. Bueno, bueno, está muy bien.
+
+125
+00:04:32,079 --> 00:04:36,560
+Además está divertido porque hay
+
+126
+00:04:33,759 --> 00:04:40,400
+traducciones también de Colombia, México
+
+127
+00:04:36,560 --> 00:04:42,560
+y Venezuela. Eh, usa HTML, perro ju
+
+128
+00:04:40,399 --> 00:04:44,918
+malparido. Sabe que es lo que carga más
+
+129
+00:04:42,560 --> 00:04:47,199
+rápido que su huevonato sobrecargada y
+
+130
+00:04:44,918 --> 00:04:49,279
+llena de maricadas. Y también tenéis
+
+131
+00:04:47,199 --> 00:04:51,560
+aquí el de México. Solo utiliza HTML
+
+132
+00:04:49,279 --> 00:04:53,198
+Chinago. Oye, chaquetín, ¿sabes que
+
+133
+00:04:51,560 --> 00:04:56,120
+carga más rápido que tu [ __ ] de
+
+134
+00:04:53,199 --> 00:04:58,439
+framework? HTML puro sin chingaderas. Y
+
+135
+00:04:56,120 --> 00:05:01,478
+sabes que no se rompe cada martes HTML,
+
+136
+00:04:58,439 --> 00:05:03,240
+que simplemente funciona. Aquí lo que le
+
+137
+00:05:01,478 --> 00:05:05,199
+le veo a este de Colombia que falta un
+
+138
+00:05:03,240 --> 00:05:07,160
+poco de gonorrea, hijo de [ __ ]
+
+139
+00:05:05,199 --> 00:05:10,280
+malparido. Y aquí tenemos el de
+
+140
+00:05:07,160 --> 00:05:12,120
+Venezuela. Usa HTML, [ __ ] de tu madre.
+
+141
+00:05:10,279 --> 00:05:13,679
+Épale, piaso [ __ ] ¿Sabes que carga
+
+142
+00:05:12,120 --> 00:05:16,840
+más rápido que tu [ __ ] sobrecargada y
+
+143
+00:05:13,680 --> 00:05:19,918
+llena de [ __ ] inútiles? Madre mía, me
+
+144
+00:05:16,839 --> 00:05:21,839
+encanta, me encanta, me encanta. Pues
+
+145
+00:05:19,918 --> 00:05:23,519
+ahí lo tenéis, ¿eh? Si sois de algún
+
+146
+00:05:21,839 --> 00:05:25,758
+país y queréis meterlo, pues que sepáis
+
+147
+00:05:23,519 --> 00:05:27,439
+que todavía podéis añadir, ¿eh? están
+
+148
+00:05:25,759 --> 00:05:29,720
+buscando más traducciones. Le encantan
+
+149
+00:05:27,439 --> 00:05:31,560
+las traducciones y la verdad este tipo
+
+150
+00:05:29,720 --> 00:05:33,440
+de cosas, quieras o no, algo de razón
+
+151
+00:05:31,560 --> 00:05:35,519
+hay. Algo de razón hay, ¿eh? Algo de
+
+152
+00:05:33,439 --> 00:05:38,000
+razón hay. Esto de solo hace utiliza
+
+153
+00:05:35,519 --> 00:05:40,599
+HTML y ya está. De hecho, hay una cosa
+
+154
+00:05:38,000 --> 00:05:43,199
+que que me que a mí me sorprende mucho y
+
+155
+00:05:40,600 --> 00:05:44,639
+el otro día hablé de esto y a mí encima
+
+156
+00:05:43,199 --> 00:05:46,280
+una cosa que no entiendo, a ver si lo
+
+157
+00:05:44,639 --> 00:05:48,680
+encuentro porque ya venía el otro
+
+158
+00:05:46,279 --> 00:05:50,318
+pesado, siempre está atento. Ah, este,
+
+159
+00:05:48,680 --> 00:05:51,800
+este, este lo que puse. Tengo que hacer
+
+160
+00:05:50,319 --> 00:05:53,240
+una landing page estática. Voy a
+
+161
+00:05:51,800 --> 00:05:54,960
+instalar Ria, Angular Viw, usar
+
+162
+00:05:53,240 --> 00:05:58,639
+microfrontes, microservicios y en PM
+
+163
+00:05:54,959 --> 00:06:00,959
+Store 15 dependencias más. Vale, esto,
+
+164
+00:05:58,639 --> 00:06:02,759
+esto de aquí. Y ya me viene mi compa el
+
+165
+00:06:00,959 --> 00:06:04,879
+Midu. La madre que parió Héctor. Héctor
+
+166
+00:06:02,759 --> 00:06:06,919
+siempre está ahí metiéndome baza, ¿eh?
+
+167
+00:06:04,879 --> 00:06:08,800
+Siempre está. Ay, perdóname, Héctor. No,
+
+168
+00:06:06,918 --> 00:06:10,560
+vamos a usar Blazor, si te parece.
+
+169
+00:06:08,800 --> 00:06:12,960
+Blazor para hacer tu landing page. Vamos
+
+170
+00:06:10,560 --> 00:06:14,639
+a utilizar Blzor con web assembly. Hay
+
+171
+00:06:12,959 --> 00:06:16,478
+que ver. Y punto net para que no tengas
+
+172
+00:06:14,639 --> 00:06:19,120
+que tocar JavaScript. Blor para
+
+173
+00:06:16,478 --> 00:06:21,318
+descargar un y medio de DL. Si no vamos
+
+174
+00:06:19,120 --> 00:06:22,918
+a usar SQL, que es un lenguaje de
+
+175
+00:06:21,319 --> 00:06:24,759
+programación puedes hacer la landing
+
+176
+00:06:22,918 --> 00:06:26,639
+patch estática con SQL. Solo por no
+
+177
+00:06:24,759 --> 00:06:29,639
+tocar JavaScript serías capaz de
+
+178
+00:06:26,639 --> 00:06:32,680
+utilizar SQL para evitarlo. SQL y punto
+
+179
+00:06:29,639 --> 00:06:34,840
+net ya está. Blazor, blzor, blzor te voy
+
+180
+00:06:32,680 --> 00:06:37,280
+a dar yo a ti que te voy a rapar y todo
+
+181
+00:06:34,839 --> 00:06:38,679
+con Blzor. Voy a voy a agarrar el Blazor
+
+182
+00:06:37,279 --> 00:06:40,318
+y te voy a rapar esas melenas que
+
+183
+00:06:38,680 --> 00:06:42,759
+tienes. Ya sabes que es broma. El tema
+
+184
+00:06:40,319 --> 00:06:44,360
+es que que tiene razón. O sea, estas
+
+185
+00:06:42,759 --> 00:06:45,960
+cosas, o sea, esto es innegable. Esto es
+
+186
+00:06:44,360 --> 00:06:47,639
+innegable. El tema es que yo creo que
+
+187
+00:06:45,959 --> 00:06:49,598
+muchas veces utilizamos cosas
+
+188
+00:06:47,639 --> 00:06:51,360
+innecesarias. Creo que se puede utilizar
+
+189
+00:06:49,598 --> 00:06:53,639
+RAC y tiene mucho sentido aprender RAC.
+
+190
+00:06:51,360 --> 00:06:55,598
+A mí me encanta RAC, pero React no se
+
+191
+00:06:53,639 --> 00:06:57,800
+puede utilizar para todo, para cualquier
+
+192
+00:06:55,598 --> 00:07:00,038
+cosa y es verdad que utiliza, tiene
+
+193
+00:06:57,800 --> 00:07:02,120
+demasiada complejidad a veces, pero sí
+
+194
+00:07:00,038 --> 00:07:03,959
+que podéis buscar pues alguna alguna
+
+195
+00:07:02,120 --> 00:07:06,319
+alguna cosa más intermedia para no tener
+
+196
+00:07:03,959 --> 00:07:08,758
+que utilizar pues el el típico framework
+
+197
+00:07:06,319 --> 00:07:10,800
+de React o de Angular que que de Angular
+
+198
+00:07:08,759 --> 00:07:12,919
+también pasa pasa o con Vi o con lo que
+
+199
+00:07:10,800 --> 00:07:15,199
+sea, ¿no? Mejor jubilarse ya que un LM
+
+200
+00:07:12,918 --> 00:07:16,719
+senior lo haga todo por ti. Eso también
+
+201
+00:07:15,199 --> 00:07:18,919
+también es verdad que lo haga ya está.
+
+202
+00:07:16,720 --> 00:07:20,840
+Eh, todo bromita menos lo derraparlo.
+
+203
+00:07:18,918 --> 00:07:24,120
+No, hombre, no. Pero si tiene una melena
+
+204
+00:07:20,839 --> 00:07:24,119
+hermosa, hermosa.
